@@ -23,7 +23,9 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
+      - name: bump
+        run: uv version --bump patch
       - name: build
         run: uv build
       - name: publish
-        uses: pypa/gh-action-pypi-publish@release/v1
+        uses: uv publish --token ${{ secrets.PYPI_TOKEN }}
