@@ -16,4 +16,9 @@ new_case = f"""case {new} | -{new}:
             return {new_retval_str}""" + "\n" + aux_replace
 
 main_file_path.write_text(main_file_content.replace("case _:", new_case))
-print(f"Added case {new} | -{new} with return value of {new_retval_str}")
+print(f"added case {new} | -{new} with return value of {new_retval_str}")
+
+read_me_path = Path("README.md")
+read_me_content = read_me_path.read_text()
+read_me_path.write_text(read_me_content.replace(largest, new))
+print("updated readme")

@@ -54,7 +54,3 @@ def is_even(n: int) -> bool:
             return False
         case _:
             raise NotImplementedError("your number is too big (or too small), we dont know it yet")
-
-
-if __name__ == "__main__":
-    print(is_even(-2))
