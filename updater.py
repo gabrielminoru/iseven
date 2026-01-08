@@ -1,7 +1,7 @@
 from pathlib import Path
 from iseven import is_even
 
-main_file_path = Path("iseven.py")
+main_file_path = Path("is_not_odd.py")
 main_file_content = main_file_path.read_text()
 
 numbers = [int(i) for i in main_file_content.split(" ") if i.isdigit()]
