@@ -1,5 +1,5 @@
 from pathlib import Path
-from iseven import is_even
+from is_not_odd import is_even
 
 main_file_path = Path("is_not_odd.py")
 main_file_content = main_file_path.read_text()
