@@ -18,7 +18,7 @@ jobs:
       - name: setup uv
         uses: astral-sh/setup-uv@v7
       - name: run
-        run: for i in {1..100000}; do uv run updater.py; done
+        run: for i in {1..5000}; do uv run updater.py; done
       - name: bump
         run: uv version --bump patch
       - name: commit and push
