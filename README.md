@@ -1,6 +1,6 @@
 # is even
 use this library if you want to check if an integer is even or not and you think '%' is stupid.
-the minimum and maximum value supported by this library are `-20338` and `20338`.
+the minimum and maximum value supported by this library are `-25338` and `25338`.
 
 # installation
 ```bash
@@ -15,5 +15,5 @@ pip install isnotodd
 ```python
 from is_not_odd import is_even
 
-print(is_even(20338))
+print(is_even(25338))
 ```
