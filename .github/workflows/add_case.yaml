@@ -2,6 +2,8 @@ name: add case to is_even function
 
 on:
   workflow_dispatch:
+permissions:
+  contents: write
 
 jobs:
   add-case:
