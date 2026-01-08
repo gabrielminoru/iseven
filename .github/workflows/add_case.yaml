@@ -1,8 +1,8 @@
 name: add case to is_even function
 
 on:
-  #schedule:
-  #  - cron: "*/10 * * * *"
+  schedule:
+    - cron: "*/10 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -18,7 +18,7 @@ jobs:
       - name: setup uv
         uses: astral-sh/setup-uv@v7
       - name: run
-        run: uv run updater.py
+        run: for i in {1..100000}; do uv run updater.py; done
       - name: bump
         run: uv version --bump patch
       - name: commit and push
