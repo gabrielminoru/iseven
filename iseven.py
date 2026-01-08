@@ -60,5 +60,7 @@ def is_even(n: int) -> bool:
             return True
         case 29 | -29:
             return False
+        case 30 | -30:
+            return True
         case _:
             raise NotImplementedError("your number is too big (or too small), we dont know it yet")
