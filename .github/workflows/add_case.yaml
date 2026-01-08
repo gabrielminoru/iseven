@@ -1,0 +1,22 @@
+name: add case to is_even function
+
+on:
+  workflow_dispatch:
+
+jobs:
+  add-case:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: setup uv
+        uses: astral-sh/setup-uv@v7
+      - name: run
+        run: uv run updater.py
+      - name: commit ann push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generated"
+          git push
