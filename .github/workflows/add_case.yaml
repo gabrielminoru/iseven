@@ -16,6 +16,8 @@ jobs:
         uses: astral-sh/setup-uv@v7
       - name: run
         run: uv run updater.py
+      - name: bump
+        run: uv version --bump patch
       - name: commit and push
         run: |
           git config user.name github-actions
@@ -23,8 +25,6 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
-      - name: bump
-        run: uv version --bump patch
       - name: build
         run: uv build
       - name: publish
