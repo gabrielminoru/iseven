@@ -22,3 +22,5 @@ read_me_path = Path("README.md")
 read_me_content = read_me_path.read_text()
 read_me_path.write_text(read_me_content.replace(str(largest), str(new)))
 print("updated readme")
+
+Path("last").write_text(str(new) + "\n")
