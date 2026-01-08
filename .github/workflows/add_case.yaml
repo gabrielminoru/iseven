@@ -28,4 +28,6 @@ jobs:
       - name: build
         run: uv build
       - name: publish
-        uses: uv publish --token ${{ secrets.PYPI_TOKEN }}
+        with:
+          PYPI_TOKEN: ${{ secrets.PYPI_TOKEN }}
+        uses: uv publish --token $PYPI_TOKEN
