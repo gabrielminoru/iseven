@@ -20,5 +20,5 @@ print(f"added case {new} | -{new} with return value of {new_retval_str}")
 
 read_me_path = Path("README.md")
 read_me_content = read_me_path.read_text()
-read_me_path.write_text(read_me_content.replace(largest, new))
+read_me_path.write_text(read_me_content.replace(str(largest), str(new)))
 print("updated readme")

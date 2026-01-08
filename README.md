@@ -1,3 +1,3 @@
 # is even
 use this library if you want to check if an integer is even or not and you think '%' is stupid.
-the minimum and maximum value supported by this library are -26 and 26.
+the minimum and maximum value supported by this library are `-29` and `29`.
