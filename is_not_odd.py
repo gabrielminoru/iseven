@@ -100678,5 +100678,10005 @@ def is_even(n: int) -> bool:
             return False
         case 50338 | -50338:
             return True
+        case 50339 | -50339:
+            return False
+        case 50340 | -50340:
+            return True
+        case 50341 | -50341:
+            return False
+        case 50342 | -50342:
+            return True
+        case 50343 | -50343:
+            return False
+        case 50344 | -50344:
+            return True
+        case 50345 | -50345:
+            return False
+        case 50346 | -50346:
+            return True
+        case 50347 | -50347:
+            return False
+        case 50348 | -50348:
+            return True
+        case 50349 | -50349:
+            return False
+        case 50350 | -50350:
+            return True
+        case 50351 | -50351:
+            return False
+        case 50352 | -50352:
+            return True
+        case 50353 | -50353:
+            return False
+        case 50354 | -50354:
+            return True
+        case 50355 | -50355:
+            return False
+        case 50356 | -50356:
+            return True
+        case 50357 | -50357:
+            return False
+        case 50358 | -50358:
+            return True
+        case 50359 | -50359:
+            return False
+        case 50360 | -50360:
+            return True
+        case 50361 | -50361:
+            return False
+        case 50362 | -50362:
+            return True
+        case 50363 | -50363:
+            return False
+        case 50364 | -50364:
+            return True
+        case 50365 | -50365:
+            return False
+        case 50366 | -50366:
+            return True
+        case 50367 | -50367:
+            return False
+        case 50368 | -50368:
+            return True
+        case 50369 | -50369:
+            return False
+        case 50370 | -50370:
+            return True
+        case 50371 | -50371:
+            return False
+        case 50372 | -50372:
+            return True
+        case 50373 | -50373:
+            return False
+        case 50374 | -50374:
+            return True
+        case 50375 | -50375:
+            return False
+        case 50376 | -50376:
+            return True
+        case 50377 | -50377:
+            return False
+        case 50378 | -50378:
+            return True
+        case 50379 | -50379:
+            return False
+        case 50380 | -50380:
+            return True
+        case 50381 | -50381:
+            return False
+        case 50382 | -50382:
+            return True
+        case 50383 | -50383:
+            return False
+        case 50384 | -50384:
+            return True
+        case 50385 | -50385:
+            return False
+        case 50386 | -50386:
+            return True
+        case 50387 | -50387:
+            return False
+        case 50388 | -50388:
+            return True
+        case 50389 | -50389:
+            return False
+        case 50390 | -50390:
+            return True
+        case 50391 | -50391:
+            return False
+        case 50392 | -50392:
+            return True
+        case 50393 | -50393:
+            return False
+        case 50394 | -50394:
+            return True
+        case 50395 | -50395:
+            return False
+        case 50396 | -50396:
+            return True
+        case 50397 | -50397:
+            return False
+        case 50398 | -50398:
+            return True
+        case 50399 | -50399:
+            return False
+        case 50400 | -50400:
+            return True
+        case 50401 | -50401:
+            return False
+        case 50402 | -50402:
+            return True
+        case 50403 | -50403:
+            return False
+        case 50404 | -50404:
+            return True
+        case 50405 | -50405:
+            return False
+        case 50406 | -50406:
+            return True
+        case 50407 | -50407:
+            return False
+        case 50408 | -50408:
+            return True
+        case 50409 | -50409:
+            return False
+        case 50410 | -50410:
+            return True
+        case 50411 | -50411:
+            return False
+        case 50412 | -50412:
+            return True
+        case 50413 | -50413:
+            return False
+        case 50414 | -50414:
+            return True
+        case 50415 | -50415:
+            return False
+        case 50416 | -50416:
+            return True
+        case 50417 | -50417:
+            return False
+        case 50418 | -50418:
+            return True
+        case 50419 | -50419:
+            return False
+        case 50420 | -50420:
+            return True
+        case 50421 | -50421:
+            return False
+        case 50422 | -50422:
+            return True
+        case 50423 | -50423:
+            return False
+        case 50424 | -50424:
+            return True
+        case 50425 | -50425:
+            return False
+        case 50426 | -50426:
+            return True
+        case 50427 | -50427:
+            return False
+        case 50428 | -50428:
+            return True
+        case 50429 | -50429:
+            return False
+        case 50430 | -50430:
+            return True
+        case 50431 | -50431:
+            return False
+        case 50432 | -50432:
+            return True
+        case 50433 | -50433:
+            return False
+        case 50434 | -50434:
+            return True
+        case 50435 | -50435:
+            return False
+        case 50436 | -50436:
+            return True
+        case 50437 | -50437:
+            return False
+        case 50438 | -50438:
+            return True
+        case 50439 | -50439:
+            return False
+        case 50440 | -50440:
+            return True
+        case 50441 | -50441:
+            return False
+        case 50442 | -50442:
+            return True
+        case 50443 | -50443:
+            return False
+        case 50444 | -50444:
+            return True
+        case 50445 | -50445:
+            return False
+        case 50446 | -50446:
+            return True
+        case 50447 | -50447:
+            return False
+        case 50448 | -50448:
+            return True
+        case 50449 | -50449:
+            return False
+        case 50450 | -50450:
+            return True
+        case 50451 | -50451:
+            return False
+        case 50452 | -50452:
+            return True
+        case 50453 | -50453:
+            return False
+        case 50454 | -50454:
+            return True
+        case 50455 | -50455:
+            return False
+        case 50456 | -50456:
+            return True
+        case 50457 | -50457:
+            return False
+        case 50458 | -50458:
+            return True
+        case 50459 | -50459:
+            return False
+        case 50460 | -50460:
+            return True
+        case 50461 | -50461:
+            return False
+        case 50462 | -50462:
+            return True
+        case 50463 | -50463:
+            return False
+        case 50464 | -50464:
+            return True
+        case 50465 | -50465:
+            return False
+        case 50466 | -50466:
+            return True
+        case 50467 | -50467:
+            return False
+        case 50468 | -50468:
+            return True
+        case 50469 | -50469:
+            return False
+        case 50470 | -50470:
+            return True
+        case 50471 | -50471:
+            return False
+        case 50472 | -50472:
+            return True
+        case 50473 | -50473:
+            return False
+        case 50474 | -50474:
+            return True
+        case 50475 | -50475:
+            return False
+        case 50476 | -50476:
+            return True
+        case 50477 | -50477:
+            return False
+        case 50478 | -50478:
+            return True
+        case 50479 | -50479:
+            return False
+        case 50480 | -50480:
+            return True
+        case 50481 | -50481:
+            return False
+        case 50482 | -50482:
+            return True
+        case 50483 | -50483:
+            return False
+        case 50484 | -50484:
+            return True
+        case 50485 | -50485:
+            return False
+        case 50486 | -50486:
+            return True
+        case 50487 | -50487:
+            return False
+        case 50488 | -50488:
+            return True
+        case 50489 | -50489:
+            return False
+        case 50490 | -50490:
+            return True
+        case 50491 | -50491:
+            return False
+        case 50492 | -50492:
+            return True
+        case 50493 | -50493:
+            return False
+        case 50494 | -50494:
+            return True
+        case 50495 | -50495:
+            return False
+        case 50496 | -50496:
+            return True
+        case 50497 | -50497:
+            return False
+        case 50498 | -50498:
+            return True
+        case 50499 | -50499:
+            return False
+        case 50500 | -50500:
+            return True
+        case 50501 | -50501:
+            return False
+        case 50502 | -50502:
+            return True
+        case 50503 | -50503:
+            return False
+        case 50504 | -50504:
+            return True
+        case 50505 | -50505:
+            return False
+        case 50506 | -50506:
+            return True
+        case 50507 | -50507:
+            return False
+        case 50508 | -50508:
+            return True
+        case 50509 | -50509:
+            return False
+        case 50510 | -50510:
+            return True
+        case 50511 | -50511:
+            return False
+        case 50512 | -50512:
+            return True
+        case 50513 | -50513:
+            return False
+        case 50514 | -50514:
+            return True
+        case 50515 | -50515:
+            return False
+        case 50516 | -50516:
+            return True
+        case 50517 | -50517:
+            return False
+        case 50518 | -50518:
+            return True
+        case 50519 | -50519:
+            return False
+        case 50520 | -50520:
+            return True
+        case 50521 | -50521:
+            return False
+        case 50522 | -50522:
+            return True
+        case 50523 | -50523:
+            return False
+        case 50524 | -50524:
+            return True
+        case 50525 | -50525:
+            return False
+        case 50526 | -50526:
+            return True
+        case 50527 | -50527:
+            return False
+        case 50528 | -50528:
+            return True
+        case 50529 | -50529:
+            return False
+        case 50530 | -50530:
+            return True
+        case 50531 | -50531:
+            return False
+        case 50532 | -50532:
+            return True
+        case 50533 | -50533:
+            return False
+        case 50534 | -50534:
+            return True
+        case 50535 | -50535:
+            return False
+        case 50536 | -50536:
+            return True
+        case 50537 | -50537:
+            return False
+        case 50538 | -50538:
+            return True
+        case 50539 | -50539:
+            return False
+        case 50540 | -50540:
+            return True
+        case 50541 | -50541:
+            return False
+        case 50542 | -50542:
+            return True
+        case 50543 | -50543:
+            return False
+        case 50544 | -50544:
+            return True
+        case 50545 | -50545:
+            return False
+        case 50546 | -50546:
+            return True
+        case 50547 | -50547:
+            return False
+        case 50548 | -50548:
+            return True
+        case 50549 | -50549:
+            return False
+        case 50550 | -50550:
+            return True
+        case 50551 | -50551:
+            return False
+        case 50552 | -50552:
+            return True
+        case 50553 | -50553:
+            return False
+        case 50554 | -50554:
+            return True
+        case 50555 | -50555:
+            return False
+        case 50556 | -50556:
+            return True
+        case 50557 | -50557:
+            return False
+        case 50558 | -50558:
+            return True
+        case 50559 | -50559:
+            return False
+        case 50560 | -50560:
+            return True
+        case 50561 | -50561:
+            return False
+        case 50562 | -50562:
+            return True
+        case 50563 | -50563:
+            return False
+        case 50564 | -50564:
+            return True
+        case 50565 | -50565:
+            return False
+        case 50566 | -50566:
+            return True
+        case 50567 | -50567:
+            return False
+        case 50568 | -50568:
+            return True
+        case 50569 | -50569:
+            return False
+        case 50570 | -50570:
+            return True
+        case 50571 | -50571:
+            return False
+        case 50572 | -50572:
+            return True
+        case 50573 | -50573:
+            return False
+        case 50574 | -50574:
+            return True
+        case 50575 | -50575:
+            return False
+        case 50576 | -50576:
+            return True
+        case 50577 | -50577:
+            return False
+        case 50578 | -50578:
+            return True
+        case 50579 | -50579:
+            return False
+        case 50580 | -50580:
+            return True
+        case 50581 | -50581:
+            return False
+        case 50582 | -50582:
+            return True
+        case 50583 | -50583:
+            return False
+        case 50584 | -50584:
+            return True
+        case 50585 | -50585:
+            return False
+        case 50586 | -50586:
+            return True
+        case 50587 | -50587:
+            return False
+        case 50588 | -50588:
+            return True
+        case 50589 | -50589:
+            return False
+        case 50590 | -50590:
+            return True
+        case 50591 | -50591:
+            return False
+        case 50592 | -50592:
+            return True
+        case 50593 | -50593:
+            return False
+        case 50594 | -50594:
+            return True
+        case 50595 | -50595:
+            return False
+        case 50596 | -50596:
+            return True
+        case 50597 | -50597:
+            return False
+        case 50598 | -50598:
+            return True
+        case 50599 | -50599:
+            return False
+        case 50600 | -50600:
+            return True
+        case 50601 | -50601:
+            return False
+        case 50602 | -50602:
+            return True
+        case 50603 | -50603:
+            return False
+        case 50604 | -50604:
+            return True
+        case 50605 | -50605:
+            return False
+        case 50606 | -50606:
+            return True
+        case 50607 | -50607:
+            return False
+        case 50608 | -50608:
+            return True
+        case 50609 | -50609:
+            return False
+        case 50610 | -50610:
+            return True
+        case 50611 | -50611:
+            return False
+        case 50612 | -50612:
+            return True
+        case 50613 | -50613:
+            return False
+        case 50614 | -50614:
+            return True
+        case 50615 | -50615:
+            return False
+        case 50616 | -50616:
+            return True
+        case 50617 | -50617:
+            return False
+        case 50618 | -50618:
+            return True
+        case 50619 | -50619:
+            return False
+        case 50620 | -50620:
+            return True
+        case 50621 | -50621:
+            return False
+        case 50622 | -50622:
+            return True
+        case 50623 | -50623:
+            return False
+        case 50624 | -50624:
+            return True
+        case 50625 | -50625:
+            return False
+        case 50626 | -50626:
+            return True
+        case 50627 | -50627:
+            return False
+        case 50628 | -50628:
+            return True
+        case 50629 | -50629:
+            return False
+        case 50630 | -50630:
+            return True
+        case 50631 | -50631:
+            return False
+        case 50632 | -50632:
+            return True
+        case 50633 | -50633:
+            return False
+        case 50634 | -50634:
+            return True
+        case 50635 | -50635:
+            return False
+        case 50636 | -50636:
+            return True
+        case 50637 | -50637:
+            return False
+        case 50638 | -50638:
+            return True
+        case 50639 | -50639:
+            return False
+        case 50640 | -50640:
+            return True
+        case 50641 | -50641:
+            return False
+        case 50642 | -50642:
+            return True
+        case 50643 | -50643:
+            return False
+        case 50644 | -50644:
+            return True
+        case 50645 | -50645:
+            return False
+        case 50646 | -50646:
+            return True
+        case 50647 | -50647:
+            return False
+        case 50648 | -50648:
+            return True
+        case 50649 | -50649:
+            return False
+        case 50650 | -50650:
+            return True
+        case 50651 | -50651:
+            return False
+        case 50652 | -50652:
+            return True
+        case 50653 | -50653:
+            return False
+        case 50654 | -50654:
+            return True
+        case 50655 | -50655:
+            return False
+        case 50656 | -50656:
+            return True
+        case 50657 | -50657:
+            return False
+        case 50658 | -50658:
+            return True
+        case 50659 | -50659:
+            return False
+        case 50660 | -50660:
+            return True
+        case 50661 | -50661:
+            return False
+        case 50662 | -50662:
+            return True
+        case 50663 | -50663:
+            return False
+        case 50664 | -50664:
+            return True
+        case 50665 | -50665:
+            return False
+        case 50666 | -50666:
+            return True
+        case 50667 | -50667:
+            return False
+        case 50668 | -50668:
+            return True
+        case 50669 | -50669:
+            return False
+        case 50670 | -50670:
+            return True
+        case 50671 | -50671:
+            return False
+        case 50672 | -50672:
+            return True
+        case 50673 | -50673:
+            return False
+        case 50674 | -50674:
+            return True
+        case 50675 | -50675:
+            return False
+        case 50676 | -50676:
+            return True
+        case 50677 | -50677:
+            return False
+        case 50678 | -50678:
+            return True
+        case 50679 | -50679:
+            return False
+        case 50680 | -50680:
+            return True
+        case 50681 | -50681:
+            return False
+        case 50682 | -50682:
+            return True
+        case 50683 | -50683:
+            return False
+        case 50684 | -50684:
+            return True
+        case 50685 | -50685:
+            return False
+        case 50686 | -50686:
+            return True
+        case 50687 | -50687:
+            return False
+        case 50688 | -50688:
+            return True
+        case 50689 | -50689:
+            return False
+        case 50690 | -50690:
+            return True
+        case 50691 | -50691:
+            return False
+        case 50692 | -50692:
+            return True
+        case 50693 | -50693:
+            return False
+        case 50694 | -50694:
+            return True
+        case 50695 | -50695:
+            return False
+        case 50696 | -50696:
+            return True
+        case 50697 | -50697:
+            return False
+        case 50698 | -50698:
+            return True
+        case 50699 | -50699:
+            return False
+        case 50700 | -50700:
+            return True
+        case 50701 | -50701:
+            return False
+        case 50702 | -50702:
+            return True
+        case 50703 | -50703:
+            return False
+        case 50704 | -50704:
+            return True
+        case 50705 | -50705:
+            return False
+        case 50706 | -50706:
+            return True
+        case 50707 | -50707:
+            return False
+        case 50708 | -50708:
+            return True
+        case 50709 | -50709:
+            return False
+        case 50710 | -50710:
+            return True
+        case 50711 | -50711:
+            return False
+        case 50712 | -50712:
+            return True
+        case 50713 | -50713:
+            return False
+        case 50714 | -50714:
+            return True
+        case 50715 | -50715:
+            return False
+        case 50716 | -50716:
+            return True
+        case 50717 | -50717:
+            return False
+        case 50718 | -50718:
+            return True
+        case 50719 | -50719:
+            return False
+        case 50720 | -50720:
+            return True
+        case 50721 | -50721:
+            return False
+        case 50722 | -50722:
+            return True
+        case 50723 | -50723:
+            return False
+        case 50724 | -50724:
+            return True
+        case 50725 | -50725:
+            return False
+        case 50726 | -50726:
+            return True
+        case 50727 | -50727:
+            return False
+        case 50728 | -50728:
+            return True
+        case 50729 | -50729:
+            return False
+        case 50730 | -50730:
+            return True
+        case 50731 | -50731:
+            return False
+        case 50732 | -50732:
+            return True
+        case 50733 | -50733:
+            return False
+        case 50734 | -50734:
+            return True
+        case 50735 | -50735:
+            return False
+        case 50736 | -50736:
+            return True
+        case 50737 | -50737:
+            return False
+        case 50738 | -50738:
+            return True
+        case 50739 | -50739:
+            return False
+        case 50740 | -50740:
+            return True
+        case 50741 | -50741:
+            return False
+        case 50742 | -50742:
+            return True
+        case 50743 | -50743:
+            return False
+        case 50744 | -50744:
+            return True
+        case 50745 | -50745:
+            return False
+        case 50746 | -50746:
+            return True
+        case 50747 | -50747:
+            return False
+        case 50748 | -50748:
+            return True
+        case 50749 | -50749:
+            return False
+        case 50750 | -50750:
+            return True
+        case 50751 | -50751:
+            return False
+        case 50752 | -50752:
+            return True
+        case 50753 | -50753:
+            return False
+        case 50754 | -50754:
+            return True
+        case 50755 | -50755:
+            return False
+        case 50756 | -50756:
+            return True
+        case 50757 | -50757:
+            return False
+        case 50758 | -50758:
+            return True
+        case 50759 | -50759:
+            return False
+        case 50760 | -50760:
+            return True
+        case 50761 | -50761:
+            return False
+        case 50762 | -50762:
+            return True
+        case 50763 | -50763:
+            return False
+        case 50764 | -50764:
+            return True
+        case 50765 | -50765:
+            return False
+        case 50766 | -50766:
+            return True
+        case 50767 | -50767:
+            return False
+        case 50768 | -50768:
+            return True
+        case 50769 | -50769:
+            return False
+        case 50770 | -50770:
+            return True
+        case 50771 | -50771:
+            return False
+        case 50772 | -50772:
+            return True
+        case 50773 | -50773:
+            return False
+        case 50774 | -50774:
+            return True
+        case 50775 | -50775:
+            return False
+        case 50776 | -50776:
+            return True
+        case 50777 | -50777:
+            return False
+        case 50778 | -50778:
+            return True
+        case 50779 | -50779:
+            return False
+        case 50780 | -50780:
+            return True
+        case 50781 | -50781:
+            return False
+        case 50782 | -50782:
+            return True
+        case 50783 | -50783:
+            return False
+        case 50784 | -50784:
+            return True
+        case 50785 | -50785:
+            return False
+        case 50786 | -50786:
+            return True
+        case 50787 | -50787:
+            return False
+        case 50788 | -50788:
+            return True
+        case 50789 | -50789:
+            return False
+        case 50790 | -50790:
+            return True
+        case 50791 | -50791:
+            return False
+        case 50792 | -50792:
+            return True
+        case 50793 | -50793:
+            return False
+        case 50794 | -50794:
+            return True
+        case 50795 | -50795:
+            return False
+        case 50796 | -50796:
+            return True
+        case 50797 | -50797:
+            return False
+        case 50798 | -50798:
+            return True
+        case 50799 | -50799:
+            return False
+        case 50800 | -50800:
+            return True
+        case 50801 | -50801:
+            return False
+        case 50802 | -50802:
+            return True
+        case 50803 | -50803:
+            return False
+        case 50804 | -50804:
+            return True
+        case 50805 | -50805:
+            return False
+        case 50806 | -50806:
+            return True
+        case 50807 | -50807:
+            return False
+        case 50808 | -50808:
+            return True
+        case 50809 | -50809:
+            return False
+        case 50810 | -50810:
+            return True
+        case 50811 | -50811:
+            return False
+        case 50812 | -50812:
+            return True
+        case 50813 | -50813:
+            return False
+        case 50814 | -50814:
+            return True
+        case 50815 | -50815:
+            return False
+        case 50816 | -50816:
+            return True
+        case 50817 | -50817:
+            return False
+        case 50818 | -50818:
+            return True
+        case 50819 | -50819:
+            return False
+        case 50820 | -50820:
+            return True
+        case 50821 | -50821:
+            return False
+        case 50822 | -50822:
+            return True
+        case 50823 | -50823:
+            return False
+        case 50824 | -50824:
+            return True
+        case 50825 | -50825:
+            return False
+        case 50826 | -50826:
+            return True
+        case 50827 | -50827:
+            return False
+        case 50828 | -50828:
+            return True
+        case 50829 | -50829:
+            return False
+        case 50830 | -50830:
+            return True
+        case 50831 | -50831:
+            return False
+        case 50832 | -50832:
+            return True
+        case 50833 | -50833:
+            return False
+        case 50834 | -50834:
+            return True
+        case 50835 | -50835:
+            return False
+        case 50836 | -50836:
+            return True
+        case 50837 | -50837:
+            return False
+        case 50838 | -50838:
+            return True
+        case 50839 | -50839:
+            return False
+        case 50840 | -50840:
+            return True
+        case 50841 | -50841:
+            return False
+        case 50842 | -50842:
+            return True
+        case 50843 | -50843:
+            return False
+        case 50844 | -50844:
+            return True
+        case 50845 | -50845:
+            return False
+        case 50846 | -50846:
+            return True
+        case 50847 | -50847:
+            return False
+        case 50848 | -50848:
+            return True
+        case 50849 | -50849:
+            return False
+        case 50850 | -50850:
+            return True
+        case 50851 | -50851:
+            return False
+        case 50852 | -50852:
+            return True
+        case 50853 | -50853:
+            return False
+        case 50854 | -50854:
+            return True
+        case 50855 | -50855:
+            return False
+        case 50856 | -50856:
+            return True
+        case 50857 | -50857:
+            return False
+        case 50858 | -50858:
+            return True
+        case 50859 | -50859:
+            return False
+        case 50860 | -50860:
+            return True
+        case 50861 | -50861:
+            return False
+        case 50862 | -50862:
+            return True
+        case 50863 | -50863:
+            return False
+        case 50864 | -50864:
+            return True
+        case 50865 | -50865:
+            return False
+        case 50866 | -50866:
+            return True
+        case 50867 | -50867:
+            return False
+        case 50868 | -50868:
+            return True
+        case 50869 | -50869:
+            return False
+        case 50870 | -50870:
+            return True
+        case 50871 | -50871:
+            return False
+        case 50872 | -50872:
+            return True
+        case 50873 | -50873:
+            return False
+        case 50874 | -50874:
+            return True
+        case 50875 | -50875:
+            return False
+        case 50876 | -50876:
+            return True
+        case 50877 | -50877:
+            return False
+        case 50878 | -50878:
+            return True
+        case 50879 | -50879:
+            return False
+        case 50880 | -50880:
+            return True
+        case 50881 | -50881:
+            return False
+        case 50882 | -50882:
+            return True
+        case 50883 | -50883:
+            return False
+        case 50884 | -50884:
+            return True
+        case 50885 | -50885:
+            return False
+        case 50886 | -50886:
+            return True
+        case 50887 | -50887:
+            return False
+        case 50888 | -50888:
+            return True
+        case 50889 | -50889:
+            return False
+        case 50890 | -50890:
+            return True
+        case 50891 | -50891:
+            return False
+        case 50892 | -50892:
+            return True
+        case 50893 | -50893:
+            return False
+        case 50894 | -50894:
+            return True
+        case 50895 | -50895:
+            return False
+        case 50896 | -50896:
+            return True
+        case 50897 | -50897:
+            return False
+        case 50898 | -50898:
+            return True
+        case 50899 | -50899:
+            return False
+        case 50900 | -50900:
+            return True
+        case 50901 | -50901:
+            return False
+        case 50902 | -50902:
+            return True
+        case 50903 | -50903:
+            return False
+        case 50904 | -50904:
+            return True
+        case 50905 | -50905:
+            return False
+        case 50906 | -50906:
+            return True
+        case 50907 | -50907:
+            return False
+        case 50908 | -50908:
+            return True
+        case 50909 | -50909:
+            return False
+        case 50910 | -50910:
+            return True
+        case 50911 | -50911:
+            return False
+        case 50912 | -50912:
+            return True
+        case 50913 | -50913:
+            return False
+        case 50914 | -50914:
+            return True
+        case 50915 | -50915:
+            return False
+        case 50916 | -50916:
+            return True
+        case 50917 | -50917:
+            return False
+        case 50918 | -50918:
+            return True
+        case 50919 | -50919:
+            return False
+        case 50920 | -50920:
+            return True
+        case 50921 | -50921:
+            return False
+        case 50922 | -50922:
+            return True
+        case 50923 | -50923:
+            return False
+        case 50924 | -50924:
+            return True
+        case 50925 | -50925:
+            return False
+        case 50926 | -50926:
+            return True
+        case 50927 | -50927:
+            return False
+        case 50928 | -50928:
+            return True
+        case 50929 | -50929:
+            return False
+        case 50930 | -50930:
+            return True
+        case 50931 | -50931:
+            return False
+        case 50932 | -50932:
+            return True
+        case 50933 | -50933:
+            return False
+        case 50934 | -50934:
+            return True
+        case 50935 | -50935:
+            return False
+        case 50936 | -50936:
+            return True
+        case 50937 | -50937:
+            return False
+        case 50938 | -50938:
+            return True
+        case 50939 | -50939:
+            return False
+        case 50940 | -50940:
+            return True
+        case 50941 | -50941:
+            return False
+        case 50942 | -50942:
+            return True
+        case 50943 | -50943:
+            return False
+        case 50944 | -50944:
+            return True
+        case 50945 | -50945:
+            return False
+        case 50946 | -50946:
+            return True
+        case 50947 | -50947:
+            return False
+        case 50948 | -50948:
+            return True
+        case 50949 | -50949:
+            return False
+        case 50950 | -50950:
+            return True
+        case 50951 | -50951:
+            return False
+        case 50952 | -50952:
+            return True
+        case 50953 | -50953:
+            return False
+        case 50954 | -50954:
+            return True
+        case 50955 | -50955:
+            return False
+        case 50956 | -50956:
+            return True
+        case 50957 | -50957:
+            return False
+        case 50958 | -50958:
+            return True
+        case 50959 | -50959:
+            return False
+        case 50960 | -50960:
+            return True
+        case 50961 | -50961:
+            return False
+        case 50962 | -50962:
+            return True
+        case 50963 | -50963:
+            return False
+        case 50964 | -50964:
+            return True
+        case 50965 | -50965:
+            return False
+        case 50966 | -50966:
+            return True
+        case 50967 | -50967:
+            return False
+        case 50968 | -50968:
+            return True
+        case 50969 | -50969:
+            return False
+        case 50970 | -50970:
+            return True
+        case 50971 | -50971:
+            return False
+        case 50972 | -50972:
+            return True
+        case 50973 | -50973:
+            return False
+        case 50974 | -50974:
+            return True
+        case 50975 | -50975:
+            return False
+        case 50976 | -50976:
+            return True
+        case 50977 | -50977:
+            return False
+        case 50978 | -50978:
+            return True
+        case 50979 | -50979:
+            return False
+        case 50980 | -50980:
+            return True
+        case 50981 | -50981:
+            return False
+        case 50982 | -50982:
+            return True
+        case 50983 | -50983:
+            return False
+        case 50984 | -50984:
+            return True
+        case 50985 | -50985:
+            return False
+        case 50986 | -50986:
+            return True
+        case 50987 | -50987:
+            return False
+        case 50988 | -50988:
+            return True
+        case 50989 | -50989:
+            return False
+        case 50990 | -50990:
+            return True
+        case 50991 | -50991:
+            return False
+        case 50992 | -50992:
+            return True
+        case 50993 | -50993:
+            return False
+        case 50994 | -50994:
+            return True
+        case 50995 | -50995:
+            return False
+        case 50996 | -50996:
+            return True
+        case 50997 | -50997:
+            return False
+        case 50998 | -50998:
+            return True
+        case 50999 | -50999:
+            return False
+        case 51000 | -51000:
+            return True
+        case 51001 | -51001:
+            return False
+        case 51002 | -51002:
+            return True
+        case 51003 | -51003:
+            return False
+        case 51004 | -51004:
+            return True
+        case 51005 | -51005:
+            return False
+        case 51006 | -51006:
+            return True
+        case 51007 | -51007:
+            return False
+        case 51008 | -51008:
+            return True
+        case 51009 | -51009:
+            return False
+        case 51010 | -51010:
+            return True
+        case 51011 | -51011:
+            return False
+        case 51012 | -51012:
+            return True
+        case 51013 | -51013:
+            return False
+        case 51014 | -51014:
+            return True
+        case 51015 | -51015:
+            return False
+        case 51016 | -51016:
+            return True
+        case 51017 | -51017:
+            return False
+        case 51018 | -51018:
+            return True
+        case 51019 | -51019:
+            return False
+        case 51020 | -51020:
+            return True
+        case 51021 | -51021:
+            return False
+        case 51022 | -51022:
+            return True
+        case 51023 | -51023:
+            return False
+        case 51024 | -51024:
+            return True
+        case 51025 | -51025:
+            return False
+        case 51026 | -51026:
+            return True
+        case 51027 | -51027:
+            return False
+        case 51028 | -51028:
+            return True
+        case 51029 | -51029:
+            return False
+        case 51030 | -51030:
+            return True
+        case 51031 | -51031:
+            return False
+        case 51032 | -51032:
+            return True
+        case 51033 | -51033:
+            return False
+        case 51034 | -51034:
+            return True
+        case 51035 | -51035:
+            return False
+        case 51036 | -51036:
+            return True
+        case 51037 | -51037:
+            return False
+        case 51038 | -51038:
+            return True
+        case 51039 | -51039:
+            return False
+        case 51040 | -51040:
+            return True
+        case 51041 | -51041:
+            return False
+        case 51042 | -51042:
+            return True
+        case 51043 | -51043:
+            return False
+        case 51044 | -51044:
+            return True
+        case 51045 | -51045:
+            return False
+        case 51046 | -51046:
+            return True
+        case 51047 | -51047:
+            return False
+        case 51048 | -51048:
+            return True
+        case 51049 | -51049:
+            return False
+        case 51050 | -51050:
+            return True
+        case 51051 | -51051:
+            return False
+        case 51052 | -51052:
+            return True
+        case 51053 | -51053:
+            return False
+        case 51054 | -51054:
+            return True
+        case 51055 | -51055:
+            return False
+        case 51056 | -51056:
+            return True
+        case 51057 | -51057:
+            return False
+        case 51058 | -51058:
+            return True
+        case 51059 | -51059:
+            return False
+        case 51060 | -51060:
+            return True
+        case 51061 | -51061:
+            return False
+        case 51062 | -51062:
+            return True
+        case 51063 | -51063:
+            return False
+        case 51064 | -51064:
+            return True
+        case 51065 | -51065:
+            return False
+        case 51066 | -51066:
+            return True
+        case 51067 | -51067:
+            return False
+        case 51068 | -51068:
+            return True
+        case 51069 | -51069:
+            return False
+        case 51070 | -51070:
+            return True
+        case 51071 | -51071:
+            return False
+        case 51072 | -51072:
+            return True
+        case 51073 | -51073:
+            return False
+        case 51074 | -51074:
+            return True
+        case 51075 | -51075:
+            return False
+        case 51076 | -51076:
+            return True
+        case 51077 | -51077:
+            return False
+        case 51078 | -51078:
+            return True
+        case 51079 | -51079:
+            return False
+        case 51080 | -51080:
+            return True
+        case 51081 | -51081:
+            return False
+        case 51082 | -51082:
+            return True
+        case 51083 | -51083:
+            return False
+        case 51084 | -51084:
+            return True
+        case 51085 | -51085:
+            return False
+        case 51086 | -51086:
+            return True
+        case 51087 | -51087:
+            return False
+        case 51088 | -51088:
+            return True
+        case 51089 | -51089:
+            return False
+        case 51090 | -51090:
+            return True
+        case 51091 | -51091:
+            return False
+        case 51092 | -51092:
+            return True
+        case 51093 | -51093:
+            return False
+        case 51094 | -51094:
+            return True
+        case 51095 | -51095:
+            return False
+        case 51096 | -51096:
+            return True
+        case 51097 | -51097:
+            return False
+        case 51098 | -51098:
+            return True
+        case 51099 | -51099:
+            return False
+        case 51100 | -51100:
+            return True
+        case 51101 | -51101:
+            return False
+        case 51102 | -51102:
+            return True
+        case 51103 | -51103:
+            return False
+        case 51104 | -51104:
+            return True
+        case 51105 | -51105:
+            return False
+        case 51106 | -51106:
+            return True
+        case 51107 | -51107:
+            return False
+        case 51108 | -51108:
+            return True
+        case 51109 | -51109:
+            return False
+        case 51110 | -51110:
+            return True
+        case 51111 | -51111:
+            return False
+        case 51112 | -51112:
+            return True
+        case 51113 | -51113:
+            return False
+        case 51114 | -51114:
+            return True
+        case 51115 | -51115:
+            return False
+        case 51116 | -51116:
+            return True
+        case 51117 | -51117:
+            return False
+        case 51118 | -51118:
+            return True
+        case 51119 | -51119:
+            return False
+        case 51120 | -51120:
+            return True
+        case 51121 | -51121:
+            return False
+        case 51122 | -51122:
+            return True
+        case 51123 | -51123:
+            return False
+        case 51124 | -51124:
+            return True
+        case 51125 | -51125:
+            return False
+        case 51126 | -51126:
+            return True
+        case 51127 | -51127:
+            return False
+        case 51128 | -51128:
+            return True
+        case 51129 | -51129:
+            return False
+        case 51130 | -51130:
+            return True
+        case 51131 | -51131:
+            return False
+        case 51132 | -51132:
+            return True
+        case 51133 | -51133:
+            return False
+        case 51134 | -51134:
+            return True
+        case 51135 | -51135:
+            return False
+        case 51136 | -51136:
+            return True
+        case 51137 | -51137:
+            return False
+        case 51138 | -51138:
+            return True
+        case 51139 | -51139:
+            return False
+        case 51140 | -51140:
+            return True
+        case 51141 | -51141:
+            return False
+        case 51142 | -51142:
+            return True
+        case 51143 | -51143:
+            return False
+        case 51144 | -51144:
+            return True
+        case 51145 | -51145:
+            return False
+        case 51146 | -51146:
+            return True
+        case 51147 | -51147:
+            return False
+        case 51148 | -51148:
+            return True
+        case 51149 | -51149:
+            return False
+        case 51150 | -51150:
+            return True
+        case 51151 | -51151:
+            return False
+        case 51152 | -51152:
+            return True
+        case 51153 | -51153:
+            return False
+        case 51154 | -51154:
+            return True
+        case 51155 | -51155:
+            return False
+        case 51156 | -51156:
+            return True
+        case 51157 | -51157:
+            return False
+        case 51158 | -51158:
+            return True
+        case 51159 | -51159:
+            return False
+        case 51160 | -51160:
+            return True
+        case 51161 | -51161:
+            return False
+        case 51162 | -51162:
+            return True
+        case 51163 | -51163:
+            return False
+        case 51164 | -51164:
+            return True
+        case 51165 | -51165:
+            return False
+        case 51166 | -51166:
+            return True
+        case 51167 | -51167:
+            return False
+        case 51168 | -51168:
+            return True
+        case 51169 | -51169:
+            return False
+        case 51170 | -51170:
+            return True
+        case 51171 | -51171:
+            return False
+        case 51172 | -51172:
+            return True
+        case 51173 | -51173:
+            return False
+        case 51174 | -51174:
+            return True
+        case 51175 | -51175:
+            return False
+        case 51176 | -51176:
+            return True
+        case 51177 | -51177:
+            return False
+        case 51178 | -51178:
+            return True
+        case 51179 | -51179:
+            return False
+        case 51180 | -51180:
+            return True
+        case 51181 | -51181:
+            return False
+        case 51182 | -51182:
+            return True
+        case 51183 | -51183:
+            return False
+        case 51184 | -51184:
+            return True
+        case 51185 | -51185:
+            return False
+        case 51186 | -51186:
+            return True
+        case 51187 | -51187:
+            return False
+        case 51188 | -51188:
+            return True
+        case 51189 | -51189:
+            return False
+        case 51190 | -51190:
+            return True
+        case 51191 | -51191:
+            return False
+        case 51192 | -51192:
+            return True
+        case 51193 | -51193:
+            return False
+        case 51194 | -51194:
+            return True
+        case 51195 | -51195:
+            return False
+        case 51196 | -51196:
+            return True
+        case 51197 | -51197:
+            return False
+        case 51198 | -51198:
+            return True
+        case 51199 | -51199:
+            return False
+        case 51200 | -51200:
+            return True
+        case 51201 | -51201:
+            return False
+        case 51202 | -51202:
+            return True
+        case 51203 | -51203:
+            return False
+        case 51204 | -51204:
+            return True
+        case 51205 | -51205:
+            return False
+        case 51206 | -51206:
+            return True
+        case 51207 | -51207:
+            return False
+        case 51208 | -51208:
+            return True
+        case 51209 | -51209:
+            return False
+        case 51210 | -51210:
+            return True
+        case 51211 | -51211:
+            return False
+        case 51212 | -51212:
+            return True
+        case 51213 | -51213:
+            return False
+        case 51214 | -51214:
+            return True
+        case 51215 | -51215:
+            return False
+        case 51216 | -51216:
+            return True
+        case 51217 | -51217:
+            return False
+        case 51218 | -51218:
+            return True
+        case 51219 | -51219:
+            return False
+        case 51220 | -51220:
+            return True
+        case 51221 | -51221:
+            return False
+        case 51222 | -51222:
+            return True
+        case 51223 | -51223:
+            return False
+        case 51224 | -51224:
+            return True
+        case 51225 | -51225:
+            return False
+        case 51226 | -51226:
+            return True
+        case 51227 | -51227:
+            return False
+        case 51228 | -51228:
+            return True
+        case 51229 | -51229:
+            return False
+        case 51230 | -51230:
+            return True
+        case 51231 | -51231:
+            return False
+        case 51232 | -51232:
+            return True
+        case 51233 | -51233:
+            return False
+        case 51234 | -51234:
+            return True
+        case 51235 | -51235:
+            return False
+        case 51236 | -51236:
+            return True
+        case 51237 | -51237:
+            return False
+        case 51238 | -51238:
+            return True
+        case 51239 | -51239:
+            return False
+        case 51240 | -51240:
+            return True
+        case 51241 | -51241:
+            return False
+        case 51242 | -51242:
+            return True
+        case 51243 | -51243:
+            return False
+        case 51244 | -51244:
+            return True
+        case 51245 | -51245:
+            return False
+        case 51246 | -51246:
+            return True
+        case 51247 | -51247:
+            return False
+        case 51248 | -51248:
+            return True
+        case 51249 | -51249:
+            return False
+        case 51250 | -51250:
+            return True
+        case 51251 | -51251:
+            return False
+        case 51252 | -51252:
+            return True
+        case 51253 | -51253:
+            return False
+        case 51254 | -51254:
+            return True
+        case 51255 | -51255:
+            return False
+        case 51256 | -51256:
+            return True
+        case 51257 | -51257:
+            return False
+        case 51258 | -51258:
+            return True
+        case 51259 | -51259:
+            return False
+        case 51260 | -51260:
+            return True
+        case 51261 | -51261:
+            return False
+        case 51262 | -51262:
+            return True
+        case 51263 | -51263:
+            return False
+        case 51264 | -51264:
+            return True
+        case 51265 | -51265:
+            return False
+        case 51266 | -51266:
+            return True
+        case 51267 | -51267:
+            return False
+        case 51268 | -51268:
+            return True
+        case 51269 | -51269:
+            return False
+        case 51270 | -51270:
+            return True
+        case 51271 | -51271:
+            return False
+        case 51272 | -51272:
+            return True
+        case 51273 | -51273:
+            return False
+        case 51274 | -51274:
+            return True
+        case 51275 | -51275:
+            return False
+        case 51276 | -51276:
+            return True
+        case 51277 | -51277:
+            return False
+        case 51278 | -51278:
+            return True
+        case 51279 | -51279:
+            return False
+        case 51280 | -51280:
+            return True
+        case 51281 | -51281:
+            return False
+        case 51282 | -51282:
+            return True
+        case 51283 | -51283:
+            return False
+        case 51284 | -51284:
+            return True
+        case 51285 | -51285:
+            return False
+        case 51286 | -51286:
+            return True
+        case 51287 | -51287:
+            return False
+        case 51288 | -51288:
+            return True
+        case 51289 | -51289:
+            return False
+        case 51290 | -51290:
+            return True
+        case 51291 | -51291:
+            return False
+        case 51292 | -51292:
+            return True
+        case 51293 | -51293:
+            return False
+        case 51294 | -51294:
+            return True
+        case 51295 | -51295:
+            return False
+        case 51296 | -51296:
+            return True
+        case 51297 | -51297:
+            return False
+        case 51298 | -51298:
+            return True
+        case 51299 | -51299:
+            return False
+        case 51300 | -51300:
+            return True
+        case 51301 | -51301:
+            return False
+        case 51302 | -51302:
+            return True
+        case 51303 | -51303:
+            return False
+        case 51304 | -51304:
+            return True
+        case 51305 | -51305:
+            return False
+        case 51306 | -51306:
+            return True
+        case 51307 | -51307:
+            return False
+        case 51308 | -51308:
+            return True
+        case 51309 | -51309:
+            return False
+        case 51310 | -51310:
+            return True
+        case 51311 | -51311:
+            return False
+        case 51312 | -51312:
+            return True
+        case 51313 | -51313:
+            return False
+        case 51314 | -51314:
+            return True
+        case 51315 | -51315:
+            return False
+        case 51316 | -51316:
+            return True
+        case 51317 | -51317:
+            return False
+        case 51318 | -51318:
+            return True
+        case 51319 | -51319:
+            return False
+        case 51320 | -51320:
+            return True
+        case 51321 | -51321:
+            return False
+        case 51322 | -51322:
+            return True
+        case 51323 | -51323:
+            return False
+        case 51324 | -51324:
+            return True
+        case 51325 | -51325:
+            return False
+        case 51326 | -51326:
+            return True
+        case 51327 | -51327:
+            return False
+        case 51328 | -51328:
+            return True
+        case 51329 | -51329:
+            return False
+        case 51330 | -51330:
+            return True
+        case 51331 | -51331:
+            return False
+        case 51332 | -51332:
+            return True
+        case 51333 | -51333:
+            return False
+        case 51334 | -51334:
+            return True
+        case 51335 | -51335:
+            return False
+        case 51336 | -51336:
+            return True
+        case 51337 | -51337:
+            return False
+        case 51338 | -51338:
+            return True
+        case 51339 | -51339:
+            return False
+        case 51340 | -51340:
+            return True
+        case 51341 | -51341:
+            return False
+        case 51342 | -51342:
+            return True
+        case 51343 | -51343:
+            return False
+        case 51344 | -51344:
+            return True
+        case 51345 | -51345:
+            return False
+        case 51346 | -51346:
+            return True
+        case 51347 | -51347:
+            return False
+        case 51348 | -51348:
+            return True
+        case 51349 | -51349:
+            return False
+        case 51350 | -51350:
+            return True
+        case 51351 | -51351:
+            return False
+        case 51352 | -51352:
+            return True
+        case 51353 | -51353:
+            return False
+        case 51354 | -51354:
+            return True
+        case 51355 | -51355:
+            return False
+        case 51356 | -51356:
+            return True
+        case 51357 | -51357:
+            return False
+        case 51358 | -51358:
+            return True
+        case 51359 | -51359:
+            return False
+        case 51360 | -51360:
+            return True
+        case 51361 | -51361:
+            return False
+        case 51362 | -51362:
+            return True
+        case 51363 | -51363:
+            return False
+        case 51364 | -51364:
+            return True
+        case 51365 | -51365:
+            return False
+        case 51366 | -51366:
+            return True
+        case 51367 | -51367:
+            return False
+        case 51368 | -51368:
+            return True
+        case 51369 | -51369:
+            return False
+        case 51370 | -51370:
+            return True
+        case 51371 | -51371:
+            return False
+        case 51372 | -51372:
+            return True
+        case 51373 | -51373:
+            return False
+        case 51374 | -51374:
+            return True
+        case 51375 | -51375:
+            return False
+        case 51376 | -51376:
+            return True
+        case 51377 | -51377:
+            return False
+        case 51378 | -51378:
+            return True
+        case 51379 | -51379:
+            return False
+        case 51380 | -51380:
+            return True
+        case 51381 | -51381:
+            return False
+        case 51382 | -51382:
+            return True
+        case 51383 | -51383:
+            return False
+        case 51384 | -51384:
+            return True
+        case 51385 | -51385:
+            return False
+        case 51386 | -51386:
+            return True
+        case 51387 | -51387:
+            return False
+        case 51388 | -51388:
+            return True
+        case 51389 | -51389:
+            return False
+        case 51390 | -51390:
+            return True
+        case 51391 | -51391:
+            return False
+        case 51392 | -51392:
+            return True
+        case 51393 | -51393:
+            return False
+        case 51394 | -51394:
+            return True
+        case 51395 | -51395:
+            return False
+        case 51396 | -51396:
+            return True
+        case 51397 | -51397:
+            return False
+        case 51398 | -51398:
+            return True
+        case 51399 | -51399:
+            return False
+        case 51400 | -51400:
+            return True
+        case 51401 | -51401:
+            return False
+        case 51402 | -51402:
+            return True
+        case 51403 | -51403:
+            return False
+        case 51404 | -51404:
+            return True
+        case 51405 | -51405:
+            return False
+        case 51406 | -51406:
+            return True
+        case 51407 | -51407:
+            return False
+        case 51408 | -51408:
+            return True
+        case 51409 | -51409:
+            return False
+        case 51410 | -51410:
+            return True
+        case 51411 | -51411:
+            return False
+        case 51412 | -51412:
+            return True
+        case 51413 | -51413:
+            return False
+        case 51414 | -51414:
+            return True
+        case 51415 | -51415:
+            return False
+        case 51416 | -51416:
+            return True
+        case 51417 | -51417:
+            return False
+        case 51418 | -51418:
+            return True
+        case 51419 | -51419:
+            return False
+        case 51420 | -51420:
+            return True
+        case 51421 | -51421:
+            return False
+        case 51422 | -51422:
+            return True
+        case 51423 | -51423:
+            return False
+        case 51424 | -51424:
+            return True
+        case 51425 | -51425:
+            return False
+        case 51426 | -51426:
+            return True
+        case 51427 | -51427:
+            return False
+        case 51428 | -51428:
+            return True
+        case 51429 | -51429:
+            return False
+        case 51430 | -51430:
+            return True
+        case 51431 | -51431:
+            return False
+        case 51432 | -51432:
+            return True
+        case 51433 | -51433:
+            return False
+        case 51434 | -51434:
+            return True
+        case 51435 | -51435:
+            return False
+        case 51436 | -51436:
+            return True
+        case 51437 | -51437:
+            return False
+        case 51438 | -51438:
+            return True
+        case 51439 | -51439:
+            return False
+        case 51440 | -51440:
+            return True
+        case 51441 | -51441:
+            return False
+        case 51442 | -51442:
+            return True
+        case 51443 | -51443:
+            return False
+        case 51444 | -51444:
+            return True
+        case 51445 | -51445:
+            return False
+        case 51446 | -51446:
+            return True
+        case 51447 | -51447:
+            return False
+        case 51448 | -51448:
+            return True
+        case 51449 | -51449:
+            return False
+        case 51450 | -51450:
+            return True
+        case 51451 | -51451:
+            return False
+        case 51452 | -51452:
+            return True
+        case 51453 | -51453:
+            return False
+        case 51454 | -51454:
+            return True
+        case 51455 | -51455:
+            return False
+        case 51456 | -51456:
+            return True
+        case 51457 | -51457:
+            return False
+        case 51458 | -51458:
+            return True
+        case 51459 | -51459:
+            return False
+        case 51460 | -51460:
+            return True
+        case 51461 | -51461:
+            return False
+        case 51462 | -51462:
+            return True
+        case 51463 | -51463:
+            return False
+        case 51464 | -51464:
+            return True
+        case 51465 | -51465:
+            return False
+        case 51466 | -51466:
+            return True
+        case 51467 | -51467:
+            return False
+        case 51468 | -51468:
+            return True
+        case 51469 | -51469:
+            return False
+        case 51470 | -51470:
+            return True
+        case 51471 | -51471:
+            return False
+        case 51472 | -51472:
+            return True
+        case 51473 | -51473:
+            return False
+        case 51474 | -51474:
+            return True
+        case 51475 | -51475:
+            return False
+        case 51476 | -51476:
+            return True
+        case 51477 | -51477:
+            return False
+        case 51478 | -51478:
+            return True
+        case 51479 | -51479:
+            return False
+        case 51480 | -51480:
+            return True
+        case 51481 | -51481:
+            return False
+        case 51482 | -51482:
+            return True
+        case 51483 | -51483:
+            return False
+        case 51484 | -51484:
+            return True
+        case 51485 | -51485:
+            return False
+        case 51486 | -51486:
+            return True
+        case 51487 | -51487:
+            return False
+        case 51488 | -51488:
+            return True
+        case 51489 | -51489:
+            return False
+        case 51490 | -51490:
+            return True
+        case 51491 | -51491:
+            return False
+        case 51492 | -51492:
+            return True
+        case 51493 | -51493:
+            return False
+        case 51494 | -51494:
+            return True
+        case 51495 | -51495:
+            return False
+        case 51496 | -51496:
+            return True
+        case 51497 | -51497:
+            return False
+        case 51498 | -51498:
+            return True
+        case 51499 | -51499:
+            return False
+        case 51500 | -51500:
+            return True
+        case 51501 | -51501:
+            return False
+        case 51502 | -51502:
+            return True
+        case 51503 | -51503:
+            return False
+        case 51504 | -51504:
+            return True
+        case 51505 | -51505:
+            return False
+        case 51506 | -51506:
+            return True
+        case 51507 | -51507:
+            return False
+        case 51508 | -51508:
+            return True
+        case 51509 | -51509:
+            return False
+        case 51510 | -51510:
+            return True
+        case 51511 | -51511:
+            return False
+        case 51512 | -51512:
+            return True
+        case 51513 | -51513:
+            return False
+        case 51514 | -51514:
+            return True
+        case 51515 | -51515:
+            return False
+        case 51516 | -51516:
+            return True
+        case 51517 | -51517:
+            return False
+        case 51518 | -51518:
+            return True
+        case 51519 | -51519:
+            return False
+        case 51520 | -51520:
+            return True
+        case 51521 | -51521:
+            return False
+        case 51522 | -51522:
+            return True
+        case 51523 | -51523:
+            return False
+        case 51524 | -51524:
+            return True
+        case 51525 | -51525:
+            return False
+        case 51526 | -51526:
+            return True
+        case 51527 | -51527:
+            return False
+        case 51528 | -51528:
+            return True
+        case 51529 | -51529:
+            return False
+        case 51530 | -51530:
+            return True
+        case 51531 | -51531:
+            return False
+        case 51532 | -51532:
+            return True
+        case 51533 | -51533:
+            return False
+        case 51534 | -51534:
+            return True
+        case 51535 | -51535:
+            return False
+        case 51536 | -51536:
+            return True
+        case 51537 | -51537:
+            return False
+        case 51538 | -51538:
+            return True
+        case 51539 | -51539:
+            return False
+        case 51540 | -51540:
+            return True
+        case 51541 | -51541:
+            return False
+        case 51542 | -51542:
+            return True
+        case 51543 | -51543:
+            return False
+        case 51544 | -51544:
+            return True
+        case 51545 | -51545:
+            return False
+        case 51546 | -51546:
+            return True
+        case 51547 | -51547:
+            return False
+        case 51548 | -51548:
+            return True
+        case 51549 | -51549:
+            return False
+        case 51550 | -51550:
+            return True
+        case 51551 | -51551:
+            return False
+        case 51552 | -51552:
+            return True
+        case 51553 | -51553:
+            return False
+        case 51554 | -51554:
+            return True
+        case 51555 | -51555:
+            return False
+        case 51556 | -51556:
+            return True
+        case 51557 | -51557:
+            return False
+        case 51558 | -51558:
+            return True
+        case 51559 | -51559:
+            return False
+        case 51560 | -51560:
+            return True
+        case 51561 | -51561:
+            return False
+        case 51562 | -51562:
+            return True
+        case 51563 | -51563:
+            return False
+        case 51564 | -51564:
+            return True
+        case 51565 | -51565:
+            return False
+        case 51566 | -51566:
+            return True
+        case 51567 | -51567:
+            return False
+        case 51568 | -51568:
+            return True
+        case 51569 | -51569:
+            return False
+        case 51570 | -51570:
+            return True
+        case 51571 | -51571:
+            return False
+        case 51572 | -51572:
+            return True
+        case 51573 | -51573:
+            return False
+        case 51574 | -51574:
+            return True
+        case 51575 | -51575:
+            return False
+        case 51576 | -51576:
+            return True
+        case 51577 | -51577:
+            return False
+        case 51578 | -51578:
+            return True
+        case 51579 | -51579:
+            return False
+        case 51580 | -51580:
+            return True
+        case 51581 | -51581:
+            return False
+        case 51582 | -51582:
+            return True
+        case 51583 | -51583:
+            return False
+        case 51584 | -51584:
+            return True
+        case 51585 | -51585:
+            return False
+        case 51586 | -51586:
+            return True
+        case 51587 | -51587:
+            return False
+        case 51588 | -51588:
+            return True
+        case 51589 | -51589:
+            return False
+        case 51590 | -51590:
+            return True
+        case 51591 | -51591:
+            return False
+        case 51592 | -51592:
+            return True
+        case 51593 | -51593:
+            return False
+        case 51594 | -51594:
+            return True
+        case 51595 | -51595:
+            return False
+        case 51596 | -51596:
+            return True
+        case 51597 | -51597:
+            return False
+        case 51598 | -51598:
+            return True
+        case 51599 | -51599:
+            return False
+        case 51600 | -51600:
+            return True
+        case 51601 | -51601:
+            return False
+        case 51602 | -51602:
+            return True
+        case 51603 | -51603:
+            return False
+        case 51604 | -51604:
+            return True
+        case 51605 | -51605:
+            return False
+        case 51606 | -51606:
+            return True
+        case 51607 | -51607:
+            return False
+        case 51608 | -51608:
+            return True
+        case 51609 | -51609:
+            return False
+        case 51610 | -51610:
+            return True
+        case 51611 | -51611:
+            return False
+        case 51612 | -51612:
+            return True
+        case 51613 | -51613:
+            return False
+        case 51614 | -51614:
+            return True
+        case 51615 | -51615:
+            return False
+        case 51616 | -51616:
+            return True
+        case 51617 | -51617:
+            return False
+        case 51618 | -51618:
+            return True
+        case 51619 | -51619:
+            return False
+        case 51620 | -51620:
+            return True
+        case 51621 | -51621:
+            return False
+        case 51622 | -51622:
+            return True
+        case 51623 | -51623:
+            return False
+        case 51624 | -51624:
+            return True
+        case 51625 | -51625:
+            return False
+        case 51626 | -51626:
+            return True
+        case 51627 | -51627:
+            return False
+        case 51628 | -51628:
+            return True
+        case 51629 | -51629:
+            return False
+        case 51630 | -51630:
+            return True
+        case 51631 | -51631:
+            return False
+        case 51632 | -51632:
+            return True
+        case 51633 | -51633:
+            return False
+        case 51634 | -51634:
+            return True
+        case 51635 | -51635:
+            return False
+        case 51636 | -51636:
+            return True
+        case 51637 | -51637:
+            return False
+        case 51638 | -51638:
+            return True
+        case 51639 | -51639:
+            return False
+        case 51640 | -51640:
+            return True
+        case 51641 | -51641:
+            return False
+        case 51642 | -51642:
+            return True
+        case 51643 | -51643:
+            return False
+        case 51644 | -51644:
+            return True
+        case 51645 | -51645:
+            return False
+        case 51646 | -51646:
+            return True
+        case 51647 | -51647:
+            return False
+        case 51648 | -51648:
+            return True
+        case 51649 | -51649:
+            return False
+        case 51650 | -51650:
+            return True
+        case 51651 | -51651:
+            return False
+        case 51652 | -51652:
+            return True
+        case 51653 | -51653:
+            return False
+        case 51654 | -51654:
+            return True
+        case 51655 | -51655:
+            return False
+        case 51656 | -51656:
+            return True
+        case 51657 | -51657:
+            return False
+        case 51658 | -51658:
+            return True
+        case 51659 | -51659:
+            return False
+        case 51660 | -51660:
+            return True
+        case 51661 | -51661:
+            return False
+        case 51662 | -51662:
+            return True
+        case 51663 | -51663:
+            return False
+        case 51664 | -51664:
+            return True
+        case 51665 | -51665:
+            return False
+        case 51666 | -51666:
+            return True
+        case 51667 | -51667:
+            return False
+        case 51668 | -51668:
+            return True
+        case 51669 | -51669:
+            return False
+        case 51670 | -51670:
+            return True
+        case 51671 | -51671:
+            return False
+        case 51672 | -51672:
+            return True
+        case 51673 | -51673:
+            return False
+        case 51674 | -51674:
+            return True
+        case 51675 | -51675:
+            return False
+        case 51676 | -51676:
+            return True
+        case 51677 | -51677:
+            return False
+        case 51678 | -51678:
+            return True
+        case 51679 | -51679:
+            return False
+        case 51680 | -51680:
+            return True
+        case 51681 | -51681:
+            return False
+        case 51682 | -51682:
+            return True
+        case 51683 | -51683:
+            return False
+        case 51684 | -51684:
+            return True
+        case 51685 | -51685:
+            return False
+        case 51686 | -51686:
+            return True
+        case 51687 | -51687:
+            return False
+        case 51688 | -51688:
+            return True
+        case 51689 | -51689:
+            return False
+        case 51690 | -51690:
+            return True
+        case 51691 | -51691:
+            return False
+        case 51692 | -51692:
+            return True
+        case 51693 | -51693:
+            return False
+        case 51694 | -51694:
+            return True
+        case 51695 | -51695:
+            return False
+        case 51696 | -51696:
+            return True
+        case 51697 | -51697:
+            return False
+        case 51698 | -51698:
+            return True
+        case 51699 | -51699:
+            return False
+        case 51700 | -51700:
+            return True
+        case 51701 | -51701:
+            return False
+        case 51702 | -51702:
+            return True
+        case 51703 | -51703:
+            return False
+        case 51704 | -51704:
+            return True
+        case 51705 | -51705:
+            return False
+        case 51706 | -51706:
+            return True
+        case 51707 | -51707:
+            return False
+        case 51708 | -51708:
+            return True
+        case 51709 | -51709:
+            return False
+        case 51710 | -51710:
+            return True
+        case 51711 | -51711:
+            return False
+        case 51712 | -51712:
+            return True
+        case 51713 | -51713:
+            return False
+        case 51714 | -51714:
+            return True
+        case 51715 | -51715:
+            return False
+        case 51716 | -51716:
+            return True
+        case 51717 | -51717:
+            return False
+        case 51718 | -51718:
+            return True
+        case 51719 | -51719:
+            return False
+        case 51720 | -51720:
+            return True
+        case 51721 | -51721:
+            return False
+        case 51722 | -51722:
+            return True
+        case 51723 | -51723:
+            return False
+        case 51724 | -51724:
+            return True
+        case 51725 | -51725:
+            return False
+        case 51726 | -51726:
+            return True
+        case 51727 | -51727:
+            return False
+        case 51728 | -51728:
+            return True
+        case 51729 | -51729:
+            return False
+        case 51730 | -51730:
+            return True
+        case 51731 | -51731:
+            return False
+        case 51732 | -51732:
+            return True
+        case 51733 | -51733:
+            return False
+        case 51734 | -51734:
+            return True
+        case 51735 | -51735:
+            return False
+        case 51736 | -51736:
+            return True
+        case 51737 | -51737:
+            return False
+        case 51738 | -51738:
+            return True
+        case 51739 | -51739:
+            return False
+        case 51740 | -51740:
+            return True
+        case 51741 | -51741:
+            return False
+        case 51742 | -51742:
+            return True
+        case 51743 | -51743:
+            return False
+        case 51744 | -51744:
+            return True
+        case 51745 | -51745:
+            return False
+        case 51746 | -51746:
+            return True
+        case 51747 | -51747:
+            return False
+        case 51748 | -51748:
+            return True
+        case 51749 | -51749:
+            return False
+        case 51750 | -51750:
+            return True
+        case 51751 | -51751:
+            return False
+        case 51752 | -51752:
+            return True
+        case 51753 | -51753:
+            return False
+        case 51754 | -51754:
+            return True
+        case 51755 | -51755:
+            return False
+        case 51756 | -51756:
+            return True
+        case 51757 | -51757:
+            return False
+        case 51758 | -51758:
+            return True
+        case 51759 | -51759:
+            return False
+        case 51760 | -51760:
+            return True
+        case 51761 | -51761:
+            return False
+        case 51762 | -51762:
+            return True
+        case 51763 | -51763:
+            return False
+        case 51764 | -51764:
+            return True
+        case 51765 | -51765:
+            return False
+        case 51766 | -51766:
+            return True
+        case 51767 | -51767:
+            return False
+        case 51768 | -51768:
+            return True
+        case 51769 | -51769:
+            return False
+        case 51770 | -51770:
+            return True
+        case 51771 | -51771:
+            return False
+        case 51772 | -51772:
+            return True
+        case 51773 | -51773:
+            return False
+        case 51774 | -51774:
+            return True
+        case 51775 | -51775:
+            return False
+        case 51776 | -51776:
+            return True
+        case 51777 | -51777:
+            return False
+        case 51778 | -51778:
+            return True
+        case 51779 | -51779:
+            return False
+        case 51780 | -51780:
+            return True
+        case 51781 | -51781:
+            return False
+        case 51782 | -51782:
+            return True
+        case 51783 | -51783:
+            return False
+        case 51784 | -51784:
+            return True
+        case 51785 | -51785:
+            return False
+        case 51786 | -51786:
+            return True
+        case 51787 | -51787:
+            return False
+        case 51788 | -51788:
+            return True
+        case 51789 | -51789:
+            return False
+        case 51790 | -51790:
+            return True
+        case 51791 | -51791:
+            return False
+        case 51792 | -51792:
+            return True
+        case 51793 | -51793:
+            return False
+        case 51794 | -51794:
+            return True
+        case 51795 | -51795:
+            return False
+        case 51796 | -51796:
+            return True
+        case 51797 | -51797:
+            return False
+        case 51798 | -51798:
+            return True
+        case 51799 | -51799:
+            return False
+        case 51800 | -51800:
+            return True
+        case 51801 | -51801:
+            return False
+        case 51802 | -51802:
+            return True
+        case 51803 | -51803:
+            return False
+        case 51804 | -51804:
+            return True
+        case 51805 | -51805:
+            return False
+        case 51806 | -51806:
+            return True
+        case 51807 | -51807:
+            return False
+        case 51808 | -51808:
+            return True
+        case 51809 | -51809:
+            return False
+        case 51810 | -51810:
+            return True
+        case 51811 | -51811:
+            return False
+        case 51812 | -51812:
+            return True
+        case 51813 | -51813:
+            return False
+        case 51814 | -51814:
+            return True
+        case 51815 | -51815:
+            return False
+        case 51816 | -51816:
+            return True
+        case 51817 | -51817:
+            return False
+        case 51818 | -51818:
+            return True
+        case 51819 | -51819:
+            return False
+        case 51820 | -51820:
+            return True
+        case 51821 | -51821:
+            return False
+        case 51822 | -51822:
+            return True
+        case 51823 | -51823:
+            return False
+        case 51824 | -51824:
+            return True
+        case 51825 | -51825:
+            return False
+        case 51826 | -51826:
+            return True
+        case 51827 | -51827:
+            return False
+        case 51828 | -51828:
+            return True
+        case 51829 | -51829:
+            return False
+        case 51830 | -51830:
+            return True
+        case 51831 | -51831:
+            return False
+        case 51832 | -51832:
+            return True
+        case 51833 | -51833:
+            return False
+        case 51834 | -51834:
+            return True
+        case 51835 | -51835:
+            return False
+        case 51836 | -51836:
+            return True
+        case 51837 | -51837:
+            return False
+        case 51838 | -51838:
+            return True
+        case 51839 | -51839:
+            return False
+        case 51840 | -51840:
+            return True
+        case 51841 | -51841:
+            return False
+        case 51842 | -51842:
+            return True
+        case 51843 | -51843:
+            return False
+        case 51844 | -51844:
+            return True
+        case 51845 | -51845:
+            return False
+        case 51846 | -51846:
+            return True
+        case 51847 | -51847:
+            return False
+        case 51848 | -51848:
+            return True
+        case 51849 | -51849:
+            return False
+        case 51850 | -51850:
+            return True
+        case 51851 | -51851:
+            return False
+        case 51852 | -51852:
+            return True
+        case 51853 | -51853:
+            return False
+        case 51854 | -51854:
+            return True
+        case 51855 | -51855:
+            return False
+        case 51856 | -51856:
+            return True
+        case 51857 | -51857:
+            return False
+        case 51858 | -51858:
+            return True
+        case 51859 | -51859:
+            return False
+        case 51860 | -51860:
+            return True
+        case 51861 | -51861:
+            return False
+        case 51862 | -51862:
+            return True
+        case 51863 | -51863:
+            return False
+        case 51864 | -51864:
+            return True
+        case 51865 | -51865:
+            return False
+        case 51866 | -51866:
+            return True
+        case 51867 | -51867:
+            return False
+        case 51868 | -51868:
+            return True
+        case 51869 | -51869:
+            return False
+        case 51870 | -51870:
+            return True
+        case 51871 | -51871:
+            return False
+        case 51872 | -51872:
+            return True
+        case 51873 | -51873:
+            return False
+        case 51874 | -51874:
+            return True
+        case 51875 | -51875:
+            return False
+        case 51876 | -51876:
+            return True
+        case 51877 | -51877:
+            return False
+        case 51878 | -51878:
+            return True
+        case 51879 | -51879:
+            return False
+        case 51880 | -51880:
+            return True
+        case 51881 | -51881:
+            return False
+        case 51882 | -51882:
+            return True
+        case 51883 | -51883:
+            return False
+        case 51884 | -51884:
+            return True
+        case 51885 | -51885:
+            return False
+        case 51886 | -51886:
+            return True
+        case 51887 | -51887:
+            return False
+        case 51888 | -51888:
+            return True
+        case 51889 | -51889:
+            return False
+        case 51890 | -51890:
+            return True
+        case 51891 | -51891:
+            return False
+        case 51892 | -51892:
+            return True
+        case 51893 | -51893:
+            return False
+        case 51894 | -51894:
+            return True
+        case 51895 | -51895:
+            return False
+        case 51896 | -51896:
+            return True
+        case 51897 | -51897:
+            return False
+        case 51898 | -51898:
+            return True
+        case 51899 | -51899:
+            return False
+        case 51900 | -51900:
+            return True
+        case 51901 | -51901:
+            return False
+        case 51902 | -51902:
+            return True
+        case 51903 | -51903:
+            return False
+        case 51904 | -51904:
+            return True
+        case 51905 | -51905:
+            return False
+        case 51906 | -51906:
+            return True
+        case 51907 | -51907:
+            return False
+        case 51908 | -51908:
+            return True
+        case 51909 | -51909:
+            return False
+        case 51910 | -51910:
+            return True
+        case 51911 | -51911:
+            return False
+        case 51912 | -51912:
+            return True
+        case 51913 | -51913:
+            return False
+        case 51914 | -51914:
+            return True
+        case 51915 | -51915:
+            return False
+        case 51916 | -51916:
+            return True
+        case 51917 | -51917:
+            return False
+        case 51918 | -51918:
+            return True
+        case 51919 | -51919:
+            return False
+        case 51920 | -51920:
+            return True
+        case 51921 | -51921:
+            return False
+        case 51922 | -51922:
+            return True
+        case 51923 | -51923:
+            return False
+        case 51924 | -51924:
+            return True
+        case 51925 | -51925:
+            return False
+        case 51926 | -51926:
+            return True
+        case 51927 | -51927:
+            return False
+        case 51928 | -51928:
+            return True
+        case 51929 | -51929:
+            return False
+        case 51930 | -51930:
+            return True
+        case 51931 | -51931:
+            return False
+        case 51932 | -51932:
+            return True
+        case 51933 | -51933:
+            return False
+        case 51934 | -51934:
+            return True
+        case 51935 | -51935:
+            return False
+        case 51936 | -51936:
+            return True
+        case 51937 | -51937:
+            return False
+        case 51938 | -51938:
+            return True
+        case 51939 | -51939:
+            return False
+        case 51940 | -51940:
+            return True
+        case 51941 | -51941:
+            return False
+        case 51942 | -51942:
+            return True
+        case 51943 | -51943:
+            return False
+        case 51944 | -51944:
+            return True
+        case 51945 | -51945:
+            return False
+        case 51946 | -51946:
+            return True
+        case 51947 | -51947:
+            return False
+        case 51948 | -51948:
+            return True
+        case 51949 | -51949:
+            return False
+        case 51950 | -51950:
+            return True
+        case 51951 | -51951:
+            return False
+        case 51952 | -51952:
+            return True
+        case 51953 | -51953:
+            return False
+        case 51954 | -51954:
+            return True
+        case 51955 | -51955:
+            return False
+        case 51956 | -51956:
+            return True
+        case 51957 | -51957:
+            return False
+        case 51958 | -51958:
+            return True
+        case 51959 | -51959:
+            return False
+        case 51960 | -51960:
+            return True
+        case 51961 | -51961:
+            return False
+        case 51962 | -51962:
+            return True
+        case 51963 | -51963:
+            return False
+        case 51964 | -51964:
+            return True
+        case 51965 | -51965:
+            return False
+        case 51966 | -51966:
+            return True
+        case 51967 | -51967:
+            return False
+        case 51968 | -51968:
+            return True
+        case 51969 | -51969:
+            return False
+        case 51970 | -51970:
+            return True
+        case 51971 | -51971:
+            return False
+        case 51972 | -51972:
+            return True
+        case 51973 | -51973:
+            return False
+        case 51974 | -51974:
+            return True
+        case 51975 | -51975:
+            return False
+        case 51976 | -51976:
+            return True
+        case 51977 | -51977:
+            return False
+        case 51978 | -51978:
+            return True
+        case 51979 | -51979:
+            return False
+        case 51980 | -51980:
+            return True
+        case 51981 | -51981:
+            return False
+        case 51982 | -51982:
+            return True
+        case 51983 | -51983:
+            return False
+        case 51984 | -51984:
+            return True
+        case 51985 | -51985:
+            return False
+        case 51986 | -51986:
+            return True
+        case 51987 | -51987:
+            return False
+        case 51988 | -51988:
+            return True
+        case 51989 | -51989:
+            return False
+        case 51990 | -51990:
+            return True
+        case 51991 | -51991:
+            return False
+        case 51992 | -51992:
+            return True
+        case 51993 | -51993:
+            return False
+        case 51994 | -51994:
+            return True
+        case 51995 | -51995:
+            return False
+        case 51996 | -51996:
+            return True
+        case 51997 | -51997:
+            return False
+        case 51998 | -51998:
+            return True
+        case 51999 | -51999:
+            return False
+        case 52000 | -52000:
+            return True
+        case 52001 | -52001:
+            return False
+        case 52002 | -52002:
+            return True
+        case 52003 | -52003:
+            return False
+        case 52004 | -52004:
+            return True
+        case 52005 | -52005:
+            return False
+        case 52006 | -52006:
+            return True
+        case 52007 | -52007:
+            return False
+        case 52008 | -52008:
+            return True
+        case 52009 | -52009:
+            return False
+        case 52010 | -52010:
+            return True
+        case 52011 | -52011:
+            return False
+        case 52012 | -52012:
+            return True
+        case 52013 | -52013:
+            return False
+        case 52014 | -52014:
+            return True
+        case 52015 | -52015:
+            return False
+        case 52016 | -52016:
+            return True
+        case 52017 | -52017:
+            return False
+        case 52018 | -52018:
+            return True
+        case 52019 | -52019:
+            return False
+        case 52020 | -52020:
+            return True
+        case 52021 | -52021:
+            return False
+        case 52022 | -52022:
+            return True
+        case 52023 | -52023:
+            return False
+        case 52024 | -52024:
+            return True
+        case 52025 | -52025:
+            return False
+        case 52026 | -52026:
+            return True
+        case 52027 | -52027:
+            return False
+        case 52028 | -52028:
+            return True
+        case 52029 | -52029:
+            return False
+        case 52030 | -52030:
+            return True
+        case 52031 | -52031:
+            return False
+        case 52032 | -52032:
+            return True
+        case 52033 | -52033:
+            return False
+        case 52034 | -52034:
+            return True
+        case 52035 | -52035:
+            return False
+        case 52036 | -52036:
+            return True
+        case 52037 | -52037:
+            return False
+        case 52038 | -52038:
+            return True
+        case 52039 | -52039:
+            return False
+        case 52040 | -52040:
+            return True
+        case 52041 | -52041:
+            return False
+        case 52042 | -52042:
+            return True
+        case 52043 | -52043:
+            return False
+        case 52044 | -52044:
+            return True
+        case 52045 | -52045:
+            return False
+        case 52046 | -52046:
+            return True
+        case 52047 | -52047:
+            return False
+        case 52048 | -52048:
+            return True
+        case 52049 | -52049:
+            return False
+        case 52050 | -52050:
+            return True
+        case 52051 | -52051:
+            return False
+        case 52052 | -52052:
+            return True
+        case 52053 | -52053:
+            return False
+        case 52054 | -52054:
+            return True
+        case 52055 | -52055:
+            return False
+        case 52056 | -52056:
+            return True
+        case 52057 | -52057:
+            return False
+        case 52058 | -52058:
+            return True
+        case 52059 | -52059:
+            return False
+        case 52060 | -52060:
+            return True
+        case 52061 | -52061:
+            return False
+        case 52062 | -52062:
+            return True
+        case 52063 | -52063:
+            return False
+        case 52064 | -52064:
+            return True
+        case 52065 | -52065:
+            return False
+        case 52066 | -52066:
+            return True
+        case 52067 | -52067:
+            return False
+        case 52068 | -52068:
+            return True
+        case 52069 | -52069:
+            return False
+        case 52070 | -52070:
+            return True
+        case 52071 | -52071:
+            return False
+        case 52072 | -52072:
+            return True
+        case 52073 | -52073:
+            return False
+        case 52074 | -52074:
+            return True
+        case 52075 | -52075:
+            return False
+        case 52076 | -52076:
+            return True
+        case 52077 | -52077:
+            return False
+        case 52078 | -52078:
+            return True
+        case 52079 | -52079:
+            return False
+        case 52080 | -52080:
+            return True
+        case 52081 | -52081:
+            return False
+        case 52082 | -52082:
+            return True
+        case 52083 | -52083:
+            return False
+        case 52084 | -52084:
+            return True
+        case 52085 | -52085:
+            return False
+        case 52086 | -52086:
+            return True
+        case 52087 | -52087:
+            return False
+        case 52088 | -52088:
+            return True
+        case 52089 | -52089:
+            return False
+        case 52090 | -52090:
+            return True
+        case 52091 | -52091:
+            return False
+        case 52092 | -52092:
+            return True
+        case 52093 | -52093:
+            return False
+        case 52094 | -52094:
+            return True
+        case 52095 | -52095:
+            return False
+        case 52096 | -52096:
+            return True
+        case 52097 | -52097:
+            return False
+        case 52098 | -52098:
+            return True
+        case 52099 | -52099:
+            return False
+        case 52100 | -52100:
+            return True
+        case 52101 | -52101:
+            return False
+        case 52102 | -52102:
+            return True
+        case 52103 | -52103:
+            return False
+        case 52104 | -52104:
+            return True
+        case 52105 | -52105:
+            return False
+        case 52106 | -52106:
+            return True
+        case 52107 | -52107:
+            return False
+        case 52108 | -52108:
+            return True
+        case 52109 | -52109:
+            return False
+        case 52110 | -52110:
+            return True
+        case 52111 | -52111:
+            return False
+        case 52112 | -52112:
+            return True
+        case 52113 | -52113:
+            return False
+        case 52114 | -52114:
+            return True
+        case 52115 | -52115:
+            return False
+        case 52116 | -52116:
+            return True
+        case 52117 | -52117:
+            return False
+        case 52118 | -52118:
+            return True
+        case 52119 | -52119:
+            return False
+        case 52120 | -52120:
+            return True
+        case 52121 | -52121:
+            return False
+        case 52122 | -52122:
+            return True
+        case 52123 | -52123:
+            return False
+        case 52124 | -52124:
+            return True
+        case 52125 | -52125:
+            return False
+        case 52126 | -52126:
+            return True
+        case 52127 | -52127:
+            return False
+        case 52128 | -52128:
+            return True
+        case 52129 | -52129:
+            return False
+        case 52130 | -52130:
+            return True
+        case 52131 | -52131:
+            return False
+        case 52132 | -52132:
+            return True
+        case 52133 | -52133:
+            return False
+        case 52134 | -52134:
+            return True
+        case 52135 | -52135:
+            return False
+        case 52136 | -52136:
+            return True
+        case 52137 | -52137:
+            return False
+        case 52138 | -52138:
+            return True
+        case 52139 | -52139:
+            return False
+        case 52140 | -52140:
+            return True
+        case 52141 | -52141:
+            return False
+        case 52142 | -52142:
+            return True
+        case 52143 | -52143:
+            return False
+        case 52144 | -52144:
+            return True
+        case 52145 | -52145:
+            return False
+        case 52146 | -52146:
+            return True
+        case 52147 | -52147:
+            return False
+        case 52148 | -52148:
+            return True
+        case 52149 | -52149:
+            return False
+        case 52150 | -52150:
+            return True
+        case 52151 | -52151:
+            return False
+        case 52152 | -52152:
+            return True
+        case 52153 | -52153:
+            return False
+        case 52154 | -52154:
+            return True
+        case 52155 | -52155:
+            return False
+        case 52156 | -52156:
+            return True
+        case 52157 | -52157:
+            return False
+        case 52158 | -52158:
+            return True
+        case 52159 | -52159:
+            return False
+        case 52160 | -52160:
+            return True
+        case 52161 | -52161:
+            return False
+        case 52162 | -52162:
+            return True
+        case 52163 | -52163:
+            return False
+        case 52164 | -52164:
+            return True
+        case 52165 | -52165:
+            return False
+        case 52166 | -52166:
+            return True
+        case 52167 | -52167:
+            return False
+        case 52168 | -52168:
+            return True
+        case 52169 | -52169:
+            return False
+        case 52170 | -52170:
+            return True
+        case 52171 | -52171:
+            return False
+        case 52172 | -52172:
+            return True
+        case 52173 | -52173:
+            return False
+        case 52174 | -52174:
+            return True
+        case 52175 | -52175:
+            return False
+        case 52176 | -52176:
+            return True
+        case 52177 | -52177:
+            return False
+        case 52178 | -52178:
+            return True
+        case 52179 | -52179:
+            return False
+        case 52180 | -52180:
+            return True
+        case 52181 | -52181:
+            return False
+        case 52182 | -52182:
+            return True
+        case 52183 | -52183:
+            return False
+        case 52184 | -52184:
+            return True
+        case 52185 | -52185:
+            return False
+        case 52186 | -52186:
+            return True
+        case 52187 | -52187:
+            return False
+        case 52188 | -52188:
+            return True
+        case 52189 | -52189:
+            return False
+        case 52190 | -52190:
+            return True
+        case 52191 | -52191:
+            return False
+        case 52192 | -52192:
+            return True
+        case 52193 | -52193:
+            return False
+        case 52194 | -52194:
+            return True
+        case 52195 | -52195:
+            return False
+        case 52196 | -52196:
+            return True
+        case 52197 | -52197:
+            return False
+        case 52198 | -52198:
+            return True
+        case 52199 | -52199:
+            return False
+        case 52200 | -52200:
+            return True
+        case 52201 | -52201:
+            return False
+        case 52202 | -52202:
+            return True
+        case 52203 | -52203:
+            return False
+        case 52204 | -52204:
+            return True
+        case 52205 | -52205:
+            return False
+        case 52206 | -52206:
+            return True
+        case 52207 | -52207:
+            return False
+        case 52208 | -52208:
+            return True
+        case 52209 | -52209:
+            return False
+        case 52210 | -52210:
+            return True
+        case 52211 | -52211:
+            return False
+        case 52212 | -52212:
+            return True
+        case 52213 | -52213:
+            return False
+        case 52214 | -52214:
+            return True
+        case 52215 | -52215:
+            return False
+        case 52216 | -52216:
+            return True
+        case 52217 | -52217:
+            return False
+        case 52218 | -52218:
+            return True
+        case 52219 | -52219:
+            return False
+        case 52220 | -52220:
+            return True
+        case 52221 | -52221:
+            return False
+        case 52222 | -52222:
+            return True
+        case 52223 | -52223:
+            return False
+        case 52224 | -52224:
+            return True
+        case 52225 | -52225:
+            return False
+        case 52226 | -52226:
+            return True
+        case 52227 | -52227:
+            return False
+        case 52228 | -52228:
+            return True
+        case 52229 | -52229:
+            return False
+        case 52230 | -52230:
+            return True
+        case 52231 | -52231:
+            return False
+        case 52232 | -52232:
+            return True
+        case 52233 | -52233:
+            return False
+        case 52234 | -52234:
+            return True
+        case 52235 | -52235:
+            return False
+        case 52236 | -52236:
+            return True
+        case 52237 | -52237:
+            return False
+        case 52238 | -52238:
+            return True
+        case 52239 | -52239:
+            return False
+        case 52240 | -52240:
+            return True
+        case 52241 | -52241:
+            return False
+        case 52242 | -52242:
+            return True
+        case 52243 | -52243:
+            return False
+        case 52244 | -52244:
+            return True
+        case 52245 | -52245:
+            return False
+        case 52246 | -52246:
+            return True
+        case 52247 | -52247:
+            return False
+        case 52248 | -52248:
+            return True
+        case 52249 | -52249:
+            return False
+        case 52250 | -52250:
+            return True
+        case 52251 | -52251:
+            return False
+        case 52252 | -52252:
+            return True
+        case 52253 | -52253:
+            return False
+        case 52254 | -52254:
+            return True
+        case 52255 | -52255:
+            return False
+        case 52256 | -52256:
+            return True
+        case 52257 | -52257:
+            return False
+        case 52258 | -52258:
+            return True
+        case 52259 | -52259:
+            return False
+        case 52260 | -52260:
+            return True
+        case 52261 | -52261:
+            return False
+        case 52262 | -52262:
+            return True
+        case 52263 | -52263:
+            return False
+        case 52264 | -52264:
+            return True
+        case 52265 | -52265:
+            return False
+        case 52266 | -52266:
+            return True
+        case 52267 | -52267:
+            return False
+        case 52268 | -52268:
+            return True
+        case 52269 | -52269:
+            return False
+        case 52270 | -52270:
+            return True
+        case 52271 | -52271:
+            return False
+        case 52272 | -52272:
+            return True
+        case 52273 | -52273:
+            return False
+        case 52274 | -52274:
+            return True
+        case 52275 | -52275:
+            return False
+        case 52276 | -52276:
+            return True
+        case 52277 | -52277:
+            return False
+        case 52278 | -52278:
+            return True
+        case 52279 | -52279:
+            return False
+        case 52280 | -52280:
+            return True
+        case 52281 | -52281:
+            return False
+        case 52282 | -52282:
+            return True
+        case 52283 | -52283:
+            return False
+        case 52284 | -52284:
+            return True
+        case 52285 | -52285:
+            return False
+        case 52286 | -52286:
+            return True
+        case 52287 | -52287:
+            return False
+        case 52288 | -52288:
+            return True
+        case 52289 | -52289:
+            return False
+        case 52290 | -52290:
+            return True
+        case 52291 | -52291:
+            return False
+        case 52292 | -52292:
+            return True
+        case 52293 | -52293:
+            return False
+        case 52294 | -52294:
+            return True
+        case 52295 | -52295:
+            return False
+        case 52296 | -52296:
+            return True
+        case 52297 | -52297:
+            return False
+        case 52298 | -52298:
+            return True
+        case 52299 | -52299:
+            return False
+        case 52300 | -52300:
+            return True
+        case 52301 | -52301:
+            return False
+        case 52302 | -52302:
+            return True
+        case 52303 | -52303:
+            return False
+        case 52304 | -52304:
+            return True
+        case 52305 | -52305:
+            return False
+        case 52306 | -52306:
+            return True
+        case 52307 | -52307:
+            return False
+        case 52308 | -52308:
+            return True
+        case 52309 | -52309:
+            return False
+        case 52310 | -52310:
+            return True
+        case 52311 | -52311:
+            return False
+        case 52312 | -52312:
+            return True
+        case 52313 | -52313:
+            return False
+        case 52314 | -52314:
+            return True
+        case 52315 | -52315:
+            return False
+        case 52316 | -52316:
+            return True
+        case 52317 | -52317:
+            return False
+        case 52318 | -52318:
+            return True
+        case 52319 | -52319:
+            return False
+        case 52320 | -52320:
+            return True
+        case 52321 | -52321:
+            return False
+        case 52322 | -52322:
+            return True
+        case 52323 | -52323:
+            return False
+        case 52324 | -52324:
+            return True
+        case 52325 | -52325:
+            return False
+        case 52326 | -52326:
+            return True
+        case 52327 | -52327:
+            return False
+        case 52328 | -52328:
+            return True
+        case 52329 | -52329:
+            return False
+        case 52330 | -52330:
+            return True
+        case 52331 | -52331:
+            return False
+        case 52332 | -52332:
+            return True
+        case 52333 | -52333:
+            return False
+        case 52334 | -52334:
+            return True
+        case 52335 | -52335:
+            return False
+        case 52336 | -52336:
+            return True
+        case 52337 | -52337:
+            return False
+        case 52338 | -52338:
+            return True
+        case 52339 | -52339:
+            return False
+        case 52340 | -52340:
+            return True
+        case 52341 | -52341:
+            return False
+        case 52342 | -52342:
+            return True
+        case 52343 | -52343:
+            return False
+        case 52344 | -52344:
+            return True
+        case 52345 | -52345:
+            return False
+        case 52346 | -52346:
+            return True
+        case 52347 | -52347:
+            return False
+        case 52348 | -52348:
+            return True
+        case 52349 | -52349:
+            return False
+        case 52350 | -52350:
+            return True
+        case 52351 | -52351:
+            return False
+        case 52352 | -52352:
+            return True
+        case 52353 | -52353:
+            return False
+        case 52354 | -52354:
+            return True
+        case 52355 | -52355:
+            return False
+        case 52356 | -52356:
+            return True
+        case 52357 | -52357:
+            return False
+        case 52358 | -52358:
+            return True
+        case 52359 | -52359:
+            return False
+        case 52360 | -52360:
+            return True
+        case 52361 | -52361:
+            return False
+        case 52362 | -52362:
+            return True
+        case 52363 | -52363:
+            return False
+        case 52364 | -52364:
+            return True
+        case 52365 | -52365:
+            return False
+        case 52366 | -52366:
+            return True
+        case 52367 | -52367:
+            return False
+        case 52368 | -52368:
+            return True
+        case 52369 | -52369:
+            return False
+        case 52370 | -52370:
+            return True
+        case 52371 | -52371:
+            return False
+        case 52372 | -52372:
+            return True
+        case 52373 | -52373:
+            return False
+        case 52374 | -52374:
+            return True
+        case 52375 | -52375:
+            return False
+        case 52376 | -52376:
+            return True
+        case 52377 | -52377:
+            return False
+        case 52378 | -52378:
+            return True
+        case 52379 | -52379:
+            return False
+        case 52380 | -52380:
+            return True
+        case 52381 | -52381:
+            return False
+        case 52382 | -52382:
+            return True
+        case 52383 | -52383:
+            return False
+        case 52384 | -52384:
+            return True
+        case 52385 | -52385:
+            return False
+        case 52386 | -52386:
+            return True
+        case 52387 | -52387:
+            return False
+        case 52388 | -52388:
+            return True
+        case 52389 | -52389:
+            return False
+        case 52390 | -52390:
+            return True
+        case 52391 | -52391:
+            return False
+        case 52392 | -52392:
+            return True
+        case 52393 | -52393:
+            return False
+        case 52394 | -52394:
+            return True
+        case 52395 | -52395:
+            return False
+        case 52396 | -52396:
+            return True
+        case 52397 | -52397:
+            return False
+        case 52398 | -52398:
+            return True
+        case 52399 | -52399:
+            return False
+        case 52400 | -52400:
+            return True
+        case 52401 | -52401:
+            return False
+        case 52402 | -52402:
+            return True
+        case 52403 | -52403:
+            return False
+        case 52404 | -52404:
+            return True
+        case 52405 | -52405:
+            return False
+        case 52406 | -52406:
+            return True
+        case 52407 | -52407:
+            return False
+        case 52408 | -52408:
+            return True
+        case 52409 | -52409:
+            return False
+        case 52410 | -52410:
+            return True
+        case 52411 | -52411:
+            return False
+        case 52412 | -52412:
+            return True
+        case 52413 | -52413:
+            return False
+        case 52414 | -52414:
+            return True
+        case 52415 | -52415:
+            return False
+        case 52416 | -52416:
+            return True
+        case 52417 | -52417:
+            return False
+        case 52418 | -52418:
+            return True
+        case 52419 | -52419:
+            return False
+        case 52420 | -52420:
+            return True
+        case 52421 | -52421:
+            return False
+        case 52422 | -52422:
+            return True
+        case 52423 | -52423:
+            return False
+        case 52424 | -52424:
+            return True
+        case 52425 | -52425:
+            return False
+        case 52426 | -52426:
+            return True
+        case 52427 | -52427:
+            return False
+        case 52428 | -52428:
+            return True
+        case 52429 | -52429:
+            return False
+        case 52430 | -52430:
+            return True
+        case 52431 | -52431:
+            return False
+        case 52432 | -52432:
+            return True
+        case 52433 | -52433:
+            return False
+        case 52434 | -52434:
+            return True
+        case 52435 | -52435:
+            return False
+        case 52436 | -52436:
+            return True
+        case 52437 | -52437:
+            return False
+        case 52438 | -52438:
+            return True
+        case 52439 | -52439:
+            return False
+        case 52440 | -52440:
+            return True
+        case 52441 | -52441:
+            return False
+        case 52442 | -52442:
+            return True
+        case 52443 | -52443:
+            return False
+        case 52444 | -52444:
+            return True
+        case 52445 | -52445:
+            return False
+        case 52446 | -52446:
+            return True
+        case 52447 | -52447:
+            return False
+        case 52448 | -52448:
+            return True
+        case 52449 | -52449:
+            return False
+        case 52450 | -52450:
+            return True
+        case 52451 | -52451:
+            return False
+        case 52452 | -52452:
+            return True
+        case 52453 | -52453:
+            return False
+        case 52454 | -52454:
+            return True
+        case 52455 | -52455:
+            return False
+        case 52456 | -52456:
+            return True
+        case 52457 | -52457:
+            return False
+        case 52458 | -52458:
+            return True
+        case 52459 | -52459:
+            return False
+        case 52460 | -52460:
+            return True
+        case 52461 | -52461:
+            return False
+        case 52462 | -52462:
+            return True
+        case 52463 | -52463:
+            return False
+        case 52464 | -52464:
+            return True
+        case 52465 | -52465:
+            return False
+        case 52466 | -52466:
+            return True
+        case 52467 | -52467:
+            return False
+        case 52468 | -52468:
+            return True
+        case 52469 | -52469:
+            return False
+        case 52470 | -52470:
+            return True
+        case 52471 | -52471:
+            return False
+        case 52472 | -52472:
+            return True
+        case 52473 | -52473:
+            return False
+        case 52474 | -52474:
+            return True
+        case 52475 | -52475:
+            return False
+        case 52476 | -52476:
+            return True
+        case 52477 | -52477:
+            return False
+        case 52478 | -52478:
+            return True
+        case 52479 | -52479:
+            return False
+        case 52480 | -52480:
+            return True
+        case 52481 | -52481:
+            return False
+        case 52482 | -52482:
+            return True
+        case 52483 | -52483:
+            return False
+        case 52484 | -52484:
+            return True
+        case 52485 | -52485:
+            return False
+        case 52486 | -52486:
+            return True
+        case 52487 | -52487:
+            return False
+        case 52488 | -52488:
+            return True
+        case 52489 | -52489:
+            return False
+        case 52490 | -52490:
+            return True
+        case 52491 | -52491:
+            return False
+        case 52492 | -52492:
+            return True
+        case 52493 | -52493:
+            return False
+        case 52494 | -52494:
+            return True
+        case 52495 | -52495:
+            return False
+        case 52496 | -52496:
+            return True
+        case 52497 | -52497:
+            return False
+        case 52498 | -52498:
+            return True
+        case 52499 | -52499:
+            return False
+        case 52500 | -52500:
+            return True
+        case 52501 | -52501:
+            return False
+        case 52502 | -52502:
+            return True
+        case 52503 | -52503:
+            return False
+        case 52504 | -52504:
+            return True
+        case 52505 | -52505:
+            return False
+        case 52506 | -52506:
+            return True
+        case 52507 | -52507:
+            return False
+        case 52508 | -52508:
+            return True
+        case 52509 | -52509:
+            return False
+        case 52510 | -52510:
+            return True
+        case 52511 | -52511:
+            return False
+        case 52512 | -52512:
+            return True
+        case 52513 | -52513:
+            return False
+        case 52514 | -52514:
+            return True
+        case 52515 | -52515:
+            return False
+        case 52516 | -52516:
+            return True
+        case 52517 | -52517:
+            return False
+        case 52518 | -52518:
+            return True
+        case 52519 | -52519:
+            return False
+        case 52520 | -52520:
+            return True
+        case 52521 | -52521:
+            return False
+        case 52522 | -52522:
+            return True
+        case 52523 | -52523:
+            return False
+        case 52524 | -52524:
+            return True
+        case 52525 | -52525:
+            return False
+        case 52526 | -52526:
+            return True
+        case 52527 | -52527:
+            return False
+        case 52528 | -52528:
+            return True
+        case 52529 | -52529:
+            return False
+        case 52530 | -52530:
+            return True
+        case 52531 | -52531:
+            return False
+        case 52532 | -52532:
+            return True
+        case 52533 | -52533:
+            return False
+        case 52534 | -52534:
+            return True
+        case 52535 | -52535:
+            return False
+        case 52536 | -52536:
+            return True
+        case 52537 | -52537:
+            return False
+        case 52538 | -52538:
+            return True
+        case 52539 | -52539:
+            return False
+        case 52540 | -52540:
+            return True
+        case 52541 | -52541:
+            return False
+        case 52542 | -52542:
+            return True
+        case 52543 | -52543:
+            return False
+        case 52544 | -52544:
+            return True
+        case 52545 | -52545:
+            return False
+        case 52546 | -52546:
+            return True
+        case 52547 | -52547:
+            return False
+        case 52548 | -52548:
+            return True
+        case 52549 | -52549:
+            return False
+        case 52550 | -52550:
+            return True
+        case 52551 | -52551:
+            return False
+        case 52552 | -52552:
+            return True
+        case 52553 | -52553:
+            return False
+        case 52554 | -52554:
+            return True
+        case 52555 | -52555:
+            return False
+        case 52556 | -52556:
+            return True
+        case 52557 | -52557:
+            return False
+        case 52558 | -52558:
+            return True
+        case 52559 | -52559:
+            return False
+        case 52560 | -52560:
+            return True
+        case 52561 | -52561:
+            return False
+        case 52562 | -52562:
+            return True
+        case 52563 | -52563:
+            return False
+        case 52564 | -52564:
+            return True
+        case 52565 | -52565:
+            return False
+        case 52566 | -52566:
+            return True
+        case 52567 | -52567:
+            return False
+        case 52568 | -52568:
+            return True
+        case 52569 | -52569:
+            return False
+        case 52570 | -52570:
+            return True
+        case 52571 | -52571:
+            return False
+        case 52572 | -52572:
+            return True
+        case 52573 | -52573:
+            return False
+        case 52574 | -52574:
+            return True
+        case 52575 | -52575:
+            return False
+        case 52576 | -52576:
+            return True
+        case 52577 | -52577:
+            return False
+        case 52578 | -52578:
+            return True
+        case 52579 | -52579:
+            return False
+        case 52580 | -52580:
+            return True
+        case 52581 | -52581:
+            return False
+        case 52582 | -52582:
+            return True
+        case 52583 | -52583:
+            return False
+        case 52584 | -52584:
+            return True
+        case 52585 | -52585:
+            return False
+        case 52586 | -52586:
+            return True
+        case 52587 | -52587:
+            return False
+        case 52588 | -52588:
+            return True
+        case 52589 | -52589:
+            return False
+        case 52590 | -52590:
+            return True
+        case 52591 | -52591:
+            return False
+        case 52592 | -52592:
+            return True
+        case 52593 | -52593:
+            return False
+        case 52594 | -52594:
+            return True
+        case 52595 | -52595:
+            return False
+        case 52596 | -52596:
+            return True
+        case 52597 | -52597:
+            return False
+        case 52598 | -52598:
+            return True
+        case 52599 | -52599:
+            return False
+        case 52600 | -52600:
+            return True
+        case 52601 | -52601:
+            return False
+        case 52602 | -52602:
+            return True
+        case 52603 | -52603:
+            return False
+        case 52604 | -52604:
+            return True
+        case 52605 | -52605:
+            return False
+        case 52606 | -52606:
+            return True
+        case 52607 | -52607:
+            return False
+        case 52608 | -52608:
+            return True
+        case 52609 | -52609:
+            return False
+        case 52610 | -52610:
+            return True
+        case 52611 | -52611:
+            return False
+        case 52612 | -52612:
+            return True
+        case 52613 | -52613:
+            return False
+        case 52614 | -52614:
+            return True
+        case 52615 | -52615:
+            return False
+        case 52616 | -52616:
+            return True
+        case 52617 | -52617:
+            return False
+        case 52618 | -52618:
+            return True
+        case 52619 | -52619:
+            return False
+        case 52620 | -52620:
+            return True
+        case 52621 | -52621:
+            return False
+        case 52622 | -52622:
+            return True
+        case 52623 | -52623:
+            return False
+        case 52624 | -52624:
+            return True
+        case 52625 | -52625:
+            return False
+        case 52626 | -52626:
+            return True
+        case 52627 | -52627:
+            return False
+        case 52628 | -52628:
+            return True
+        case 52629 | -52629:
+            return False
+        case 52630 | -52630:
+            return True
+        case 52631 | -52631:
+            return False
+        case 52632 | -52632:
+            return True
+        case 52633 | -52633:
+            return False
+        case 52634 | -52634:
+            return True
+        case 52635 | -52635:
+            return False
+        case 52636 | -52636:
+            return True
+        case 52637 | -52637:
+            return False
+        case 52638 | -52638:
+            return True
+        case 52639 | -52639:
+            return False
+        case 52640 | -52640:
+            return True
+        case 52641 | -52641:
+            return False
+        case 52642 | -52642:
+            return True
+        case 52643 | -52643:
+            return False
+        case 52644 | -52644:
+            return True
+        case 52645 | -52645:
+            return False
+        case 52646 | -52646:
+            return True
+        case 52647 | -52647:
+            return False
+        case 52648 | -52648:
+            return True
+        case 52649 | -52649:
+            return False
+        case 52650 | -52650:
+            return True
+        case 52651 | -52651:
+            return False
+        case 52652 | -52652:
+            return True
+        case 52653 | -52653:
+            return False
+        case 52654 | -52654:
+            return True
+        case 52655 | -52655:
+            return False
+        case 52656 | -52656:
+            return True
+        case 52657 | -52657:
+            return False
+        case 52658 | -52658:
+            return True
+        case 52659 | -52659:
+            return False
+        case 52660 | -52660:
+            return True
+        case 52661 | -52661:
+            return False
+        case 52662 | -52662:
+            return True
+        case 52663 | -52663:
+            return False
+        case 52664 | -52664:
+            return True
+        case 52665 | -52665:
+            return False
+        case 52666 | -52666:
+            return True
+        case 52667 | -52667:
+            return False
+        case 52668 | -52668:
+            return True
+        case 52669 | -52669:
+            return False
+        case 52670 | -52670:
+            return True
+        case 52671 | -52671:
+            return False
+        case 52672 | -52672:
+            return True
+        case 52673 | -52673:
+            return False
+        case 52674 | -52674:
+            return True
+        case 52675 | -52675:
+            return False
+        case 52676 | -52676:
+            return True
+        case 52677 | -52677:
+            return False
+        case 52678 | -52678:
+            return True
+        case 52679 | -52679:
+            return False
+        case 52680 | -52680:
+            return True
+        case 52681 | -52681:
+            return False
+        case 52682 | -52682:
+            return True
+        case 52683 | -52683:
+            return False
+        case 52684 | -52684:
+            return True
+        case 52685 | -52685:
+            return False
+        case 52686 | -52686:
+            return True
+        case 52687 | -52687:
+            return False
+        case 52688 | -52688:
+            return True
+        case 52689 | -52689:
+            return False
+        case 52690 | -52690:
+            return True
+        case 52691 | -52691:
+            return False
+        case 52692 | -52692:
+            return True
+        case 52693 | -52693:
+            return False
+        case 52694 | -52694:
+            return True
+        case 52695 | -52695:
+            return False
+        case 52696 | -52696:
+            return True
+        case 52697 | -52697:
+            return False
+        case 52698 | -52698:
+            return True
+        case 52699 | -52699:
+            return False
+        case 52700 | -52700:
+            return True
+        case 52701 | -52701:
+            return False
+        case 52702 | -52702:
+            return True
+        case 52703 | -52703:
+            return False
+        case 52704 | -52704:
+            return True
+        case 52705 | -52705:
+            return False
+        case 52706 | -52706:
+            return True
+        case 52707 | -52707:
+            return False
+        case 52708 | -52708:
+            return True
+        case 52709 | -52709:
+            return False
+        case 52710 | -52710:
+            return True
+        case 52711 | -52711:
+            return False
+        case 52712 | -52712:
+            return True
+        case 52713 | -52713:
+            return False
+        case 52714 | -52714:
+            return True
+        case 52715 | -52715:
+            return False
+        case 52716 | -52716:
+            return True
+        case 52717 | -52717:
+            return False
+        case 52718 | -52718:
+            return True
+        case 52719 | -52719:
+            return False
+        case 52720 | -52720:
+            return True
+        case 52721 | -52721:
+            return False
+        case 52722 | -52722:
+            return True
+        case 52723 | -52723:
+            return False
+        case 52724 | -52724:
+            return True
+        case 52725 | -52725:
+            return False
+        case 52726 | -52726:
+            return True
+        case 52727 | -52727:
+            return False
+        case 52728 | -52728:
+            return True
+        case 52729 | -52729:
+            return False
+        case 52730 | -52730:
+            return True
+        case 52731 | -52731:
+            return False
+        case 52732 | -52732:
+            return True
+        case 52733 | -52733:
+            return False
+        case 52734 | -52734:
+            return True
+        case 52735 | -52735:
+            return False
+        case 52736 | -52736:
+            return True
+        case 52737 | -52737:
+            return False
+        case 52738 | -52738:
+            return True
+        case 52739 | -52739:
+            return False
+        case 52740 | -52740:
+            return True
+        case 52741 | -52741:
+            return False
+        case 52742 | -52742:
+            return True
+        case 52743 | -52743:
+            return False
+        case 52744 | -52744:
+            return True
+        case 52745 | -52745:
+            return False
+        case 52746 | -52746:
+            return True
+        case 52747 | -52747:
+            return False
+        case 52748 | -52748:
+            return True
+        case 52749 | -52749:
+            return False
+        case 52750 | -52750:
+            return True
+        case 52751 | -52751:
+            return False
+        case 52752 | -52752:
+            return True
+        case 52753 | -52753:
+            return False
+        case 52754 | -52754:
+            return True
+        case 52755 | -52755:
+            return False
+        case 52756 | -52756:
+            return True
+        case 52757 | -52757:
+            return False
+        case 52758 | -52758:
+            return True
+        case 52759 | -52759:
+            return False
+        case 52760 | -52760:
+            return True
+        case 52761 | -52761:
+            return False
+        case 52762 | -52762:
+            return True
+        case 52763 | -52763:
+            return False
+        case 52764 | -52764:
+            return True
+        case 52765 | -52765:
+            return False
+        case 52766 | -52766:
+            return True
+        case 52767 | -52767:
+            return False
+        case 52768 | -52768:
+            return True
+        case 52769 | -52769:
+            return False
+        case 52770 | -52770:
+            return True
+        case 52771 | -52771:
+            return False
+        case 52772 | -52772:
+            return True
+        case 52773 | -52773:
+            return False
+        case 52774 | -52774:
+            return True
+        case 52775 | -52775:
+            return False
+        case 52776 | -52776:
+            return True
+        case 52777 | -52777:
+            return False
+        case 52778 | -52778:
+            return True
+        case 52779 | -52779:
+            return False
+        case 52780 | -52780:
+            return True
+        case 52781 | -52781:
+            return False
+        case 52782 | -52782:
+            return True
+        case 52783 | -52783:
+            return False
+        case 52784 | -52784:
+            return True
+        case 52785 | -52785:
+            return False
+        case 52786 | -52786:
+            return True
+        case 52787 | -52787:
+            return False
+        case 52788 | -52788:
+            return True
+        case 52789 | -52789:
+            return False
+        case 52790 | -52790:
+            return True
+        case 52791 | -52791:
+            return False
+        case 52792 | -52792:
+            return True
+        case 52793 | -52793:
+            return False
+        case 52794 | -52794:
+            return True
+        case 52795 | -52795:
+            return False
+        case 52796 | -52796:
+            return True
+        case 52797 | -52797:
+            return False
+        case 52798 | -52798:
+            return True
+        case 52799 | -52799:
+            return False
+        case 52800 | -52800:
+            return True
+        case 52801 | -52801:
+            return False
+        case 52802 | -52802:
+            return True
+        case 52803 | -52803:
+            return False
+        case 52804 | -52804:
+            return True
+        case 52805 | -52805:
+            return False
+        case 52806 | -52806:
+            return True
+        case 52807 | -52807:
+            return False
+        case 52808 | -52808:
+            return True
+        case 52809 | -52809:
+            return False
+        case 52810 | -52810:
+            return True
+        case 52811 | -52811:
+            return False
+        case 52812 | -52812:
+            return True
+        case 52813 | -52813:
+            return False
+        case 52814 | -52814:
+            return True
+        case 52815 | -52815:
+            return False
+        case 52816 | -52816:
+            return True
+        case 52817 | -52817:
+            return False
+        case 52818 | -52818:
+            return True
+        case 52819 | -52819:
+            return False
+        case 52820 | -52820:
+            return True
+        case 52821 | -52821:
+            return False
+        case 52822 | -52822:
+            return True
+        case 52823 | -52823:
+            return False
+        case 52824 | -52824:
+            return True
+        case 52825 | -52825:
+            return False
+        case 52826 | -52826:
+            return True
+        case 52827 | -52827:
+            return False
+        case 52828 | -52828:
+            return True
+        case 52829 | -52829:
+            return False
+        case 52830 | -52830:
+            return True
+        case 52831 | -52831:
+            return False
+        case 52832 | -52832:
+            return True
+        case 52833 | -52833:
+            return False
+        case 52834 | -52834:
+            return True
+        case 52835 | -52835:
+            return False
+        case 52836 | -52836:
+            return True
+        case 52837 | -52837:
+            return False
+        case 52838 | -52838:
+            return True
+        case 52839 | -52839:
+            return False
+        case 52840 | -52840:
+            return True
+        case 52841 | -52841:
+            return False
+        case 52842 | -52842:
+            return True
+        case 52843 | -52843:
+            return False
+        case 52844 | -52844:
+            return True
+        case 52845 | -52845:
+            return False
+        case 52846 | -52846:
+            return True
+        case 52847 | -52847:
+            return False
+        case 52848 | -52848:
+            return True
+        case 52849 | -52849:
+            return False
+        case 52850 | -52850:
+            return True
+        case 52851 | -52851:
+            return False
+        case 52852 | -52852:
+            return True
+        case 52853 | -52853:
+            return False
+        case 52854 | -52854:
+            return True
+        case 52855 | -52855:
+            return False
+        case 52856 | -52856:
+            return True
+        case 52857 | -52857:
+            return False
+        case 52858 | -52858:
+            return True
+        case 52859 | -52859:
+            return False
+        case 52860 | -52860:
+            return True
+        case 52861 | -52861:
+            return False
+        case 52862 | -52862:
+            return True
+        case 52863 | -52863:
+            return False
+        case 52864 | -52864:
+            return True
+        case 52865 | -52865:
+            return False
+        case 52866 | -52866:
+            return True
+        case 52867 | -52867:
+            return False
+        case 52868 | -52868:
+            return True
+        case 52869 | -52869:
+            return False
+        case 52870 | -52870:
+            return True
+        case 52871 | -52871:
+            return False
+        case 52872 | -52872:
+            return True
+        case 52873 | -52873:
+            return False
+        case 52874 | -52874:
+            return True
+        case 52875 | -52875:
+            return False
+        case 52876 | -52876:
+            return True
+        case 52877 | -52877:
+            return False
+        case 52878 | -52878:
+            return True
+        case 52879 | -52879:
+            return False
+        case 52880 | -52880:
+            return True
+        case 52881 | -52881:
+            return False
+        case 52882 | -52882:
+            return True
+        case 52883 | -52883:
+            return False
+        case 52884 | -52884:
+            return True
+        case 52885 | -52885:
+            return False
+        case 52886 | -52886:
+            return True
+        case 52887 | -52887:
+            return False
+        case 52888 | -52888:
+            return True
+        case 52889 | -52889:
+            return False
+        case 52890 | -52890:
+            return True
+        case 52891 | -52891:
+            return False
+        case 52892 | -52892:
+            return True
+        case 52893 | -52893:
+            return False
+        case 52894 | -52894:
+            return True
+        case 52895 | -52895:
+            return False
+        case 52896 | -52896:
+            return True
+        case 52897 | -52897:
+            return False
+        case 52898 | -52898:
+            return True
+        case 52899 | -52899:
+            return False
+        case 52900 | -52900:
+            return True
+        case 52901 | -52901:
+            return False
+        case 52902 | -52902:
+            return True
+        case 52903 | -52903:
+            return False
+        case 52904 | -52904:
+            return True
+        case 52905 | -52905:
+            return False
+        case 52906 | -52906:
+            return True
+        case 52907 | -52907:
+            return False
+        case 52908 | -52908:
+            return True
+        case 52909 | -52909:
+            return False
+        case 52910 | -52910:
+            return True
+        case 52911 | -52911:
+            return False
+        case 52912 | -52912:
+            return True
+        case 52913 | -52913:
+            return False
+        case 52914 | -52914:
+            return True
+        case 52915 | -52915:
+            return False
+        case 52916 | -52916:
+            return True
+        case 52917 | -52917:
+            return False
+        case 52918 | -52918:
+            return True
+        case 52919 | -52919:
+            return False
+        case 52920 | -52920:
+            return True
+        case 52921 | -52921:
+            return False
+        case 52922 | -52922:
+            return True
+        case 52923 | -52923:
+            return False
+        case 52924 | -52924:
+            return True
+        case 52925 | -52925:
+            return False
+        case 52926 | -52926:
+            return True
+        case 52927 | -52927:
+            return False
+        case 52928 | -52928:
+            return True
+        case 52929 | -52929:
+            return False
+        case 52930 | -52930:
+            return True
+        case 52931 | -52931:
+            return False
+        case 52932 | -52932:
+            return True
+        case 52933 | -52933:
+            return False
+        case 52934 | -52934:
+            return True
+        case 52935 | -52935:
+            return False
+        case 52936 | -52936:
+            return True
+        case 52937 | -52937:
+            return False
+        case 52938 | -52938:
+            return True
+        case 52939 | -52939:
+            return False
+        case 52940 | -52940:
+            return True
+        case 52941 | -52941:
+            return False
+        case 52942 | -52942:
+            return True
+        case 52943 | -52943:
+            return False
+        case 52944 | -52944:
+            return True
+        case 52945 | -52945:
+            return False
+        case 52946 | -52946:
+            return True
+        case 52947 | -52947:
+            return False
+        case 52948 | -52948:
+            return True
+        case 52949 | -52949:
+            return False
+        case 52950 | -52950:
+            return True
+        case 52951 | -52951:
+            return False
+        case 52952 | -52952:
+            return True
+        case 52953 | -52953:
+            return False
+        case 52954 | -52954:
+            return True
+        case 52955 | -52955:
+            return False
+        case 52956 | -52956:
+            return True
+        case 52957 | -52957:
+            return False
+        case 52958 | -52958:
+            return True
+        case 52959 | -52959:
+            return False
+        case 52960 | -52960:
+            return True
+        case 52961 | -52961:
+            return False
+        case 52962 | -52962:
+            return True
+        case 52963 | -52963:
+            return False
+        case 52964 | -52964:
+            return True
+        case 52965 | -52965:
+            return False
+        case 52966 | -52966:
+            return True
+        case 52967 | -52967:
+            return False
+        case 52968 | -52968:
+            return True
+        case 52969 | -52969:
+            return False
+        case 52970 | -52970:
+            return True
+        case 52971 | -52971:
+            return False
+        case 52972 | -52972:
+            return True
+        case 52973 | -52973:
+            return False
+        case 52974 | -52974:
+            return True
+        case 52975 | -52975:
+            return False
+        case 52976 | -52976:
+            return True
+        case 52977 | -52977:
+            return False
+        case 52978 | -52978:
+            return True
+        case 52979 | -52979:
+            return False
+        case 52980 | -52980:
+            return True
+        case 52981 | -52981:
+            return False
+        case 52982 | -52982:
+            return True
+        case 52983 | -52983:
+            return False
+        case 52984 | -52984:
+            return True
+        case 52985 | -52985:
+            return False
+        case 52986 | -52986:
+            return True
+        case 52987 | -52987:
+            return False
+        case 52988 | -52988:
+            return True
+        case 52989 | -52989:
+            return False
+        case 52990 | -52990:
+            return True
+        case 52991 | -52991:
+            return False
+        case 52992 | -52992:
+            return True
+        case 52993 | -52993:
+            return False
+        case 52994 | -52994:
+            return True
+        case 52995 | -52995:
+            return False
+        case 52996 | -52996:
+            return True
+        case 52997 | -52997:
+            return False
+        case 52998 | -52998:
+            return True
+        case 52999 | -52999:
+            return False
+        case 53000 | -53000:
+            return True
+        case 53001 | -53001:
+            return False
+        case 53002 | -53002:
+            return True
+        case 53003 | -53003:
+            return False
+        case 53004 | -53004:
+            return True
+        case 53005 | -53005:
+            return False
+        case 53006 | -53006:
+            return True
+        case 53007 | -53007:
+            return False
+        case 53008 | -53008:
+            return True
+        case 53009 | -53009:
+            return False
+        case 53010 | -53010:
+            return True
+        case 53011 | -53011:
+            return False
+        case 53012 | -53012:
+            return True
+        case 53013 | -53013:
+            return False
+        case 53014 | -53014:
+            return True
+        case 53015 | -53015:
+            return False
+        case 53016 | -53016:
+            return True
+        case 53017 | -53017:
+            return False
+        case 53018 | -53018:
+            return True
+        case 53019 | -53019:
+            return False
+        case 53020 | -53020:
+            return True
+        case 53021 | -53021:
+            return False
+        case 53022 | -53022:
+            return True
+        case 53023 | -53023:
+            return False
+        case 53024 | -53024:
+            return True
+        case 53025 | -53025:
+            return False
+        case 53026 | -53026:
+            return True
+        case 53027 | -53027:
+            return False
+        case 53028 | -53028:
+            return True
+        case 53029 | -53029:
+            return False
+        case 53030 | -53030:
+            return True
+        case 53031 | -53031:
+            return False
+        case 53032 | -53032:
+            return True
+        case 53033 | -53033:
+            return False
+        case 53034 | -53034:
+            return True
+        case 53035 | -53035:
+            return False
+        case 53036 | -53036:
+            return True
+        case 53037 | -53037:
+            return False
+        case 53038 | -53038:
+            return True
+        case 53039 | -53039:
+            return False
+        case 53040 | -53040:
+            return True
+        case 53041 | -53041:
+            return False
+        case 53042 | -53042:
+            return True
+        case 53043 | -53043:
+            return False
+        case 53044 | -53044:
+            return True
+        case 53045 | -53045:
+            return False
+        case 53046 | -53046:
+            return True
+        case 53047 | -53047:
+            return False
+        case 53048 | -53048:
+            return True
+        case 53049 | -53049:
+            return False
+        case 53050 | -53050:
+            return True
+        case 53051 | -53051:
+            return False
+        case 53052 | -53052:
+            return True
+        case 53053 | -53053:
+            return False
+        case 53054 | -53054:
+            return True
+        case 53055 | -53055:
+            return False
+        case 53056 | -53056:
+            return True
+        case 53057 | -53057:
+            return False
+        case 53058 | -53058:
+            return True
+        case 53059 | -53059:
+            return False
+        case 53060 | -53060:
+            return True
+        case 53061 | -53061:
+            return False
+        case 53062 | -53062:
+            return True
+        case 53063 | -53063:
+            return False
+        case 53064 | -53064:
+            return True
+        case 53065 | -53065:
+            return False
+        case 53066 | -53066:
+            return True
+        case 53067 | -53067:
+            return False
+        case 53068 | -53068:
+            return True
+        case 53069 | -53069:
+            return False
+        case 53070 | -53070:
+            return True
+        case 53071 | -53071:
+            return False
+        case 53072 | -53072:
+            return True
+        case 53073 | -53073:
+            return False
+        case 53074 | -53074:
+            return True
+        case 53075 | -53075:
+            return False
+        case 53076 | -53076:
+            return True
+        case 53077 | -53077:
+            return False
+        case 53078 | -53078:
+            return True
+        case 53079 | -53079:
+            return False
+        case 53080 | -53080:
+            return True
+        case 53081 | -53081:
+            return False
+        case 53082 | -53082:
+            return True
+        case 53083 | -53083:
+            return False
+        case 53084 | -53084:
+            return True
+        case 53085 | -53085:
+            return False
+        case 53086 | -53086:
+            return True
+        case 53087 | -53087:
+            return False
+        case 53088 | -53088:
+            return True
+        case 53089 | -53089:
+            return False
+        case 53090 | -53090:
+            return True
+        case 53091 | -53091:
+            return False
+        case 53092 | -53092:
+            return True
+        case 53093 | -53093:
+            return False
+        case 53094 | -53094:
+            return True
+        case 53095 | -53095:
+            return False
+        case 53096 | -53096:
+            return True
+        case 53097 | -53097:
+            return False
+        case 53098 | -53098:
+            return True
+        case 53099 | -53099:
+            return False
+        case 53100 | -53100:
+            return True
+        case 53101 | -53101:
+            return False
+        case 53102 | -53102:
+            return True
+        case 53103 | -53103:
+            return False
+        case 53104 | -53104:
+            return True
+        case 53105 | -53105:
+            return False
+        case 53106 | -53106:
+            return True
+        case 53107 | -53107:
+            return False
+        case 53108 | -53108:
+            return True
+        case 53109 | -53109:
+            return False
+        case 53110 | -53110:
+            return True
+        case 53111 | -53111:
+            return False
+        case 53112 | -53112:
+            return True
+        case 53113 | -53113:
+            return False
+        case 53114 | -53114:
+            return True
+        case 53115 | -53115:
+            return False
+        case 53116 | -53116:
+            return True
+        case 53117 | -53117:
+            return False
+        case 53118 | -53118:
+            return True
+        case 53119 | -53119:
+            return False
+        case 53120 | -53120:
+            return True
+        case 53121 | -53121:
+            return False
+        case 53122 | -53122:
+            return True
+        case 53123 | -53123:
+            return False
+        case 53124 | -53124:
+            return True
+        case 53125 | -53125:
+            return False
+        case 53126 | -53126:
+            return True
+        case 53127 | -53127:
+            return False
+        case 53128 | -53128:
+            return True
+        case 53129 | -53129:
+            return False
+        case 53130 | -53130:
+            return True
+        case 53131 | -53131:
+            return False
+        case 53132 | -53132:
+            return True
+        case 53133 | -53133:
+            return False
+        case 53134 | -53134:
+            return True
+        case 53135 | -53135:
+            return False
+        case 53136 | -53136:
+            return True
+        case 53137 | -53137:
+            return False
+        case 53138 | -53138:
+            return True
+        case 53139 | -53139:
+            return False
+        case 53140 | -53140:
+            return True
+        case 53141 | -53141:
+            return False
+        case 53142 | -53142:
+            return True
+        case 53143 | -53143:
+            return False
+        case 53144 | -53144:
+            return True
+        case 53145 | -53145:
+            return False
+        case 53146 | -53146:
+            return True
+        case 53147 | -53147:
+            return False
+        case 53148 | -53148:
+            return True
+        case 53149 | -53149:
+            return False
+        case 53150 | -53150:
+            return True
+        case 53151 | -53151:
+            return False
+        case 53152 | -53152:
+            return True
+        case 53153 | -53153:
+            return False
+        case 53154 | -53154:
+            return True
+        case 53155 | -53155:
+            return False
+        case 53156 | -53156:
+            return True
+        case 53157 | -53157:
+            return False
+        case 53158 | -53158:
+            return True
+        case 53159 | -53159:
+            return False
+        case 53160 | -53160:
+            return True
+        case 53161 | -53161:
+            return False
+        case 53162 | -53162:
+            return True
+        case 53163 | -53163:
+            return False
+        case 53164 | -53164:
+            return True
+        case 53165 | -53165:
+            return False
+        case 53166 | -53166:
+            return True
+        case 53167 | -53167:
+            return False
+        case 53168 | -53168:
+            return True
+        case 53169 | -53169:
+            return False
+        case 53170 | -53170:
+            return True
+        case 53171 | -53171:
+            return False
+        case 53172 | -53172:
+            return True
+        case 53173 | -53173:
+            return False
+        case 53174 | -53174:
+            return True
+        case 53175 | -53175:
+            return False
+        case 53176 | -53176:
+            return True
+        case 53177 | -53177:
+            return False
+        case 53178 | -53178:
+            return True
+        case 53179 | -53179:
+            return False
+        case 53180 | -53180:
+            return True
+        case 53181 | -53181:
+            return False
+        case 53182 | -53182:
+            return True
+        case 53183 | -53183:
+            return False
+        case 53184 | -53184:
+            return True
+        case 53185 | -53185:
+            return False
+        case 53186 | -53186:
+            return True
+        case 53187 | -53187:
+            return False
+        case 53188 | -53188:
+            return True
+        case 53189 | -53189:
+            return False
+        case 53190 | -53190:
+            return True
+        case 53191 | -53191:
+            return False
+        case 53192 | -53192:
+            return True
+        case 53193 | -53193:
+            return False
+        case 53194 | -53194:
+            return True
+        case 53195 | -53195:
+            return False
+        case 53196 | -53196:
+            return True
+        case 53197 | -53197:
+            return False
+        case 53198 | -53198:
+            return True
+        case 53199 | -53199:
+            return False
+        case 53200 | -53200:
+            return True
+        case 53201 | -53201:
+            return False
+        case 53202 | -53202:
+            return True
+        case 53203 | -53203:
+            return False
+        case 53204 | -53204:
+            return True
+        case 53205 | -53205:
+            return False
+        case 53206 | -53206:
+            return True
+        case 53207 | -53207:
+            return False
+        case 53208 | -53208:
+            return True
+        case 53209 | -53209:
+            return False
+        case 53210 | -53210:
+            return True
+        case 53211 | -53211:
+            return False
+        case 53212 | -53212:
+            return True
+        case 53213 | -53213:
+            return False
+        case 53214 | -53214:
+            return True
+        case 53215 | -53215:
+            return False
+        case 53216 | -53216:
+            return True
+        case 53217 | -53217:
+            return False
+        case 53218 | -53218:
+            return True
+        case 53219 | -53219:
+            return False
+        case 53220 | -53220:
+            return True
+        case 53221 | -53221:
+            return False
+        case 53222 | -53222:
+            return True
+        case 53223 | -53223:
+            return False
+        case 53224 | -53224:
+            return True
+        case 53225 | -53225:
+            return False
+        case 53226 | -53226:
+            return True
+        case 53227 | -53227:
+            return False
+        case 53228 | -53228:
+            return True
+        case 53229 | -53229:
+            return False
+        case 53230 | -53230:
+            return True
+        case 53231 | -53231:
+            return False
+        case 53232 | -53232:
+            return True
+        case 53233 | -53233:
+            return False
+        case 53234 | -53234:
+            return True
+        case 53235 | -53235:
+            return False
+        case 53236 | -53236:
+            return True
+        case 53237 | -53237:
+            return False
+        case 53238 | -53238:
+            return True
+        case 53239 | -53239:
+            return False
+        case 53240 | -53240:
+            return True
+        case 53241 | -53241:
+            return False
+        case 53242 | -53242:
+            return True
+        case 53243 | -53243:
+            return False
+        case 53244 | -53244:
+            return True
+        case 53245 | -53245:
+            return False
+        case 53246 | -53246:
+            return True
+        case 53247 | -53247:
+            return False
+        case 53248 | -53248:
+            return True
+        case 53249 | -53249:
+            return False
+        case 53250 | -53250:
+            return True
+        case 53251 | -53251:
+            return False
+        case 53252 | -53252:
+            return True
+        case 53253 | -53253:
+            return False
+        case 53254 | -53254:
+            return True
+        case 53255 | -53255:
+            return False
+        case 53256 | -53256:
+            return True
+        case 53257 | -53257:
+            return False
+        case 53258 | -53258:
+            return True
+        case 53259 | -53259:
+            return False
+        case 53260 | -53260:
+            return True
+        case 53261 | -53261:
+            return False
+        case 53262 | -53262:
+            return True
+        case 53263 | -53263:
+            return False
+        case 53264 | -53264:
+            return True
+        case 53265 | -53265:
+            return False
+        case 53266 | -53266:
+            return True
+        case 53267 | -53267:
+            return False
+        case 53268 | -53268:
+            return True
+        case 53269 | -53269:
+            return False
+        case 53270 | -53270:
+            return True
+        case 53271 | -53271:
+            return False
+        case 53272 | -53272:
+            return True
+        case 53273 | -53273:
+            return False
+        case 53274 | -53274:
+            return True
+        case 53275 | -53275:
+            return False
+        case 53276 | -53276:
+            return True
+        case 53277 | -53277:
+            return False
+        case 53278 | -53278:
+            return True
+        case 53279 | -53279:
+            return False
+        case 53280 | -53280:
+            return True
+        case 53281 | -53281:
+            return False
+        case 53282 | -53282:
+            return True
+        case 53283 | -53283:
+            return False
+        case 53284 | -53284:
+            return True
+        case 53285 | -53285:
+            return False
+        case 53286 | -53286:
+            return True
+        case 53287 | -53287:
+            return False
+        case 53288 | -53288:
+            return True
+        case 53289 | -53289:
+            return False
+        case 53290 | -53290:
+            return True
+        case 53291 | -53291:
+            return False
+        case 53292 | -53292:
+            return True
+        case 53293 | -53293:
+            return False
+        case 53294 | -53294:
+            return True
+        case 53295 | -53295:
+            return False
+        case 53296 | -53296:
+            return True
+        case 53297 | -53297:
+            return False
+        case 53298 | -53298:
+            return True
+        case 53299 | -53299:
+            return False
+        case 53300 | -53300:
+            return True
+        case 53301 | -53301:
+            return False
+        case 53302 | -53302:
+            return True
+        case 53303 | -53303:
+            return False
+        case 53304 | -53304:
+            return True
+        case 53305 | -53305:
+            return False
+        case 53306 | -53306:
+            return True
+        case 53307 | -53307:
+            return False
+        case 53308 | -53308:
+            return True
+        case 53309 | -53309:
+            return False
+        case 53310 | -53310:
+            return True
+        case 53311 | -53311:
+            return False
+        case 53312 | -53312:
+            return True
+        case 53313 | -53313:
+            return False
+        case 53314 | -53314:
+            return True
+        case 53315 | -53315:
+            return False
+        case 53316 | -53316:
+            return True
+        case 53317 | -53317:
+            return False
+        case 53318 | -53318:
+            return True
+        case 53319 | -53319:
+            return False
+        case 53320 | -53320:
+            return True
+        case 53321 | -53321:
+            return False
+        case 53322 | -53322:
+            return True
+        case 53323 | -53323:
+            return False
+        case 53324 | -53324:
+            return True
+        case 53325 | -53325:
+            return False
+        case 53326 | -53326:
+            return True
+        case 53327 | -53327:
+            return False
+        case 53328 | -53328:
+            return True
+        case 53329 | -53329:
+            return False
+        case 53330 | -53330:
+            return True
+        case 53331 | -53331:
+            return False
+        case 53332 | -53332:
+            return True
+        case 53333 | -53333:
+            return False
+        case 53334 | -53334:
+            return True
+        case 53335 | -53335:
+            return False
+        case 53336 | -53336:
+            return True
+        case 53337 | -53337:
+            return False
+        case 53338 | -53338:
+            return True
+        case 53339 | -53339:
+            return False
+        case 53340 | -53340:
+            return True
+        case 53341 | -53341:
+            return False
+        case 53342 | -53342:
+            return True
+        case 53343 | -53343:
+            return False
+        case 53344 | -53344:
+            return True
+        case 53345 | -53345:
+            return False
+        case 53346 | -53346:
+            return True
+        case 53347 | -53347:
+            return False
+        case 53348 | -53348:
+            return True
+        case 53349 | -53349:
+            return False
+        case 53350 | -53350:
+            return True
+        case 53351 | -53351:
+            return False
+        case 53352 | -53352:
+            return True
+        case 53353 | -53353:
+            return False
+        case 53354 | -53354:
+            return True
+        case 53355 | -53355:
+            return False
+        case 53356 | -53356:
+            return True
+        case 53357 | -53357:
+            return False
+        case 53358 | -53358:
+            return True
+        case 53359 | -53359:
+            return False
+        case 53360 | -53360:
+            return True
+        case 53361 | -53361:
+            return False
+        case 53362 | -53362:
+            return True
+        case 53363 | -53363:
+            return False
+        case 53364 | -53364:
+            return True
+        case 53365 | -53365:
+            return False
+        case 53366 | -53366:
+            return True
+        case 53367 | -53367:
+            return False
+        case 53368 | -53368:
+            return True
+        case 53369 | -53369:
+            return False
+        case 53370 | -53370:
+            return True
+        case 53371 | -53371:
+            return False
+        case 53372 | -53372:
+            return True
+        case 53373 | -53373:
+            return False
+        case 53374 | -53374:
+            return True
+        case 53375 | -53375:
+            return False
+        case 53376 | -53376:
+            return True
+        case 53377 | -53377:
+            return False
+        case 53378 | -53378:
+            return True
+        case 53379 | -53379:
+            return False
+        case 53380 | -53380:
+            return True
+        case 53381 | -53381:
+            return False
+        case 53382 | -53382:
+            return True
+        case 53383 | -53383:
+            return False
+        case 53384 | -53384:
+            return True
+        case 53385 | -53385:
+            return False
+        case 53386 | -53386:
+            return True
+        case 53387 | -53387:
+            return False
+        case 53388 | -53388:
+            return True
+        case 53389 | -53389:
+            return False
+        case 53390 | -53390:
+            return True
+        case 53391 | -53391:
+            return False
+        case 53392 | -53392:
+            return True
+        case 53393 | -53393:
+            return False
+        case 53394 | -53394:
+            return True
+        case 53395 | -53395:
+            return False
+        case 53396 | -53396:
+            return True
+        case 53397 | -53397:
+            return False
+        case 53398 | -53398:
+            return True
+        case 53399 | -53399:
+            return False
+        case 53400 | -53400:
+            return True
+        case 53401 | -53401:
+            return False
+        case 53402 | -53402:
+            return True
+        case 53403 | -53403:
+            return False
+        case 53404 | -53404:
+            return True
+        case 53405 | -53405:
+            return False
+        case 53406 | -53406:
+            return True
+        case 53407 | -53407:
+            return False
+        case 53408 | -53408:
+            return True
+        case 53409 | -53409:
+            return False
+        case 53410 | -53410:
+            return True
+        case 53411 | -53411:
+            return False
+        case 53412 | -53412:
+            return True
+        case 53413 | -53413:
+            return False
+        case 53414 | -53414:
+            return True
+        case 53415 | -53415:
+            return False
+        case 53416 | -53416:
+            return True
+        case 53417 | -53417:
+            return False
+        case 53418 | -53418:
+            return True
+        case 53419 | -53419:
+            return False
+        case 53420 | -53420:
+            return True
+        case 53421 | -53421:
+            return False
+        case 53422 | -53422:
+            return True
+        case 53423 | -53423:
+            return False
+        case 53424 | -53424:
+            return True
+        case 53425 | -53425:
+            return False
+        case 53426 | -53426:
+            return True
+        case 53427 | -53427:
+            return False
+        case 53428 | -53428:
+            return True
+        case 53429 | -53429:
+            return False
+        case 53430 | -53430:
+            return True
+        case 53431 | -53431:
+            return False
+        case 53432 | -53432:
+            return True
+        case 53433 | -53433:
+            return False
+        case 53434 | -53434:
+            return True
+        case 53435 | -53435:
+            return False
+        case 53436 | -53436:
+            return True
+        case 53437 | -53437:
+            return False
+        case 53438 | -53438:
+            return True
+        case 53439 | -53439:
+            return False
+        case 53440 | -53440:
+            return True
+        case 53441 | -53441:
+            return False
+        case 53442 | -53442:
+            return True
+        case 53443 | -53443:
+            return False
+        case 53444 | -53444:
+            return True
+        case 53445 | -53445:
+            return False
+        case 53446 | -53446:
+            return True
+        case 53447 | -53447:
+            return False
+        case 53448 | -53448:
+            return True
+        case 53449 | -53449:
+            return False
+        case 53450 | -53450:
+            return True
+        case 53451 | -53451:
+            return False
+        case 53452 | -53452:
+            return True
+        case 53453 | -53453:
+            return False
+        case 53454 | -53454:
+            return True
+        case 53455 | -53455:
+            return False
+        case 53456 | -53456:
+            return True
+        case 53457 | -53457:
+            return False
+        case 53458 | -53458:
+            return True
+        case 53459 | -53459:
+            return False
+        case 53460 | -53460:
+            return True
+        case 53461 | -53461:
+            return False
+        case 53462 | -53462:
+            return True
+        case 53463 | -53463:
+            return False
+        case 53464 | -53464:
+            return True
+        case 53465 | -53465:
+            return False
+        case 53466 | -53466:
+            return True
+        case 53467 | -53467:
+            return False
+        case 53468 | -53468:
+            return True
+        case 53469 | -53469:
+            return False
+        case 53470 | -53470:
+            return True
+        case 53471 | -53471:
+            return False
+        case 53472 | -53472:
+            return True
+        case 53473 | -53473:
+            return False
+        case 53474 | -53474:
+            return True
+        case 53475 | -53475:
+            return False
+        case 53476 | -53476:
+            return True
+        case 53477 | -53477:
+            return False
+        case 53478 | -53478:
+            return True
+        case 53479 | -53479:
+            return False
+        case 53480 | -53480:
+            return True
+        case 53481 | -53481:
+            return False
+        case 53482 | -53482:
+            return True
+        case 53483 | -53483:
+            return False
+        case 53484 | -53484:
+            return True
+        case 53485 | -53485:
+            return False
+        case 53486 | -53486:
+            return True
+        case 53487 | -53487:
+            return False
+        case 53488 | -53488:
+            return True
+        case 53489 | -53489:
+            return False
+        case 53490 | -53490:
+            return True
+        case 53491 | -53491:
+            return False
+        case 53492 | -53492:
+            return True
+        case 53493 | -53493:
+            return False
+        case 53494 | -53494:
+            return True
+        case 53495 | -53495:
+            return False
+        case 53496 | -53496:
+            return True
+        case 53497 | -53497:
+            return False
+        case 53498 | -53498:
+            return True
+        case 53499 | -53499:
+            return False
+        case 53500 | -53500:
+            return True
+        case 53501 | -53501:
+            return False
+        case 53502 | -53502:
+            return True
+        case 53503 | -53503:
+            return False
+        case 53504 | -53504:
+            return True
+        case 53505 | -53505:
+            return False
+        case 53506 | -53506:
+            return True
+        case 53507 | -53507:
+            return False
+        case 53508 | -53508:
+            return True
+        case 53509 | -53509:
+            return False
+        case 53510 | -53510:
+            return True
+        case 53511 | -53511:
+            return False
+        case 53512 | -53512:
+            return True
+        case 53513 | -53513:
+            return False
+        case 53514 | -53514:
+            return True
+        case 53515 | -53515:
+            return False
+        case 53516 | -53516:
+            return True
+        case 53517 | -53517:
+            return False
+        case 53518 | -53518:
+            return True
+        case 53519 | -53519:
+            return False
+        case 53520 | -53520:
+            return True
+        case 53521 | -53521:
+            return False
+        case 53522 | -53522:
+            return True
+        case 53523 | -53523:
+            return False
+        case 53524 | -53524:
+            return True
+        case 53525 | -53525:
+            return False
+        case 53526 | -53526:
+            return True
+        case 53527 | -53527:
+            return False
+        case 53528 | -53528:
+            return True
+        case 53529 | -53529:
+            return False
+        case 53530 | -53530:
+            return True
+        case 53531 | -53531:
+            return False
+        case 53532 | -53532:
+            return True
+        case 53533 | -53533:
+            return False
+        case 53534 | -53534:
+            return True
+        case 53535 | -53535:
+            return False
+        case 53536 | -53536:
+            return True
+        case 53537 | -53537:
+            return False
+        case 53538 | -53538:
+            return True
+        case 53539 | -53539:
+            return False
+        case 53540 | -53540:
+            return True
+        case 53541 | -53541:
+            return False
+        case 53542 | -53542:
+            return True
+        case 53543 | -53543:
+            return False
+        case 53544 | -53544:
+            return True
+        case 53545 | -53545:
+            return False
+        case 53546 | -53546:
+            return True
+        case 53547 | -53547:
+            return False
+        case 53548 | -53548:
+            return True
+        case 53549 | -53549:
+            return False
+        case 53550 | -53550:
+            return True
+        case 53551 | -53551:
+            return False
+        case 53552 | -53552:
+            return True
+        case 53553 | -53553:
+            return False
+        case 53554 | -53554:
+            return True
+        case 53555 | -53555:
+            return False
+        case 53556 | -53556:
+            return True
+        case 53557 | -53557:
+            return False
+        case 53558 | -53558:
+            return True
+        case 53559 | -53559:
+            return False
+        case 53560 | -53560:
+            return True
+        case 53561 | -53561:
+            return False
+        case 53562 | -53562:
+            return True
+        case 53563 | -53563:
+            return False
+        case 53564 | -53564:
+            return True
+        case 53565 | -53565:
+            return False
+        case 53566 | -53566:
+            return True
+        case 53567 | -53567:
+            return False
+        case 53568 | -53568:
+            return True
+        case 53569 | -53569:
+            return False
+        case 53570 | -53570:
+            return True
+        case 53571 | -53571:
+            return False
+        case 53572 | -53572:
+            return True
+        case 53573 | -53573:
+            return False
+        case 53574 | -53574:
+            return True
+        case 53575 | -53575:
+            return False
+        case 53576 | -53576:
+            return True
+        case 53577 | -53577:
+            return False
+        case 53578 | -53578:
+            return True
+        case 53579 | -53579:
+            return False
+        case 53580 | -53580:
+            return True
+        case 53581 | -53581:
+            return False
+        case 53582 | -53582:
+            return True
+        case 53583 | -53583:
+            return False
+        case 53584 | -53584:
+            return True
+        case 53585 | -53585:
+            return False
+        case 53586 | -53586:
+            return True
+        case 53587 | -53587:
+            return False
+        case 53588 | -53588:
+            return True
+        case 53589 | -53589:
+            return False
+        case 53590 | -53590:
+            return True
+        case 53591 | -53591:
+            return False
+        case 53592 | -53592:
+            return True
+        case 53593 | -53593:
+            return False
+        case 53594 | -53594:
+            return True
+        case 53595 | -53595:
+            return False
+        case 53596 | -53596:
+            return True
+        case 53597 | -53597:
+            return False
+        case 53598 | -53598:
+            return True
+        case 53599 | -53599:
+            return False
+        case 53600 | -53600:
+            return True
+        case 53601 | -53601:
+            return False
+        case 53602 | -53602:
+            return True
+        case 53603 | -53603:
+            return False
+        case 53604 | -53604:
+            return True
+        case 53605 | -53605:
+            return False
+        case 53606 | -53606:
+            return True
+        case 53607 | -53607:
+            return False
+        case 53608 | -53608:
+            return True
+        case 53609 | -53609:
+            return False
+        case 53610 | -53610:
+            return True
+        case 53611 | -53611:
+            return False
+        case 53612 | -53612:
+            return True
+        case 53613 | -53613:
+            return False
+        case 53614 | -53614:
+            return True
+        case 53615 | -53615:
+            return False
+        case 53616 | -53616:
+            return True
+        case 53617 | -53617:
+            return False
+        case 53618 | -53618:
+            return True
+        case 53619 | -53619:
+            return False
+        case 53620 | -53620:
+            return True
+        case 53621 | -53621:
+            return False
+        case 53622 | -53622:
+            return True
+        case 53623 | -53623:
+            return False
+        case 53624 | -53624:
+            return True
+        case 53625 | -53625:
+            return False
+        case 53626 | -53626:
+            return True
+        case 53627 | -53627:
+            return False
+        case 53628 | -53628:
+            return True
+        case 53629 | -53629:
+            return False
+        case 53630 | -53630:
+            return True
+        case 53631 | -53631:
+            return False
+        case 53632 | -53632:
+            return True
+        case 53633 | -53633:
+            return False
+        case 53634 | -53634:
+            return True
+        case 53635 | -53635:
+            return False
+        case 53636 | -53636:
+            return True
+        case 53637 | -53637:
+            return False
+        case 53638 | -53638:
+            return True
+        case 53639 | -53639:
+            return False
+        case 53640 | -53640:
+            return True
+        case 53641 | -53641:
+            return False
+        case 53642 | -53642:
+            return True
+        case 53643 | -53643:
+            return False
+        case 53644 | -53644:
+            return True
+        case 53645 | -53645:
+            return False
+        case 53646 | -53646:
+            return True
+        case 53647 | -53647:
+            return False
+        case 53648 | -53648:
+            return True
+        case 53649 | -53649:
+            return False
+        case 53650 | -53650:
+            return True
+        case 53651 | -53651:
+            return False
+        case 53652 | -53652:
+            return True
+        case 53653 | -53653:
+            return False
+        case 53654 | -53654:
+            return True
+        case 53655 | -53655:
+            return False
+        case 53656 | -53656:
+            return True
+        case 53657 | -53657:
+            return False
+        case 53658 | -53658:
+            return True
+        case 53659 | -53659:
+            return False
+        case 53660 | -53660:
+            return True
+        case 53661 | -53661:
+            return False
+        case 53662 | -53662:
+            return True
+        case 53663 | -53663:
+            return False
+        case 53664 | -53664:
+            return True
+        case 53665 | -53665:
+            return False
+        case 53666 | -53666:
+            return True
+        case 53667 | -53667:
+            return False
+        case 53668 | -53668:
+            return True
+        case 53669 | -53669:
+            return False
+        case 53670 | -53670:
+            return True
+        case 53671 | -53671:
+            return False
+        case 53672 | -53672:
+            return True
+        case 53673 | -53673:
+            return False
+        case 53674 | -53674:
+            return True
+        case 53675 | -53675:
+            return False
+        case 53676 | -53676:
+            return True
+        case 53677 | -53677:
+            return False
+        case 53678 | -53678:
+            return True
+        case 53679 | -53679:
+            return False
+        case 53680 | -53680:
+            return True
+        case 53681 | -53681:
+            return False
+        case 53682 | -53682:
+            return True
+        case 53683 | -53683:
+            return False
+        case 53684 | -53684:
+            return True
+        case 53685 | -53685:
+            return False
+        case 53686 | -53686:
+            return True
+        case 53687 | -53687:
+            return False
+        case 53688 | -53688:
+            return True
+        case 53689 | -53689:
+            return False
+        case 53690 | -53690:
+            return True
+        case 53691 | -53691:
+            return False
+        case 53692 | -53692:
+            return True
+        case 53693 | -53693:
+            return False
+        case 53694 | -53694:
+            return True
+        case 53695 | -53695:
+            return False
+        case 53696 | -53696:
+            return True
+        case 53697 | -53697:
+            return False
+        case 53698 | -53698:
+            return True
+        case 53699 | -53699:
+            return False
+        case 53700 | -53700:
+            return True
+        case 53701 | -53701:
+            return False
+        case 53702 | -53702:
+            return True
+        case 53703 | -53703:
+            return False
+        case 53704 | -53704:
+            return True
+        case 53705 | -53705:
+            return False
+        case 53706 | -53706:
+            return True
+        case 53707 | -53707:
+            return False
+        case 53708 | -53708:
+            return True
+        case 53709 | -53709:
+            return False
+        case 53710 | -53710:
+            return True
+        case 53711 | -53711:
+            return False
+        case 53712 | -53712:
+            return True
+        case 53713 | -53713:
+            return False
+        case 53714 | -53714:
+            return True
+        case 53715 | -53715:
+            return False
+        case 53716 | -53716:
+            return True
+        case 53717 | -53717:
+            return False
+        case 53718 | -53718:
+            return True
+        case 53719 | -53719:
+            return False
+        case 53720 | -53720:
+            return True
+        case 53721 | -53721:
+            return False
+        case 53722 | -53722:
+            return True
+        case 53723 | -53723:
+            return False
+        case 53724 | -53724:
+            return True
+        case 53725 | -53725:
+            return False
+        case 53726 | -53726:
+            return True
+        case 53727 | -53727:
+            return False
+        case 53728 | -53728:
+            return True
+        case 53729 | -53729:
+            return False
+        case 53730 | -53730:
+            return True
+        case 53731 | -53731:
+            return False
+        case 53732 | -53732:
+            return True
+        case 53733 | -53733:
+            return False
+        case 53734 | -53734:
+            return True
+        case 53735 | -53735:
+            return False
+        case 53736 | -53736:
+            return True
+        case 53737 | -53737:
+            return False
+        case 53738 | -53738:
+            return True
+        case 53739 | -53739:
+            return False
+        case 53740 | -53740:
+            return True
+        case 53741 | -53741:
+            return False
+        case 53742 | -53742:
+            return True
+        case 53743 | -53743:
+            return False
+        case 53744 | -53744:
+            return True
+        case 53745 | -53745:
+            return False
+        case 53746 | -53746:
+            return True
+        case 53747 | -53747:
+            return False
+        case 53748 | -53748:
+            return True
+        case 53749 | -53749:
+            return False
+        case 53750 | -53750:
+            return True
+        case 53751 | -53751:
+            return False
+        case 53752 | -53752:
+            return True
+        case 53753 | -53753:
+            return False
+        case 53754 | -53754:
+            return True
+        case 53755 | -53755:
+            return False
+        case 53756 | -53756:
+            return True
+        case 53757 | -53757:
+            return False
+        case 53758 | -53758:
+            return True
+        case 53759 | -53759:
+            return False
+        case 53760 | -53760:
+            return True
+        case 53761 | -53761:
+            return False
+        case 53762 | -53762:
+            return True
+        case 53763 | -53763:
+            return False
+        case 53764 | -53764:
+            return True
+        case 53765 | -53765:
+            return False
+        case 53766 | -53766:
+            return True
+        case 53767 | -53767:
+            return False
+        case 53768 | -53768:
+            return True
+        case 53769 | -53769:
+            return False
+        case 53770 | -53770:
+            return True
+        case 53771 | -53771:
+            return False
+        case 53772 | -53772:
+            return True
+        case 53773 | -53773:
+            return False
+        case 53774 | -53774:
+            return True
+        case 53775 | -53775:
+            return False
+        case 53776 | -53776:
+            return True
+        case 53777 | -53777:
+            return False
+        case 53778 | -53778:
+            return True
+        case 53779 | -53779:
+            return False
+        case 53780 | -53780:
+            return True
+        case 53781 | -53781:
+            return False
+        case 53782 | -53782:
+            return True
+        case 53783 | -53783:
+            return False
+        case 53784 | -53784:
+            return True
+        case 53785 | -53785:
+            return False
+        case 53786 | -53786:
+            return True
+        case 53787 | -53787:
+            return False
+        case 53788 | -53788:
+            return True
+        case 53789 | -53789:
+            return False
+        case 53790 | -53790:
+            return True
+        case 53791 | -53791:
+            return False
+        case 53792 | -53792:
+            return True
+        case 53793 | -53793:
+            return False
+        case 53794 | -53794:
+            return True
+        case 53795 | -53795:
+            return False
+        case 53796 | -53796:
+            return True
+        case 53797 | -53797:
+            return False
+        case 53798 | -53798:
+            return True
+        case 53799 | -53799:
+            return False
+        case 53800 | -53800:
+            return True
+        case 53801 | -53801:
+            return False
+        case 53802 | -53802:
+            return True
+        case 53803 | -53803:
+            return False
+        case 53804 | -53804:
+            return True
+        case 53805 | -53805:
+            return False
+        case 53806 | -53806:
+            return True
+        case 53807 | -53807:
+            return False
+        case 53808 | -53808:
+            return True
+        case 53809 | -53809:
+            return False
+        case 53810 | -53810:
+            return True
+        case 53811 | -53811:
+            return False
+        case 53812 | -53812:
+            return True
+        case 53813 | -53813:
+            return False
+        case 53814 | -53814:
+            return True
+        case 53815 | -53815:
+            return False
+        case 53816 | -53816:
+            return True
+        case 53817 | -53817:
+            return False
+        case 53818 | -53818:
+            return True
+        case 53819 | -53819:
+            return False
+        case 53820 | -53820:
+            return True
+        case 53821 | -53821:
+            return False
+        case 53822 | -53822:
+            return True
+        case 53823 | -53823:
+            return False
+        case 53824 | -53824:
+            return True
+        case 53825 | -53825:
+            return False
+        case 53826 | -53826:
+            return True
+        case 53827 | -53827:
+            return False
+        case 53828 | -53828:
+            return True
+        case 53829 | -53829:
+            return False
+        case 53830 | -53830:
+            return True
+        case 53831 | -53831:
+            return False
+        case 53832 | -53832:
+            return True
+        case 53833 | -53833:
+            return False
+        case 53834 | -53834:
+            return True
+        case 53835 | -53835:
+            return False
+        case 53836 | -53836:
+            return True
+        case 53837 | -53837:
+            return False
+        case 53838 | -53838:
+            return True
+        case 53839 | -53839:
+            return False
+        case 53840 | -53840:
+            return True
+        case 53841 | -53841:
+            return False
+        case 53842 | -53842:
+            return True
+        case 53843 | -53843:
+            return False
+        case 53844 | -53844:
+            return True
+        case 53845 | -53845:
+            return False
+        case 53846 | -53846:
+            return True
+        case 53847 | -53847:
+            return False
+        case 53848 | -53848:
+            return True
+        case 53849 | -53849:
+            return False
+        case 53850 | -53850:
+            return True
+        case 53851 | -53851:
+            return False
+        case 53852 | -53852:
+            return True
+        case 53853 | -53853:
+            return False
+        case 53854 | -53854:
+            return True
+        case 53855 | -53855:
+            return False
+        case 53856 | -53856:
+            return True
+        case 53857 | -53857:
+            return False
+        case 53858 | -53858:
+            return True
+        case 53859 | -53859:
+            return False
+        case 53860 | -53860:
+            return True
+        case 53861 | -53861:
+            return False
+        case 53862 | -53862:
+            return True
+        case 53863 | -53863:
+            return False
+        case 53864 | -53864:
+            return True
+        case 53865 | -53865:
+            return False
+        case 53866 | -53866:
+            return True
+        case 53867 | -53867:
+            return False
+        case 53868 | -53868:
+            return True
+        case 53869 | -53869:
+            return False
+        case 53870 | -53870:
+            return True
+        case 53871 | -53871:
+            return False
+        case 53872 | -53872:
+            return True
+        case 53873 | -53873:
+            return False
+        case 53874 | -53874:
+            return True
+        case 53875 | -53875:
+            return False
+        case 53876 | -53876:
+            return True
+        case 53877 | -53877:
+            return False
+        case 53878 | -53878:
+            return True
+        case 53879 | -53879:
+            return False
+        case 53880 | -53880:
+            return True
+        case 53881 | -53881:
+            return False
+        case 53882 | -53882:
+            return True
+        case 53883 | -53883:
+            return False
+        case 53884 | -53884:
+            return True
+        case 53885 | -53885:
+            return False
+        case 53886 | -53886:
+            return True
+        case 53887 | -53887:
+            return False
+        case 53888 | -53888:
+            return True
+        case 53889 | -53889:
+            return False
+        case 53890 | -53890:
+            return True
+        case 53891 | -53891:
+            return False
+        case 53892 | -53892:
+            return True
+        case 53893 | -53893:
+            return False
+        case 53894 | -53894:
+            return True
+        case 53895 | -53895:
+            return False
+        case 53896 | -53896:
+            return True
+        case 53897 | -53897:
+            return False
+        case 53898 | -53898:
+            return True
+        case 53899 | -53899:
+            return False
+        case 53900 | -53900:
+            return True
+        case 53901 | -53901:
+            return False
+        case 53902 | -53902:
+            return True
+        case 53903 | -53903:
+            return False
+        case 53904 | -53904:
+            return True
+        case 53905 | -53905:
+            return False
+        case 53906 | -53906:
+            return True
+        case 53907 | -53907:
+            return False
+        case 53908 | -53908:
+            return True
+        case 53909 | -53909:
+            return False
+        case 53910 | -53910:
+            return True
+        case 53911 | -53911:
+            return False
+        case 53912 | -53912:
+            return True
+        case 53913 | -53913:
+            return False
+        case 53914 | -53914:
+            return True
+        case 53915 | -53915:
+            return False
+        case 53916 | -53916:
+            return True
+        case 53917 | -53917:
+            return False
+        case 53918 | -53918:
+            return True
+        case 53919 | -53919:
+            return False
+        case 53920 | -53920:
+            return True
+        case 53921 | -53921:
+            return False
+        case 53922 | -53922:
+            return True
+        case 53923 | -53923:
+            return False
+        case 53924 | -53924:
+            return True
+        case 53925 | -53925:
+            return False
+        case 53926 | -53926:
+            return True
+        case 53927 | -53927:
+            return False
+        case 53928 | -53928:
+            return True
+        case 53929 | -53929:
+            return False
+        case 53930 | -53930:
+            return True
+        case 53931 | -53931:
+            return False
+        case 53932 | -53932:
+            return True
+        case 53933 | -53933:
+            return False
+        case 53934 | -53934:
+            return True
+        case 53935 | -53935:
+            return False
+        case 53936 | -53936:
+            return True
+        case 53937 | -53937:
+            return False
+        case 53938 | -53938:
+            return True
+        case 53939 | -53939:
+            return False
+        case 53940 | -53940:
+            return True
+        case 53941 | -53941:
+            return False
+        case 53942 | -53942:
+            return True
+        case 53943 | -53943:
+            return False
+        case 53944 | -53944:
+            return True
+        case 53945 | -53945:
+            return False
+        case 53946 | -53946:
+            return True
+        case 53947 | -53947:
+            return False
+        case 53948 | -53948:
+            return True
+        case 53949 | -53949:
+            return False
+        case 53950 | -53950:
+            return True
+        case 53951 | -53951:
+            return False
+        case 53952 | -53952:
+            return True
+        case 53953 | -53953:
+            return False
+        case 53954 | -53954:
+            return True
+        case 53955 | -53955:
+            return False
+        case 53956 | -53956:
+            return True
+        case 53957 | -53957:
+            return False
+        case 53958 | -53958:
+            return True
+        case 53959 | -53959:
+            return False
+        case 53960 | -53960:
+            return True
+        case 53961 | -53961:
+            return False
+        case 53962 | -53962:
+            return True
+        case 53963 | -53963:
+            return False
+        case 53964 | -53964:
+            return True
+        case 53965 | -53965:
+            return False
+        case 53966 | -53966:
+            return True
+        case 53967 | -53967:
+            return False
+        case 53968 | -53968:
+            return True
+        case 53969 | -53969:
+            return False
+        case 53970 | -53970:
+            return True
+        case 53971 | -53971:
+            return False
+        case 53972 | -53972:
+            return True
+        case 53973 | -53973:
+            return False
+        case 53974 | -53974:
+            return True
+        case 53975 | -53975:
+            return False
+        case 53976 | -53976:
+            return True
+        case 53977 | -53977:
+            return False
+        case 53978 | -53978:
+            return True
+        case 53979 | -53979:
+            return False
+        case 53980 | -53980:
+            return True
+        case 53981 | -53981:
+            return False
+        case 53982 | -53982:
+            return True
+        case 53983 | -53983:
+            return False
+        case 53984 | -53984:
+            return True
+        case 53985 | -53985:
+            return False
+        case 53986 | -53986:
+            return True
+        case 53987 | -53987:
+            return False
+        case 53988 | -53988:
+            return True
+        case 53989 | -53989:
+            return False
+        case 53990 | -53990:
+            return True
+        case 53991 | -53991:
+            return False
+        case 53992 | -53992:
+            return True
+        case 53993 | -53993:
+            return False
+        case 53994 | -53994:
+            return True
+        case 53995 | -53995:
+            return False
+        case 53996 | -53996:
+            return True
+        case 53997 | -53997:
+            return False
+        case 53998 | -53998:
+            return True
+        case 53999 | -53999:
+            return False
+        case 54000 | -54000:
+            return True
+        case 54001 | -54001:
+            return False
+        case 54002 | -54002:
+            return True
+        case 54003 | -54003:
+            return False
+        case 54004 | -54004:
+            return True
+        case 54005 | -54005:
+            return False
+        case 54006 | -54006:
+            return True
+        case 54007 | -54007:
+            return False
+        case 54008 | -54008:
+            return True
+        case 54009 | -54009:
+            return False
+        case 54010 | -54010:
+            return True
+        case 54011 | -54011:
+            return False
+        case 54012 | -54012:
+            return True
+        case 54013 | -54013:
+            return False
+        case 54014 | -54014:
+            return True
+        case 54015 | -54015:
+            return False
+        case 54016 | -54016:
+            return True
+        case 54017 | -54017:
+            return False
+        case 54018 | -54018:
+            return True
+        case 54019 | -54019:
+            return False
+        case 54020 | -54020:
+            return True
+        case 54021 | -54021:
+            return False
+        case 54022 | -54022:
+            return True
+        case 54023 | -54023:
+            return False
+        case 54024 | -54024:
+            return True
+        case 54025 | -54025:
+            return False
+        case 54026 | -54026:
+            return True
+        case 54027 | -54027:
+            return False
+        case 54028 | -54028:
+            return True
+        case 54029 | -54029:
+            return False
+        case 54030 | -54030:
+            return True
+        case 54031 | -54031:
+            return False
+        case 54032 | -54032:
+            return True
+        case 54033 | -54033:
+            return False
+        case 54034 | -54034:
+            return True
+        case 54035 | -54035:
+            return False
+        case 54036 | -54036:
+            return True
+        case 54037 | -54037:
+            return False
+        case 54038 | -54038:
+            return True
+        case 54039 | -54039:
+            return False
+        case 54040 | -54040:
+            return True
+        case 54041 | -54041:
+            return False
+        case 54042 | -54042:
+            return True
+        case 54043 | -54043:
+            return False
+        case 54044 | -54044:
+            return True
+        case 54045 | -54045:
+            return False
+        case 54046 | -54046:
+            return True
+        case 54047 | -54047:
+            return False
+        case 54048 | -54048:
+            return True
+        case 54049 | -54049:
+            return False
+        case 54050 | -54050:
+            return True
+        case 54051 | -54051:
+            return False
+        case 54052 | -54052:
+            return True
+        case 54053 | -54053:
+            return False
+        case 54054 | -54054:
+            return True
+        case 54055 | -54055:
+            return False
+        case 54056 | -54056:
+            return True
+        case 54057 | -54057:
+            return False
+        case 54058 | -54058:
+            return True
+        case 54059 | -54059:
+            return False
+        case 54060 | -54060:
+            return True
+        case 54061 | -54061:
+            return False
+        case 54062 | -54062:
+            return True
+        case 54063 | -54063:
+            return False
+        case 54064 | -54064:
+            return True
+        case 54065 | -54065:
+            return False
+        case 54066 | -54066:
+            return True
+        case 54067 | -54067:
+            return False
+        case 54068 | -54068:
+            return True
+        case 54069 | -54069:
+            return False
+        case 54070 | -54070:
+            return True
+        case 54071 | -54071:
+            return False
+        case 54072 | -54072:
+            return True
+        case 54073 | -54073:
+            return False
+        case 54074 | -54074:
+            return True
+        case 54075 | -54075:
+            return False
+        case 54076 | -54076:
+            return True
+        case 54077 | -54077:
+            return False
+        case 54078 | -54078:
+            return True
+        case 54079 | -54079:
+            return False
+        case 54080 | -54080:
+            return True
+        case 54081 | -54081:
+            return False
+        case 54082 | -54082:
+            return True
+        case 54083 | -54083:
+            return False
+        case 54084 | -54084:
+            return True
+        case 54085 | -54085:
+            return False
+        case 54086 | -54086:
+            return True
+        case 54087 | -54087:
+            return False
+        case 54088 | -54088:
+            return True
+        case 54089 | -54089:
+            return False
+        case 54090 | -54090:
+            return True
+        case 54091 | -54091:
+            return False
+        case 54092 | -54092:
+            return True
+        case 54093 | -54093:
+            return False
+        case 54094 | -54094:
+            return True
+        case 54095 | -54095:
+            return False
+        case 54096 | -54096:
+            return True
+        case 54097 | -54097:
+            return False
+        case 54098 | -54098:
+            return True
+        case 54099 | -54099:
+            return False
+        case 54100 | -54100:
+            return True
+        case 54101 | -54101:
+            return False
+        case 54102 | -54102:
+            return True
+        case 54103 | -54103:
+            return False
+        case 54104 | -54104:
+            return True
+        case 54105 | -54105:
+            return False
+        case 54106 | -54106:
+            return True
+        case 54107 | -54107:
+            return False
+        case 54108 | -54108:
+            return True
+        case 54109 | -54109:
+            return False
+        case 54110 | -54110:
+            return True
+        case 54111 | -54111:
+            return False
+        case 54112 | -54112:
+            return True
+        case 54113 | -54113:
+            return False
+        case 54114 | -54114:
+            return True
+        case 54115 | -54115:
+            return False
+        case 54116 | -54116:
+            return True
+        case 54117 | -54117:
+            return False
+        case 54118 | -54118:
+            return True
+        case 54119 | -54119:
+            return False
+        case 54120 | -54120:
+            return True
+        case 54121 | -54121:
+            return False
+        case 54122 | -54122:
+            return True
+        case 54123 | -54123:
+            return False
+        case 54124 | -54124:
+            return True
+        case 54125 | -54125:
+            return False
+        case 54126 | -54126:
+            return True
+        case 54127 | -54127:
+            return False
+        case 54128 | -54128:
+            return True
+        case 54129 | -54129:
+            return False
+        case 54130 | -54130:
+            return True
+        case 54131 | -54131:
+            return False
+        case 54132 | -54132:
+            return True
+        case 54133 | -54133:
+            return False
+        case 54134 | -54134:
+            return True
+        case 54135 | -54135:
+            return False
+        case 54136 | -54136:
+            return True
+        case 54137 | -54137:
+            return False
+        case 54138 | -54138:
+            return True
+        case 54139 | -54139:
+            return False
+        case 54140 | -54140:
+            return True
+        case 54141 | -54141:
+            return False
+        case 54142 | -54142:
+            return True
+        case 54143 | -54143:
+            return False
+        case 54144 | -54144:
+            return True
+        case 54145 | -54145:
+            return False
+        case 54146 | -54146:
+            return True
+        case 54147 | -54147:
+            return False
+        case 54148 | -54148:
+            return True
+        case 54149 | -54149:
+            return False
+        case 54150 | -54150:
+            return True
+        case 54151 | -54151:
+            return False
+        case 54152 | -54152:
+            return True
+        case 54153 | -54153:
+            return False
+        case 54154 | -54154:
+            return True
+        case 54155 | -54155:
+            return False
+        case 54156 | -54156:
+            return True
+        case 54157 | -54157:
+            return False
+        case 54158 | -54158:
+            return True
+        case 54159 | -54159:
+            return False
+        case 54160 | -54160:
+            return True
+        case 54161 | -54161:
+            return False
+        case 54162 | -54162:
+            return True
+        case 54163 | -54163:
+            return False
+        case 54164 | -54164:
+            return True
+        case 54165 | -54165:
+            return False
+        case 54166 | -54166:
+            return True
+        case 54167 | -54167:
+            return False
+        case 54168 | -54168:
+            return True
+        case 54169 | -54169:
+            return False
+        case 54170 | -54170:
+            return True
+        case 54171 | -54171:
+            return False
+        case 54172 | -54172:
+            return True
+        case 54173 | -54173:
+            return False
+        case 54174 | -54174:
+            return True
+        case 54175 | -54175:
+            return False
+        case 54176 | -54176:
+            return True
+        case 54177 | -54177:
+            return False
+        case 54178 | -54178:
+            return True
+        case 54179 | -54179:
+            return False
+        case 54180 | -54180:
+            return True
+        case 54181 | -54181:
+            return False
+        case 54182 | -54182:
+            return True
+        case 54183 | -54183:
+            return False
+        case 54184 | -54184:
+            return True
+        case 54185 | -54185:
+            return False
+        case 54186 | -54186:
+            return True
+        case 54187 | -54187:
+            return False
+        case 54188 | -54188:
+            return True
+        case 54189 | -54189:
+            return False
+        case 54190 | -54190:
+            return True
+        case 54191 | -54191:
+            return False
+        case 54192 | -54192:
+            return True
+        case 54193 | -54193:
+            return False
+        case 54194 | -54194:
+            return True
+        case 54195 | -54195:
+            return False
+        case 54196 | -54196:
+            return True
+        case 54197 | -54197:
+            return False
+        case 54198 | -54198:
+            return True
+        case 54199 | -54199:
+            return False
+        case 54200 | -54200:
+            return True
+        case 54201 | -54201:
+            return False
+        case 54202 | -54202:
+            return True
+        case 54203 | -54203:
+            return False
+        case 54204 | -54204:
+            return True
+        case 54205 | -54205:
+            return False
+        case 54206 | -54206:
+            return True
+        case 54207 | -54207:
+            return False
+        case 54208 | -54208:
+            return True
+        case 54209 | -54209:
+            return False
+        case 54210 | -54210:
+            return True
+        case 54211 | -54211:
+            return False
+        case 54212 | -54212:
+            return True
+        case 54213 | -54213:
+            return False
+        case 54214 | -54214:
+            return True
+        case 54215 | -54215:
+            return False
+        case 54216 | -54216:
+            return True
+        case 54217 | -54217:
+            return False
+        case 54218 | -54218:
+            return True
+        case 54219 | -54219:
+            return False
+        case 54220 | -54220:
+            return True
+        case 54221 | -54221:
+            return False
+        case 54222 | -54222:
+            return True
+        case 54223 | -54223:
+            return False
+        case 54224 | -54224:
+            return True
+        case 54225 | -54225:
+            return False
+        case 54226 | -54226:
+            return True
+        case 54227 | -54227:
+            return False
+        case 54228 | -54228:
+            return True
+        case 54229 | -54229:
+            return False
+        case 54230 | -54230:
+            return True
+        case 54231 | -54231:
+            return False
+        case 54232 | -54232:
+            return True
+        case 54233 | -54233:
+            return False
+        case 54234 | -54234:
+            return True
+        case 54235 | -54235:
+            return False
+        case 54236 | -54236:
+            return True
+        case 54237 | -54237:
+            return False
+        case 54238 | -54238:
+            return True
+        case 54239 | -54239:
+            return False
+        case 54240 | -54240:
+            return True
+        case 54241 | -54241:
+            return False
+        case 54242 | -54242:
+            return True
+        case 54243 | -54243:
+            return False
+        case 54244 | -54244:
+            return True
+        case 54245 | -54245:
+            return False
+        case 54246 | -54246:
+            return True
+        case 54247 | -54247:
+            return False
+        case 54248 | -54248:
+            return True
+        case 54249 | -54249:
+            return False
+        case 54250 | -54250:
+            return True
+        case 54251 | -54251:
+            return False
+        case 54252 | -54252:
+            return True
+        case 54253 | -54253:
+            return False
+        case 54254 | -54254:
+            return True
+        case 54255 | -54255:
+            return False
+        case 54256 | -54256:
+            return True
+        case 54257 | -54257:
+            return False
+        case 54258 | -54258:
+            return True
+        case 54259 | -54259:
+            return False
+        case 54260 | -54260:
+            return True
+        case 54261 | -54261:
+            return False
+        case 54262 | -54262:
+            return True
+        case 54263 | -54263:
+            return False
+        case 54264 | -54264:
+            return True
+        case 54265 | -54265:
+            return False
+        case 54266 | -54266:
+            return True
+        case 54267 | -54267:
+            return False
+        case 54268 | -54268:
+            return True
+        case 54269 | -54269:
+            return False
+        case 54270 | -54270:
+            return True
+        case 54271 | -54271:
+            return False
+        case 54272 | -54272:
+            return True
+        case 54273 | -54273:
+            return False
+        case 54274 | -54274:
+            return True
+        case 54275 | -54275:
+            return False
+        case 54276 | -54276:
+            return True
+        case 54277 | -54277:
+            return False
+        case 54278 | -54278:
+            return True
+        case 54279 | -54279:
+            return False
+        case 54280 | -54280:
+            return True
+        case 54281 | -54281:
+            return False
+        case 54282 | -54282:
+            return True
+        case 54283 | -54283:
+            return False
+        case 54284 | -54284:
+            return True
+        case 54285 | -54285:
+            return False
+        case 54286 | -54286:
+            return True
+        case 54287 | -54287:
+            return False
+        case 54288 | -54288:
+            return True
+        case 54289 | -54289:
+            return False
+        case 54290 | -54290:
+            return True
+        case 54291 | -54291:
+            return False
+        case 54292 | -54292:
+            return True
+        case 54293 | -54293:
+            return False
+        case 54294 | -54294:
+            return True
+        case 54295 | -54295:
+            return False
+        case 54296 | -54296:
+            return True
+        case 54297 | -54297:
+            return False
+        case 54298 | -54298:
+            return True
+        case 54299 | -54299:
+            return False
+        case 54300 | -54300:
+            return True
+        case 54301 | -54301:
+            return False
+        case 54302 | -54302:
+            return True
+        case 54303 | -54303:
+            return False
+        case 54304 | -54304:
+            return True
+        case 54305 | -54305:
+            return False
+        case 54306 | -54306:
+            return True
+        case 54307 | -54307:
+            return False
+        case 54308 | -54308:
+            return True
+        case 54309 | -54309:
+            return False
+        case 54310 | -54310:
+            return True
+        case 54311 | -54311:
+            return False
+        case 54312 | -54312:
+            return True
+        case 54313 | -54313:
+            return False
+        case 54314 | -54314:
+            return True
+        case 54315 | -54315:
+            return False
+        case 54316 | -54316:
+            return True
+        case 54317 | -54317:
+            return False
+        case 54318 | -54318:
+            return True
+        case 54319 | -54319:
+            return False
+        case 54320 | -54320:
+            return True
+        case 54321 | -54321:
+            return False
+        case 54322 | -54322:
+            return True
+        case 54323 | -54323:
+            return False
+        case 54324 | -54324:
+            return True
+        case 54325 | -54325:
+            return False
+        case 54326 | -54326:
+            return True
+        case 54327 | -54327:
+            return False
+        case 54328 | -54328:
+            return True
+        case 54329 | -54329:
+            return False
+        case 54330 | -54330:
+            return True
+        case 54331 | -54331:
+            return False
+        case 54332 | -54332:
+            return True
+        case 54333 | -54333:
+            return False
+        case 54334 | -54334:
+            return True
+        case 54335 | -54335:
+            return False
+        case 54336 | -54336:
+            return True
+        case 54337 | -54337:
+            return False
+        case 54338 | -54338:
+            return True
+        case 54339 | -54339:
+            return False
+        case 54340 | -54340:
+            return True
+        case 54341 | -54341:
+            return False
+        case 54342 | -54342:
+            return True
+        case 54343 | -54343:
+            return False
+        case 54344 | -54344:
+            return True
+        case 54345 | -54345:
+            return False
+        case 54346 | -54346:
+            return True
+        case 54347 | -54347:
+            return False
+        case 54348 | -54348:
+            return True
+        case 54349 | -54349:
+            return False
+        case 54350 | -54350:
+            return True
+        case 54351 | -54351:
+            return False
+        case 54352 | -54352:
+            return True
+        case 54353 | -54353:
+            return False
+        case 54354 | -54354:
+            return True
+        case 54355 | -54355:
+            return False
+        case 54356 | -54356:
+            return True
+        case 54357 | -54357:
+            return False
+        case 54358 | -54358:
+            return True
+        case 54359 | -54359:
+            return False
+        case 54360 | -54360:
+            return True
+        case 54361 | -54361:
+            return False
+        case 54362 | -54362:
+            return True
+        case 54363 | -54363:
+            return False
+        case 54364 | -54364:
+            return True
+        case 54365 | -54365:
+            return False
+        case 54366 | -54366:
+            return True
+        case 54367 | -54367:
+            return False
+        case 54368 | -54368:
+            return True
+        case 54369 | -54369:
+            return False
+        case 54370 | -54370:
+            return True
+        case 54371 | -54371:
+            return False
+        case 54372 | -54372:
+            return True
+        case 54373 | -54373:
+            return False
+        case 54374 | -54374:
+            return True
+        case 54375 | -54375:
+            return False
+        case 54376 | -54376:
+            return True
+        case 54377 | -54377:
+            return False
+        case 54378 | -54378:
+            return True
+        case 54379 | -54379:
+            return False
+        case 54380 | -54380:
+            return True
+        case 54381 | -54381:
+            return False
+        case 54382 | -54382:
+            return True
+        case 54383 | -54383:
+            return False
+        case 54384 | -54384:
+            return True
+        case 54385 | -54385:
+            return False
+        case 54386 | -54386:
+            return True
+        case 54387 | -54387:
+            return False
+        case 54388 | -54388:
+            return True
+        case 54389 | -54389:
+            return False
+        case 54390 | -54390:
+            return True
+        case 54391 | -54391:
+            return False
+        case 54392 | -54392:
+            return True
+        case 54393 | -54393:
+            return False
+        case 54394 | -54394:
+            return True
+        case 54395 | -54395:
+            return False
+        case 54396 | -54396:
+            return True
+        case 54397 | -54397:
+            return False
+        case 54398 | -54398:
+            return True
+        case 54399 | -54399:
+            return False
+        case 54400 | -54400:
+            return True
+        case 54401 | -54401:
+            return False
+        case 54402 | -54402:
+            return True
+        case 54403 | -54403:
+            return False
+        case 54404 | -54404:
+            return True
+        case 54405 | -54405:
+            return False
+        case 54406 | -54406:
+            return True
+        case 54407 | -54407:
+            return False
+        case 54408 | -54408:
+            return True
+        case 54409 | -54409:
+            return False
+        case 54410 | -54410:
+            return True
+        case 54411 | -54411:
+            return False
+        case 54412 | -54412:
+            return True
+        case 54413 | -54413:
+            return False
+        case 54414 | -54414:
+            return True
+        case 54415 | -54415:
+            return False
+        case 54416 | -54416:
+            return True
+        case 54417 | -54417:
+            return False
+        case 54418 | -54418:
+            return True
+        case 54419 | -54419:
+            return False
+        case 54420 | -54420:
+            return True
+        case 54421 | -54421:
+            return False
+        case 54422 | -54422:
+            return True
+        case 54423 | -54423:
+            return False
+        case 54424 | -54424:
+            return True
+        case 54425 | -54425:
+            return False
+        case 54426 | -54426:
+            return True
+        case 54427 | -54427:
+            return False
+        case 54428 | -54428:
+            return True
+        case 54429 | -54429:
+            return False
+        case 54430 | -54430:
+            return True
+        case 54431 | -54431:
+            return False
+        case 54432 | -54432:
+            return True
+        case 54433 | -54433:
+            return False
+        case 54434 | -54434:
+            return True
+        case 54435 | -54435:
+            return False
+        case 54436 | -54436:
+            return True
+        case 54437 | -54437:
+            return False
+        case 54438 | -54438:
+            return True
+        case 54439 | -54439:
+            return False
+        case 54440 | -54440:
+            return True
+        case 54441 | -54441:
+            return False
+        case 54442 | -54442:
+            return True
+        case 54443 | -54443:
+            return False
+        case 54444 | -54444:
+            return True
+        case 54445 | -54445:
+            return False
+        case 54446 | -54446:
+            return True
+        case 54447 | -54447:
+            return False
+        case 54448 | -54448:
+            return True
+        case 54449 | -54449:
+            return False
+        case 54450 | -54450:
+            return True
+        case 54451 | -54451:
+            return False
+        case 54452 | -54452:
+            return True
+        case 54453 | -54453:
+            return False
+        case 54454 | -54454:
+            return True
+        case 54455 | -54455:
+            return False
+        case 54456 | -54456:
+            return True
+        case 54457 | -54457:
+            return False
+        case 54458 | -54458:
+            return True
+        case 54459 | -54459:
+            return False
+        case 54460 | -54460:
+            return True
+        case 54461 | -54461:
+            return False
+        case 54462 | -54462:
+            return True
+        case 54463 | -54463:
+            return False
+        case 54464 | -54464:
+            return True
+        case 54465 | -54465:
+            return False
+        case 54466 | -54466:
+            return True
+        case 54467 | -54467:
+            return False
+        case 54468 | -54468:
+            return True
+        case 54469 | -54469:
+            return False
+        case 54470 | -54470:
+            return True
+        case 54471 | -54471:
+            return False
+        case 54472 | -54472:
+            return True
+        case 54473 | -54473:
+            return False
+        case 54474 | -54474:
+            return True
+        case 54475 | -54475:
+            return False
+        case 54476 | -54476:
+            return True
+        case 54477 | -54477:
+            return False
+        case 54478 | -54478:
+            return True
+        case 54479 | -54479:
+            return False
+        case 54480 | -54480:
+            return True
+        case 54481 | -54481:
+            return False
+        case 54482 | -54482:
+            return True
+        case 54483 | -54483:
+            return False
+        case 54484 | -54484:
+            return True
+        case 54485 | -54485:
+            return False
+        case 54486 | -54486:
+            return True
+        case 54487 | -54487:
+            return False
+        case 54488 | -54488:
+            return True
+        case 54489 | -54489:
+            return False
+        case 54490 | -54490:
+            return True
+        case 54491 | -54491:
+            return False
+        case 54492 | -54492:
+            return True
+        case 54493 | -54493:
+            return False
+        case 54494 | -54494:
+            return True
+        case 54495 | -54495:
+            return False
+        case 54496 | -54496:
+            return True
+        case 54497 | -54497:
+            return False
+        case 54498 | -54498:
+            return True
+        case 54499 | -54499:
+            return False
+        case 54500 | -54500:
+            return True
+        case 54501 | -54501:
+            return False
+        case 54502 | -54502:
+            return True
+        case 54503 | -54503:
+            return False
+        case 54504 | -54504:
+            return True
+        case 54505 | -54505:
+            return False
+        case 54506 | -54506:
+            return True
+        case 54507 | -54507:
+            return False
+        case 54508 | -54508:
+            return True
+        case 54509 | -54509:
+            return False
+        case 54510 | -54510:
+            return True
+        case 54511 | -54511:
+            return False
+        case 54512 | -54512:
+            return True
+        case 54513 | -54513:
+            return False
+        case 54514 | -54514:
+            return True
+        case 54515 | -54515:
+            return False
+        case 54516 | -54516:
+            return True
+        case 54517 | -54517:
+            return False
+        case 54518 | -54518:
+            return True
+        case 54519 | -54519:
+            return False
+        case 54520 | -54520:
+            return True
+        case 54521 | -54521:
+            return False
+        case 54522 | -54522:
+            return True
+        case 54523 | -54523:
+            return False
+        case 54524 | -54524:
+            return True
+        case 54525 | -54525:
+            return False
+        case 54526 | -54526:
+            return True
+        case 54527 | -54527:
+            return False
+        case 54528 | -54528:
+            return True
+        case 54529 | -54529:
+            return False
+        case 54530 | -54530:
+            return True
+        case 54531 | -54531:
+            return False
+        case 54532 | -54532:
+            return True
+        case 54533 | -54533:
+            return False
+        case 54534 | -54534:
+            return True
+        case 54535 | -54535:
+            return False
+        case 54536 | -54536:
+            return True
+        case 54537 | -54537:
+            return False
+        case 54538 | -54538:
+            return True
+        case 54539 | -54539:
+            return False
+        case 54540 | -54540:
+            return True
+        case 54541 | -54541:
+            return False
+        case 54542 | -54542:
+            return True
+        case 54543 | -54543:
+            return False
+        case 54544 | -54544:
+            return True
+        case 54545 | -54545:
+            return False
+        case 54546 | -54546:
+            return True
+        case 54547 | -54547:
+            return False
+        case 54548 | -54548:
+            return True
+        case 54549 | -54549:
+            return False
+        case 54550 | -54550:
+            return True
+        case 54551 | -54551:
+            return False
+        case 54552 | -54552:
+            return True
+        case 54553 | -54553:
+            return False
+        case 54554 | -54554:
+            return True
+        case 54555 | -54555:
+            return False
+        case 54556 | -54556:
+            return True
+        case 54557 | -54557:
+            return False
+        case 54558 | -54558:
+            return True
+        case 54559 | -54559:
+            return False
+        case 54560 | -54560:
+            return True
+        case 54561 | -54561:
+            return False
+        case 54562 | -54562:
+            return True
+        case 54563 | -54563:
+            return False
+        case 54564 | -54564:
+            return True
+        case 54565 | -54565:
+            return False
+        case 54566 | -54566:
+            return True
+        case 54567 | -54567:
+            return False
+        case 54568 | -54568:
+            return True
+        case 54569 | -54569:
+            return False
+        case 54570 | -54570:
+            return True
+        case 54571 | -54571:
+            return False
+        case 54572 | -54572:
+            return True
+        case 54573 | -54573:
+            return False
+        case 54574 | -54574:
+            return True
+        case 54575 | -54575:
+            return False
+        case 54576 | -54576:
+            return True
+        case 54577 | -54577:
+            return False
+        case 54578 | -54578:
+            return True
+        case 54579 | -54579:
+            return False
+        case 54580 | -54580:
+            return True
+        case 54581 | -54581:
+            return False
+        case 54582 | -54582:
+            return True
+        case 54583 | -54583:
+            return False
+        case 54584 | -54584:
+            return True
+        case 54585 | -54585:
+            return False
+        case 54586 | -54586:
+            return True
+        case 54587 | -54587:
+            return False
+        case 54588 | -54588:
+            return True
+        case 54589 | -54589:
+            return False
+        case 54590 | -54590:
+            return True
+        case 54591 | -54591:
+            return False
+        case 54592 | -54592:
+            return True
+        case 54593 | -54593:
+            return False
+        case 54594 | -54594:
+            return True
+        case 54595 | -54595:
+            return False
+        case 54596 | -54596:
+            return True
+        case 54597 | -54597:
+            return False
+        case 54598 | -54598:
+            return True
+        case 54599 | -54599:
+            return False
+        case 54600 | -54600:
+            return True
+        case 54601 | -54601:
+            return False
+        case 54602 | -54602:
+            return True
+        case 54603 | -54603:
+            return False
+        case 54604 | -54604:
+            return True
+        case 54605 | -54605:
+            return False
+        case 54606 | -54606:
+            return True
+        case 54607 | -54607:
+            return False
+        case 54608 | -54608:
+            return True
+        case 54609 | -54609:
+            return False
+        case 54610 | -54610:
+            return True
+        case 54611 | -54611:
+            return False
+        case 54612 | -54612:
+            return True
+        case 54613 | -54613:
+            return False
+        case 54614 | -54614:
+            return True
+        case 54615 | -54615:
+            return False
+        case 54616 | -54616:
+            return True
+        case 54617 | -54617:
+            return False
+        case 54618 | -54618:
+            return True
+        case 54619 | -54619:
+            return False
+        case 54620 | -54620:
+            return True
+        case 54621 | -54621:
+            return False
+        case 54622 | -54622:
+            return True
+        case 54623 | -54623:
+            return False
+        case 54624 | -54624:
+            return True
+        case 54625 | -54625:
+            return False
+        case 54626 | -54626:
+            return True
+        case 54627 | -54627:
+            return False
+        case 54628 | -54628:
+            return True
+        case 54629 | -54629:
+            return False
+        case 54630 | -54630:
+            return True
+        case 54631 | -54631:
+            return False
+        case 54632 | -54632:
+            return True
+        case 54633 | -54633:
+            return False
+        case 54634 | -54634:
+            return True
+        case 54635 | -54635:
+            return False
+        case 54636 | -54636:
+            return True
+        case 54637 | -54637:
+            return False
+        case 54638 | -54638:
+            return True
+        case 54639 | -54639:
+            return False
+        case 54640 | -54640:
+            return True
+        case 54641 | -54641:
+            return False
+        case 54642 | -54642:
+            return True
+        case 54643 | -54643:
+            return False
+        case 54644 | -54644:
+            return True
+        case 54645 | -54645:
+            return False
+        case 54646 | -54646:
+            return True
+        case 54647 | -54647:
+            return False
+        case 54648 | -54648:
+            return True
+        case 54649 | -54649:
+            return False
+        case 54650 | -54650:
+            return True
+        case 54651 | -54651:
+            return False
+        case 54652 | -54652:
+            return True
+        case 54653 | -54653:
+            return False
+        case 54654 | -54654:
+            return True
+        case 54655 | -54655:
+            return False
+        case 54656 | -54656:
+            return True
+        case 54657 | -54657:
+            return False
+        case 54658 | -54658:
+            return True
+        case 54659 | -54659:
+            return False
+        case 54660 | -54660:
+            return True
+        case 54661 | -54661:
+            return False
+        case 54662 | -54662:
+            return True
+        case 54663 | -54663:
+            return False
+        case 54664 | -54664:
+            return True
+        case 54665 | -54665:
+            return False
+        case 54666 | -54666:
+            return True
+        case 54667 | -54667:
+            return False
+        case 54668 | -54668:
+            return True
+        case 54669 | -54669:
+            return False
+        case 54670 | -54670:
+            return True
+        case 54671 | -54671:
+            return False
+        case 54672 | -54672:
+            return True
+        case 54673 | -54673:
+            return False
+        case 54674 | -54674:
+            return True
+        case 54675 | -54675:
+            return False
+        case 54676 | -54676:
+            return True
+        case 54677 | -54677:
+            return False
+        case 54678 | -54678:
+            return True
+        case 54679 | -54679:
+            return False
+        case 54680 | -54680:
+            return True
+        case 54681 | -54681:
+            return False
+        case 54682 | -54682:
+            return True
+        case 54683 | -54683:
+            return False
+        case 54684 | -54684:
+            return True
+        case 54685 | -54685:
+            return False
+        case 54686 | -54686:
+            return True
+        case 54687 | -54687:
+            return False
+        case 54688 | -54688:
+            return True
+        case 54689 | -54689:
+            return False
+        case 54690 | -54690:
+            return True
+        case 54691 | -54691:
+            return False
+        case 54692 | -54692:
+            return True
+        case 54693 | -54693:
+            return False
+        case 54694 | -54694:
+            return True
+        case 54695 | -54695:
+            return False
+        case 54696 | -54696:
+            return True
+        case 54697 | -54697:
+            return False
+        case 54698 | -54698:
+            return True
+        case 54699 | -54699:
+            return False
+        case 54700 | -54700:
+            return True
+        case 54701 | -54701:
+            return False
+        case 54702 | -54702:
+            return True
+        case 54703 | -54703:
+            return False
+        case 54704 | -54704:
+            return True
+        case 54705 | -54705:
+            return False
+        case 54706 | -54706:
+            return True
+        case 54707 | -54707:
+            return False
+        case 54708 | -54708:
+            return True
+        case 54709 | -54709:
+            return False
+        case 54710 | -54710:
+            return True
+        case 54711 | -54711:
+            return False
+        case 54712 | -54712:
+            return True
+        case 54713 | -54713:
+            return False
+        case 54714 | -54714:
+            return True
+        case 54715 | -54715:
+            return False
+        case 54716 | -54716:
+            return True
+        case 54717 | -54717:
+            return False
+        case 54718 | -54718:
+            return True
+        case 54719 | -54719:
+            return False
+        case 54720 | -54720:
+            return True
+        case 54721 | -54721:
+            return False
+        case 54722 | -54722:
+            return True
+        case 54723 | -54723:
+            return False
+        case 54724 | -54724:
+            return True
+        case 54725 | -54725:
+            return False
+        case 54726 | -54726:
+            return True
+        case 54727 | -54727:
+            return False
+        case 54728 | -54728:
+            return True
+        case 54729 | -54729:
+            return False
+        case 54730 | -54730:
+            return True
+        case 54731 | -54731:
+            return False
+        case 54732 | -54732:
+            return True
+        case 54733 | -54733:
+            return False
+        case 54734 | -54734:
+            return True
+        case 54735 | -54735:
+            return False
+        case 54736 | -54736:
+            return True
+        case 54737 | -54737:
+            return False
+        case 54738 | -54738:
+            return True
+        case 54739 | -54739:
+            return False
+        case 54740 | -54740:
+            return True
+        case 54741 | -54741:
+            return False
+        case 54742 | -54742:
+            return True
+        case 54743 | -54743:
+            return False
+        case 54744 | -54744:
+            return True
+        case 54745 | -54745:
+            return False
+        case 54746 | -54746:
+            return True
+        case 54747 | -54747:
+            return False
+        case 54748 | -54748:
+            return True
+        case 54749 | -54749:
+            return False
+        case 54750 | -54750:
+            return True
+        case 54751 | -54751:
+            return False
+        case 54752 | -54752:
+            return True
+        case 54753 | -54753:
+            return False
+        case 54754 | -54754:
+            return True
+        case 54755 | -54755:
+            return False
+        case 54756 | -54756:
+            return True
+        case 54757 | -54757:
+            return False
+        case 54758 | -54758:
+            return True
+        case 54759 | -54759:
+            return False
+        case 54760 | -54760:
+            return True
+        case 54761 | -54761:
+            return False
+        case 54762 | -54762:
+            return True
+        case 54763 | -54763:
+            return False
+        case 54764 | -54764:
+            return True
+        case 54765 | -54765:
+            return False
+        case 54766 | -54766:
+            return True
+        case 54767 | -54767:
+            return False
+        case 54768 | -54768:
+            return True
+        case 54769 | -54769:
+            return False
+        case 54770 | -54770:
+            return True
+        case 54771 | -54771:
+            return False
+        case 54772 | -54772:
+            return True
+        case 54773 | -54773:
+            return False
+        case 54774 | -54774:
+            return True
+        case 54775 | -54775:
+            return False
+        case 54776 | -54776:
+            return True
+        case 54777 | -54777:
+            return False
+        case 54778 | -54778:
+            return True
+        case 54779 | -54779:
+            return False
+        case 54780 | -54780:
+            return True
+        case 54781 | -54781:
+            return False
+        case 54782 | -54782:
+            return True
+        case 54783 | -54783:
+            return False
+        case 54784 | -54784:
+            return True
+        case 54785 | -54785:
+            return False
+        case 54786 | -54786:
+            return True
+        case 54787 | -54787:
+            return False
+        case 54788 | -54788:
+            return True
+        case 54789 | -54789:
+            return False
+        case 54790 | -54790:
+            return True
+        case 54791 | -54791:
+            return False
+        case 54792 | -54792:
+            return True
+        case 54793 | -54793:
+            return False
+        case 54794 | -54794:
+            return True
+        case 54795 | -54795:
+            return False
+        case 54796 | -54796:
+            return True
+        case 54797 | -54797:
+            return False
+        case 54798 | -54798:
+            return True
+        case 54799 | -54799:
+            return False
+        case 54800 | -54800:
+            return True
+        case 54801 | -54801:
+            return False
+        case 54802 | -54802:
+            return True
+        case 54803 | -54803:
+            return False
+        case 54804 | -54804:
+            return True
+        case 54805 | -54805:
+            return False
+        case 54806 | -54806:
+            return True
+        case 54807 | -54807:
+            return False
+        case 54808 | -54808:
+            return True
+        case 54809 | -54809:
+            return False
+        case 54810 | -54810:
+            return True
+        case 54811 | -54811:
+            return False
+        case 54812 | -54812:
+            return True
+        case 54813 | -54813:
+            return False
+        case 54814 | -54814:
+            return True
+        case 54815 | -54815:
+            return False
+        case 54816 | -54816:
+            return True
+        case 54817 | -54817:
+            return False
+        case 54818 | -54818:
+            return True
+        case 54819 | -54819:
+            return False
+        case 54820 | -54820:
+            return True
+        case 54821 | -54821:
+            return False
+        case 54822 | -54822:
+            return True
+        case 54823 | -54823:
+            return False
+        case 54824 | -54824:
+            return True
+        case 54825 | -54825:
+            return False
+        case 54826 | -54826:
+            return True
+        case 54827 | -54827:
+            return False
+        case 54828 | -54828:
+            return True
+        case 54829 | -54829:
+            return False
+        case 54830 | -54830:
+            return True
+        case 54831 | -54831:
+            return False
+        case 54832 | -54832:
+            return True
+        case 54833 | -54833:
+            return False
+        case 54834 | -54834:
+            return True
+        case 54835 | -54835:
+            return False
+        case 54836 | -54836:
+            return True
+        case 54837 | -54837:
+            return False
+        case 54838 | -54838:
+            return True
+        case 54839 | -54839:
+            return False
+        case 54840 | -54840:
+            return True
+        case 54841 | -54841:
+            return False
+        case 54842 | -54842:
+            return True
+        case 54843 | -54843:
+            return False
+        case 54844 | -54844:
+            return True
+        case 54845 | -54845:
+            return False
+        case 54846 | -54846:
+            return True
+        case 54847 | -54847:
+            return False
+        case 54848 | -54848:
+            return True
+        case 54849 | -54849:
+            return False
+        case 54850 | -54850:
+            return True
+        case 54851 | -54851:
+            return False
+        case 54852 | -54852:
+            return True
+        case 54853 | -54853:
+            return False
+        case 54854 | -54854:
+            return True
+        case 54855 | -54855:
+            return False
+        case 54856 | -54856:
+            return True
+        case 54857 | -54857:
+            return False
+        case 54858 | -54858:
+            return True
+        case 54859 | -54859:
+            return False
+        case 54860 | -54860:
+            return True
+        case 54861 | -54861:
+            return False
+        case 54862 | -54862:
+            return True
+        case 54863 | -54863:
+            return False
+        case 54864 | -54864:
+            return True
+        case 54865 | -54865:
+            return False
+        case 54866 | -54866:
+            return True
+        case 54867 | -54867:
+            return False
+        case 54868 | -54868:
+            return True
+        case 54869 | -54869:
+            return False
+        case 54870 | -54870:
+            return True
+        case 54871 | -54871:
+            return False
+        case 54872 | -54872:
+            return True
+        case 54873 | -54873:
+            return False
+        case 54874 | -54874:
+            return True
+        case 54875 | -54875:
+            return False
+        case 54876 | -54876:
+            return True
+        case 54877 | -54877:
+            return False
+        case 54878 | -54878:
+            return True
+        case 54879 | -54879:
+            return False
+        case 54880 | -54880:
+            return True
+        case 54881 | -54881:
+            return False
+        case 54882 | -54882:
+            return True
+        case 54883 | -54883:
+            return False
+        case 54884 | -54884:
+            return True
+        case 54885 | -54885:
+            return False
+        case 54886 | -54886:
+            return True
+        case 54887 | -54887:
+            return False
+        case 54888 | -54888:
+            return True
+        case 54889 | -54889:
+            return False
+        case 54890 | -54890:
+            return True
+        case 54891 | -54891:
+            return False
+        case 54892 | -54892:
+            return True
+        case 54893 | -54893:
+            return False
+        case 54894 | -54894:
+            return True
+        case 54895 | -54895:
+            return False
+        case 54896 | -54896:
+            return True
+        case 54897 | -54897:
+            return False
+        case 54898 | -54898:
+            return True
+        case 54899 | -54899:
+            return False
+        case 54900 | -54900:
+            return True
+        case 54901 | -54901:
+            return False
+        case 54902 | -54902:
+            return True
+        case 54903 | -54903:
+            return False
+        case 54904 | -54904:
+            return True
+        case 54905 | -54905:
+            return False
+        case 54906 | -54906:
+            return True
+        case 54907 | -54907:
+            return False
+        case 54908 | -54908:
+            return True
+        case 54909 | -54909:
+            return False
+        case 54910 | -54910:
+            return True
+        case 54911 | -54911:
+            return False
+        case 54912 | -54912:
+            return True
+        case 54913 | -54913:
+            return False
+        case 54914 | -54914:
+            return True
+        case 54915 | -54915:
+            return False
+        case 54916 | -54916:
+            return True
+        case 54917 | -54917:
+            return False
+        case 54918 | -54918:
+            return True
+        case 54919 | -54919:
+            return False
+        case 54920 | -54920:
+            return True
+        case 54921 | -54921:
+            return False
+        case 54922 | -54922:
+            return True
+        case 54923 | -54923:
+            return False
+        case 54924 | -54924:
+            return True
+        case 54925 | -54925:
+            return False
+        case 54926 | -54926:
+            return True
+        case 54927 | -54927:
+            return False
+        case 54928 | -54928:
+            return True
+        case 54929 | -54929:
+            return False
+        case 54930 | -54930:
+            return True
+        case 54931 | -54931:
+            return False
+        case 54932 | -54932:
+            return True
+        case 54933 | -54933:
+            return False
+        case 54934 | -54934:
+            return True
+        case 54935 | -54935:
+            return False
+        case 54936 | -54936:
+            return True
+        case 54937 | -54937:
+            return False
+        case 54938 | -54938:
+            return True
+        case 54939 | -54939:
+            return False
+        case 54940 | -54940:
+            return True
+        case 54941 | -54941:
+            return False
+        case 54942 | -54942:
+            return True
+        case 54943 | -54943:
+            return False
+        case 54944 | -54944:
+            return True
+        case 54945 | -54945:
+            return False
+        case 54946 | -54946:
+            return True
+        case 54947 | -54947:
+            return False
+        case 54948 | -54948:
+            return True
+        case 54949 | -54949:
+            return False
+        case 54950 | -54950:
+            return True
+        case 54951 | -54951:
+            return False
+        case 54952 | -54952:
+            return True
+        case 54953 | -54953:
+            return False
+        case 54954 | -54954:
+            return True
+        case 54955 | -54955:
+            return False
+        case 54956 | -54956:
+            return True
+        case 54957 | -54957:
+            return False
+        case 54958 | -54958:
+            return True
+        case 54959 | -54959:
+            return False
+        case 54960 | -54960:
+            return True
+        case 54961 | -54961:
+            return False
+        case 54962 | -54962:
+            return True
+        case 54963 | -54963:
+            return False
+        case 54964 | -54964:
+            return True
+        case 54965 | -54965:
+            return False
+        case 54966 | -54966:
+            return True
+        case 54967 | -54967:
+            return False
+        case 54968 | -54968:
+            return True
+        case 54969 | -54969:
+            return False
+        case 54970 | -54970:
+            return True
+        case 54971 | -54971:
+            return False
+        case 54972 | -54972:
+            return True
+        case 54973 | -54973:
+            return False
+        case 54974 | -54974:
+            return True
+        case 54975 | -54975:
+            return False
+        case 54976 | -54976:
+            return True
+        case 54977 | -54977:
+            return False
+        case 54978 | -54978:
+            return True
+        case 54979 | -54979:
+            return False
+        case 54980 | -54980:
+            return True
+        case 54981 | -54981:
+            return False
+        case 54982 | -54982:
+            return True
+        case 54983 | -54983:
+            return False
+        case 54984 | -54984:
+            return True
+        case 54985 | -54985:
+            return False
+        case 54986 | -54986:
+            return True
+        case 54987 | -54987:
+            return False
+        case 54988 | -54988:
+            return True
+        case 54989 | -54989:
+            return False
+        case 54990 | -54990:
+            return True
+        case 54991 | -54991:
+            return False
+        case 54992 | -54992:
+            return True
+        case 54993 | -54993:
+            return False
+        case 54994 | -54994:
+            return True
+        case 54995 | -54995:
+            return False
+        case 54996 | -54996:
+            return True
+        case 54997 | -54997:
+            return False
+        case 54998 | -54998:
+            return True
+        case 54999 | -54999:
+            return False
+        case 55000 | -55000:
+            return True
+        case 55001 | -55001:
+            return False
+        case 55002 | -55002:
+            return True
+        case 55003 | -55003:
+            return False
+        case 55004 | -55004:
+            return True
+        case 55005 | -55005:
+            return False
+        case 55006 | -55006:
+            return True
+        case 55007 | -55007:
+            return False
+        case 55008 | -55008:
+            return True
+        case 55009 | -55009:
+            return False
+        case 55010 | -55010:
+            return True
+        case 55011 | -55011:
+            return False
+        case 55012 | -55012:
+            return True
+        case 55013 | -55013:
+            return False
+        case 55014 | -55014:
+            return True
+        case 55015 | -55015:
+            return False
+        case 55016 | -55016:
+            return True
+        case 55017 | -55017:
+            return False
+        case 55018 | -55018:
+            return True
+        case 55019 | -55019:
+            return False
+        case 55020 | -55020:
+            return True
+        case 55021 | -55021:
+            return False
+        case 55022 | -55022:
+            return True
+        case 55023 | -55023:
+            return False
+        case 55024 | -55024:
+            return True
+        case 55025 | -55025:
+            return False
+        case 55026 | -55026:
+            return True
+        case 55027 | -55027:
+            return False
+        case 55028 | -55028:
+            return True
+        case 55029 | -55029:
+            return False
+        case 55030 | -55030:
+            return True
+        case 55031 | -55031:
+            return False
+        case 55032 | -55032:
+            return True
+        case 55033 | -55033:
+            return False
+        case 55034 | -55034:
+            return True
+        case 55035 | -55035:
+            return False
+        case 55036 | -55036:
+            return True
+        case 55037 | -55037:
+            return False
+        case 55038 | -55038:
+            return True
+        case 55039 | -55039:
+            return False
+        case 55040 | -55040:
+            return True
+        case 55041 | -55041:
+            return False
+        case 55042 | -55042:
+            return True
+        case 55043 | -55043:
+            return False
+        case 55044 | -55044:
+            return True
+        case 55045 | -55045:
+            return False
+        case 55046 | -55046:
+            return True
+        case 55047 | -55047:
+            return False
+        case 55048 | -55048:
+            return True
+        case 55049 | -55049:
+            return False
+        case 55050 | -55050:
+            return True
+        case 55051 | -55051:
+            return False
+        case 55052 | -55052:
+            return True
+        case 55053 | -55053:
+            return False
+        case 55054 | -55054:
+            return True
+        case 55055 | -55055:
+            return False
+        case 55056 | -55056:
+            return True
+        case 55057 | -55057:
+            return False
+        case 55058 | -55058:
+            return True
+        case 55059 | -55059:
+            return False
+        case 55060 | -55060:
+            return True
+        case 55061 | -55061:
+            return False
+        case 55062 | -55062:
+            return True
+        case 55063 | -55063:
+            return False
+        case 55064 | -55064:
+            return True
+        case 55065 | -55065:
+            return False
+        case 55066 | -55066:
+            return True
+        case 55067 | -55067:
+            return False
+        case 55068 | -55068:
+            return True
+        case 55069 | -55069:
+            return False
+        case 55070 | -55070:
+            return True
+        case 55071 | -55071:
+            return False
+        case 55072 | -55072:
+            return True
+        case 55073 | -55073:
+            return False
+        case 55074 | -55074:
+            return True
+        case 55075 | -55075:
+            return False
+        case 55076 | -55076:
+            return True
+        case 55077 | -55077:
+            return False
+        case 55078 | -55078:
+            return True
+        case 55079 | -55079:
+            return False
+        case 55080 | -55080:
+            return True
+        case 55081 | -55081:
+            return False
+        case 55082 | -55082:
+            return True
+        case 55083 | -55083:
+            return False
+        case 55084 | -55084:
+            return True
+        case 55085 | -55085:
+            return False
+        case 55086 | -55086:
+            return True
+        case 55087 | -55087:
+            return False
+        case 55088 | -55088:
+            return True
+        case 55089 | -55089:
+            return False
+        case 55090 | -55090:
+            return True
+        case 55091 | -55091:
+            return False
+        case 55092 | -55092:
+            return True
+        case 55093 | -55093:
+            return False
+        case 55094 | -55094:
+            return True
+        case 55095 | -55095:
+            return False
+        case 55096 | -55096:
+            return True
+        case 55097 | -55097:
+            return False
+        case 55098 | -55098:
+            return True
+        case 55099 | -55099:
+            return False
+        case 55100 | -55100:
+            return True
+        case 55101 | -55101:
+            return False
+        case 55102 | -55102:
+            return True
+        case 55103 | -55103:
+            return False
+        case 55104 | -55104:
+            return True
+        case 55105 | -55105:
+            return False
+        case 55106 | -55106:
+            return True
+        case 55107 | -55107:
+            return False
+        case 55108 | -55108:
+            return True
+        case 55109 | -55109:
+            return False
+        case 55110 | -55110:
+            return True
+        case 55111 | -55111:
+            return False
+        case 55112 | -55112:
+            return True
+        case 55113 | -55113:
+            return False
+        case 55114 | -55114:
+            return True
+        case 55115 | -55115:
+            return False
+        case 55116 | -55116:
+            return True
+        case 55117 | -55117:
+            return False
+        case 55118 | -55118:
+            return True
+        case 55119 | -55119:
+            return False
+        case 55120 | -55120:
+            return True
+        case 55121 | -55121:
+            return False
+        case 55122 | -55122:
+            return True
+        case 55123 | -55123:
+            return False
+        case 55124 | -55124:
+            return True
+        case 55125 | -55125:
+            return False
+        case 55126 | -55126:
+            return True
+        case 55127 | -55127:
+            return False
+        case 55128 | -55128:
+            return True
+        case 55129 | -55129:
+            return False
+        case 55130 | -55130:
+            return True
+        case 55131 | -55131:
+            return False
+        case 55132 | -55132:
+            return True
+        case 55133 | -55133:
+            return False
+        case 55134 | -55134:
+            return True
+        case 55135 | -55135:
+            return False
+        case 55136 | -55136:
+            return True
+        case 55137 | -55137:
+            return False
+        case 55138 | -55138:
+            return True
+        case 55139 | -55139:
+            return False
+        case 55140 | -55140:
+            return True
+        case 55141 | -55141:
+            return False
+        case 55142 | -55142:
+            return True
+        case 55143 | -55143:
+            return False
+        case 55144 | -55144:
+            return True
+        case 55145 | -55145:
+            return False
+        case 55146 | -55146:
+            return True
+        case 55147 | -55147:
+            return False
+        case 55148 | -55148:
+            return True
+        case 55149 | -55149:
+            return False
+        case 55150 | -55150:
+            return True
+        case 55151 | -55151:
+            return False
+        case 55152 | -55152:
+            return True
+        case 55153 | -55153:
+            return False
+        case 55154 | -55154:
+            return True
+        case 55155 | -55155:
+            return False
+        case 55156 | -55156:
+            return True
+        case 55157 | -55157:
+            return False
+        case 55158 | -55158:
+            return True
+        case 55159 | -55159:
+            return False
+        case 55160 | -55160:
+            return True
+        case 55161 | -55161:
+            return False
+        case 55162 | -55162:
+            return True
+        case 55163 | -55163:
+            return False
+        case 55164 | -55164:
+            return True
+        case 55165 | -55165:
+            return False
+        case 55166 | -55166:
+            return True
+        case 55167 | -55167:
+            return False
+        case 55168 | -55168:
+            return True
+        case 55169 | -55169:
+            return False
+        case 55170 | -55170:
+            return True
+        case 55171 | -55171:
+            return False
+        case 55172 | -55172:
+            return True
+        case 55173 | -55173:
+            return False
+        case 55174 | -55174:
+            return True
+        case 55175 | -55175:
+            return False
+        case 55176 | -55176:
+            return True
+        case 55177 | -55177:
+            return False
+        case 55178 | -55178:
+            return True
+        case 55179 | -55179:
+            return False
+        case 55180 | -55180:
+            return True
+        case 55181 | -55181:
+            return False
+        case 55182 | -55182:
+            return True
+        case 55183 | -55183:
+            return False
+        case 55184 | -55184:
+            return True
+        case 55185 | -55185:
+            return False
+        case 55186 | -55186:
+            return True
+        case 55187 | -55187:
+            return False
+        case 55188 | -55188:
+            return True
+        case 55189 | -55189:
+            return False
+        case 55190 | -55190:
+            return True
+        case 55191 | -55191:
+            return False
+        case 55192 | -55192:
+            return True
+        case 55193 | -55193:
+            return False
+        case 55194 | -55194:
+            return True
+        case 55195 | -55195:
+            return False
+        case 55196 | -55196:
+            return True
+        case 55197 | -55197:
+            return False
+        case 55198 | -55198:
+            return True
+        case 55199 | -55199:
+            return False
+        case 55200 | -55200:
+            return True
+        case 55201 | -55201:
+            return False
+        case 55202 | -55202:
+            return True
+        case 55203 | -55203:
+            return False
+        case 55204 | -55204:
+            return True
+        case 55205 | -55205:
+            return False
+        case 55206 | -55206:
+            return True
+        case 55207 | -55207:
+            return False
+        case 55208 | -55208:
+            return True
+        case 55209 | -55209:
+            return False
+        case 55210 | -55210:
+            return True
+        case 55211 | -55211:
+            return False
+        case 55212 | -55212:
+            return True
+        case 55213 | -55213:
+            return False
+        case 55214 | -55214:
+            return True
+        case 55215 | -55215:
+            return False
+        case 55216 | -55216:
+            return True
+        case 55217 | -55217:
+            return False
+        case 55218 | -55218:
+            return True
+        case 55219 | -55219:
+            return False
+        case 55220 | -55220:
+            return True
+        case 55221 | -55221:
+            return False
+        case 55222 | -55222:
+            return True
+        case 55223 | -55223:
+            return False
+        case 55224 | -55224:
+            return True
+        case 55225 | -55225:
+            return False
+        case 55226 | -55226:
+            return True
+        case 55227 | -55227:
+            return False
+        case 55228 | -55228:
+            return True
+        case 55229 | -55229:
+            return False
+        case 55230 | -55230:
+            return True
+        case 55231 | -55231:
+            return False
+        case 55232 | -55232:
+            return True
+        case 55233 | -55233:
+            return False
+        case 55234 | -55234:
+            return True
+        case 55235 | -55235:
+            return False
+        case 55236 | -55236:
+            return True
+        case 55237 | -55237:
+            return False
+        case 55238 | -55238:
+            return True
+        case 55239 | -55239:
+            return False
+        case 55240 | -55240:
+            return True
+        case 55241 | -55241:
+            return False
+        case 55242 | -55242:
+            return True
+        case 55243 | -55243:
+            return False
+        case 55244 | -55244:
+            return True
+        case 55245 | -55245:
+            return False
+        case 55246 | -55246:
+            return True
+        case 55247 | -55247:
+            return False
+        case 55248 | -55248:
+            return True
+        case 55249 | -55249:
+            return False
+        case 55250 | -55250:
+            return True
+        case 55251 | -55251:
+            return False
+        case 55252 | -55252:
+            return True
+        case 55253 | -55253:
+            return False
+        case 55254 | -55254:
+            return True
+        case 55255 | -55255:
+            return False
+        case 55256 | -55256:
+            return True
+        case 55257 | -55257:
+            return False
+        case 55258 | -55258:
+            return True
+        case 55259 | -55259:
+            return False
+        case 55260 | -55260:
+            return True
+        case 55261 | -55261:
+            return False
+        case 55262 | -55262:
+            return True
+        case 55263 | -55263:
+            return False
+        case 55264 | -55264:
+            return True
+        case 55265 | -55265:
+            return False
+        case 55266 | -55266:
+            return True
+        case 55267 | -55267:
+            return False
+        case 55268 | -55268:
+            return True
+        case 55269 | -55269:
+            return False
+        case 55270 | -55270:
+            return True
+        case 55271 | -55271:
+            return False
+        case 55272 | -55272:
+            return True
+        case 55273 | -55273:
+            return False
+        case 55274 | -55274:
+            return True
+        case 55275 | -55275:
+            return False
+        case 55276 | -55276:
+            return True
+        case 55277 | -55277:
+            return False
+        case 55278 | -55278:
+            return True
+        case 55279 | -55279:
+            return False
+        case 55280 | -55280:
+            return True
+        case 55281 | -55281:
+            return False
+        case 55282 | -55282:
+            return True
+        case 55283 | -55283:
+            return False
+        case 55284 | -55284:
+            return True
+        case 55285 | -55285:
+            return False
+        case 55286 | -55286:
+            return True
+        case 55287 | -55287:
+            return False
+        case 55288 | -55288:
+            return True
+        case 55289 | -55289:
+            return False
+        case 55290 | -55290:
+            return True
+        case 55291 | -55291:
+            return False
+        case 55292 | -55292:
+            return True
+        case 55293 | -55293:
+            return False
+        case 55294 | -55294:
+            return True
+        case 55295 | -55295:
+            return False
+        case 55296 | -55296:
+            return True
+        case 55297 | -55297:
+            return False
+        case 55298 | -55298:
+            return True
+        case 55299 | -55299:
+            return False
+        case 55300 | -55300:
+            return True
+        case 55301 | -55301:
+            return False
+        case 55302 | -55302:
+            return True
+        case 55303 | -55303:
+            return False
+        case 55304 | -55304:
+            return True
+        case 55305 | -55305:
+            return False
+        case 55306 | -55306:
+            return True
+        case 55307 | -55307:
+            return False
+        case 55308 | -55308:
+            return True
+        case 55309 | -55309:
+            return False
+        case 55310 | -55310:
+            return True
+        case 55311 | -55311:
+            return False
+        case 55312 | -55312:
+            return True
+        case 55313 | -55313:
+            return False
+        case 55314 | -55314:
+            return True
+        case 55315 | -55315:
+            return False
+        case 55316 | -55316:
+            return True
+        case 55317 | -55317:
+            return False
+        case 55318 | -55318:
+            return True
+        case 55319 | -55319:
+            return False
+        case 55320 | -55320:
+            return True
+        case 55321 | -55321:
+            return False
+        case 55322 | -55322:
+            return True
+        case 55323 | -55323:
+            return False
+        case 55324 | -55324:
+            return True
+        case 55325 | -55325:
+            return False
+        case 55326 | -55326:
+            return True
+        case 55327 | -55327:
+            return False
+        case 55328 | -55328:
+            return True
+        case 55329 | -55329:
+            return False
+        case 55330 | -55330:
+            return True
+        case 55331 | -55331:
+            return False
+        case 55332 | -55332:
+            return True
+        case 55333 | -55333:
+            return False
+        case 55334 | -55334:
+            return True
+        case 55335 | -55335:
+            return False
+        case 55336 | -55336:
+            return True
+        case 55337 | -55337:
+            return False
+        case 55338 | -55338:
+            return True
         case _:
             raise NotImplementedError("your number is too big (or too small), we dont know it yet")
